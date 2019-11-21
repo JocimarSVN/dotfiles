@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>JSON Lite Options</title>
+	<style>
+body, #pre {
+	background: #fff;
+	font: 14px/1.8
+		system-ui, -apple-system, BlinkMacSystemFont,
+		"Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans",
+		"Helvetica Neue", sans-serif;
+}
+#pre {
+	text-align: center;
+	white-space: nowrap;
+}
+label {
+	display: block;
+	position: relative;
+	overflow: auto;
+	display: flex;
+	align-items: center;
+	padding: 2px;
+}
+label>:last-child {
+	margin-left: auto;
+}
+input[type=text], select {
+	width: 50%;
+	float: right;
+}
+input[type=checkbox] {
+	position: absolute;
+	left: 50%;
+	top: 5px;
+}
+	</style>
+</head>
+
+<body>
+	<pre id=pre>
+		<a name=formatBody href=#>Format page</a> |
+		<a name=formatPlain href=#>Show source</a> |
+		<a name=formatEdit href=#>Toggle editable</a> |
+		<a name=openEditor href=#>Open editor</a>
+		<hr>
+	</pre>
+	<form id=form1>
+		<label>Theme<select id="theme">
+			<option value="">default</option>
+			<option value="firefox-dark">firefox-dark</option>
+			<option value="custom">custom</option>
+		</select></label>
+		<div id="custom">
+			<label>Font<input type="text" id="font"></label>
+			<label>Text color<input type="text" id="color"></label>
+			<label>Background color<input type="text" id="bg"></label>
+			<label>Info color<input type="text" id="info"></label>
+			<label>Info hover color<input type="text" id="infoHover"></label>
+			<label>String color<input type="text" id="string"></label>
+			<label>Number color<input type="text" id="number"></label>
+			<label>Boolean color<input type="text" id="bool"></label>
+			<label>Null color<input type="text" id="null"></label>
+			<label>Propertie name color<input type="text" id="property"></label>
+			<label>Error color<input type="text" id="error"></label>
+			<hr>
+		</div>
+		<label>Show menus<input type="checkbox" id="menus"></label>
+		<label>Auto-unescape strings<input type="checkbox" id="unescape"></label>
+		<label>Show formatted dates<select id="showDate">
+			<option>never</option>
+			<option>hover</option>
+			<option>title</option>
+			<option>always</option>
+		</select></label>
+		<label id="dateOpt">Date format<select id="showDateFn">
+			<option>toString</option>
+			<option>toUTCString</option>
+			<option>toISOString</option>
+			<option>toLocaleString</option>
+		</select></label>
+		<label>Auto-format documents<select id="sizeLimit">
+			<option value="0">Off</option>
+			<option value="102400">under 100KB</option>
+			<option value="1048576">under 1MB</option>
+			<option value="10485760">under 10MB</option>
+			<option value="104857600">under 100MB</option>
+		</select></label>
+		<label>Show size<select id="showSize">
+			<option>never</option>
+			<option>hover</option>
+			<option>title</option>
+			<option>collapsed</option>
+			<option>always</option>
+		</select></label>
+		<label>Open links in new tab<input type="checkbox" id="newtab"></label>
+		<button type="submit">Save</button>
+	</form>
+	<script src="background.js"></script>
+	<script src="options.js"></script>
+</body>
+</html>
+

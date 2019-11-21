@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="">
+  <name>Starcraft KDE</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Rokin</author>
+  <homepage>https://store.kde.org/p/1231525</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>67</rating>
+  <downloads>46140</downloads>
+  <installedfile>/tmp/starcraft.sddm.tar.gz</installedfile>
+  <id>1231525</id>
+  <releasedate>2018-04-27</releasedate>
+  <summary>&lt;strong>Starcraft&lt;/strong> - KDE Plasma.&lt;br />
+ &lt;br />
+&lt;br />
+&lt;br />
+&lt;br />
+&lt;strong>Starcraft : Full theme urls (opendesktop.org) :&lt;/strong>&lt;br />
+&lt;ul>&lt;li> &lt;a href="https://www.opendesktop.org/p/1231520" target="_blank" rel="nofollow">Plasma Look-and-Feel&lt;/a>&lt;/li>&lt;li> &lt;a href="https://www.opendesktop.org/p/1231519" target="_blank" rel="nofollow">Plasma Color Scheme&lt;/a>&lt;/li>&lt;li> &lt;a href="https://www.opendesktop.org/p/1231518" target="_blank" rel="nofollow">Plasma Theme&lt;/a>&lt;/li>&lt;li> &lt;a href="https://www.opendesktop.org/p/1231523" target="_blank" rel="nofollow">Aurorae Theme&lt;/a>&lt;/li>&lt;li> &lt;a href="https://www.opendesktop.org/p/1231521" target="_blank" rel="nofollow">Kvantum Theme&lt;/a>&lt;/li>&lt;li> &lt;a href="https://www.opendesktop.org/p/1231525" target="_blank" rel="nofollow">SDDM Login Theme&lt;/a>&lt;/li>&lt;li> &lt;a href="https://www.opendesktop.org/p/1231526" target="_blank" rel="nofollow">Wallpapers&lt;/a>&lt;/li>&lt;li> &lt;a href="https://github.com/Rokin05/starcraft-kde" target="_blank" rel="nofollow">Starcraft on Github&lt;/a>&lt;/li>&lt;/ul></summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/5/0/d/c1ce3a3757acb47398024e0957ea7695f9d2.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/5/0/d/c1ce3a3757acb47398024e0957ea7695f9d2.png</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/id/1524840918/s/4102cbf664a240b1240e022db37ee49b/t/1574231029/o/1/starcraft.sddm.tar.gz</payload>
+  <tags>linux,rokin,starcraft,game,gplv3,kvantum,plasma,unix,source-package</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

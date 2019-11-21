@@ -1,0 +1,16 @@
+[DownloadDialog Settings]
+Height 1080=494
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=294689.jpg,file:$HOME/Imagens/Wallpaper_Debian/294689.jpg
+Recent URLs[$e]=file:$HOME/Imagens/Wallpaper_Debian/
+
+[MainWindow]
+Height 1080=700
+Height 768=700
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABAAAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1024
+Width 1920=1024

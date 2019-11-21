@@ -1,0 +1,23 @@
+2019/11/21-10:12:21.606 3a30 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/11/21-10:12:21.606 3a30 Recovering log #345
+2019/11/21-10:12:21.646 3a30 Reusing old log /home/jocimar/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000345.log 
+2019/11/21-10:13:22.555 3b17 Level-0 table #349: started
+2019/11/21-10:13:22.704 3b17 Level-0 table #349: 4793215 bytes OK
+2019/11/21-10:13:22.737 3b17 Delete type=0 #345
+2019/11/21-10:14:42.414 3b17 Level-0 table #351: started
+2019/11/21-10:14:42.615 3b17 Level-0 table #351: 4791442 bytes OK
+2019/11/21-10:14:42.643 3b17 Delete type=0 #348
+2019/11/21-10:14:42.824 3b17 Compacting 4@0 + 2@1 files
+2019/11/21-10:14:43.184 3b17 Generated table #352@0: 1 keys, 4791161 bytes
+2019/11/21-10:14:43.243 3b17 Generated table #353@0: 2 keys, 379 bytes
+2019/11/21-10:14:43.243 3b17 Compacted 4@0 + 2@1 files => 4791540 bytes
+2019/11/21-10:14:43.275 3b17 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/11/21-10:14:43.275 3b17 Delete type=2 #349
+2019/11/21-10:14:43.275 3b17 Delete type=2 #342
+2019/11/21-10:14:43.275 3b17 Delete type=2 #344
+2019/11/21-10:14:43.275 3b17 Delete type=2 #341
+2019/11/21-10:14:43.275 3b17 Delete type=2 #351
+2019/11/21-10:14:43.275 3b17 Delete type=2 #346
+2019/11/21-11:13:23.054 3b17 Level-0 table #355: started
+2019/11/21-11:13:23.195 3b17 Level-0 table #355: 4791355 bytes OK
+2019/11/21-11:13:23.251 3b17 Delete type=0 #350

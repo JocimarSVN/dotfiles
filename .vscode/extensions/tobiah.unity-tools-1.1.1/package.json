@@ -1,0 +1,132 @@
+{
+	"name": "unity-tools",
+	"displayName": "Unity Tools",
+	"description": "Various tools to help with Unity development",
+	"version": "1.1.1",
+	"publisher": "Tobiah",
+	"engines": {
+		"vscode": "^1.31.0"
+	},
+	"license": "SEE LICENSE IN LICENSE.txt",
+	"homepage": "https://github.com/TobiahZ/unity-tools",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/TobiahZ/unity-tools.git"
+	},
+	"categories": [
+		"Other",
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"Unity.unity-debug"
+	],
+	"bugs": "https://github.com/TobiahZ/unity-tools/issues",
+	"keywords": [
+		"unity",
+		"unity3d",
+		"docs",
+		"documentation",
+		"asset store",
+		"multi-root ready"
+	],
+	"activationEvents": [
+		"onCommand:unity-tools.OpenDocs",
+		"onCommand:unity-tools.SearchDocs",
+		"onCommand:unity-tools.SearchMSFTDocs",
+		"onCommand:unity-tools.OpenVSCodeDocs",
+		"onCommand:unity-tools.CreateDirectories"
+	],
+	"main": "./out/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "unity-tools.OpenDocs",
+				"title": "Unity Tools: Open Documentation for Selection"
+			},
+			{
+				"command": "unity-tools.SearchDocs",
+				"title": "Unity Tools: Search Documentation"
+			},
+			{
+				"command": "unity-tools.SearchMSFTDocs",
+				"title": "Unity Tools: Search MSFT Documentation"
+			},
+			{
+				"command": "unity-tools.OpenVSCodeDocs",
+				"title": "Unity Tools: Open VSCode Documentation"
+			},
+			{
+				"command": "unity-tools.CreateDirectories",
+				"title": "Unity Tools: Generate Organizational Folders"
+			}
+		],
+		"menus": {
+			"editor/context": [
+				{
+					"when": "editorHasSelection && editorLangId == 'csharp' && config.unity-tools.enableRightClickSearch",
+					"command": "unity-tools.OpenDocs",
+					"group": "navigation@1"
+				}
+			]
+		},
+		"keybindings": [
+			{
+				"key": "ctrl+'",
+				"mac": "cmd+'",
+				"when": "editorTextFocus && editorLangId == 'csharp'",
+				"command": "unity-tools.OpenDocs"
+			},
+			{
+				"key": "ctrl+shift+'",
+				"mac": "cmd+shift+'",
+				"when": "editorTextFocus && editorLangId == 'csharp'",
+				"command": "unity-tools.SearchDocs"
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "Unity-Tools Settings",
+			"properties": {
+				"unity-tools.defaultOrganizationFolders": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"default": [
+						"Materials",
+						"Scenes",
+						"Scripts",
+						"Prefabs",
+						"Audio"
+					],
+					"description": "Sets which folders will be generated from the unity-tools.GenerateOrganizationFolders command"
+				},
+				"unity-tools.enableRightClickSearch": {
+					"type": "boolean",
+					"default": true,
+					"description": "Enables the \"Open Documentation\" option on right-click menu."
+				}
+			}
+		}
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.42",
+		"@types/node": "^10.14.8",
+		"tslint": "^5.17.0",
+		"typescript": "^3.5.1",
+		"vscode": "^1.1.34"
+	},
+	"icon": "unity-logo.png",
+	"__metadata": {
+		"id": "df7dc071-4d1a-488b-9984-2f4fc42331f3",
+		"publisherId": "78340c2c-d1af-49be-be2a-52d70f219e0a",
+		"publisherDisplayName": "Tobiah Zarlez"
+	}
+}

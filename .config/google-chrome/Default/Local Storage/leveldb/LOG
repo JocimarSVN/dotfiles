@@ -1,0 +1,6 @@
+2019/11/21-10:12:21.619 3a2b Reusing MANIFEST leveldb/MANIFEST-000001
+2019/11/21-10:12:21.619 3a2b Recovering log #77
+2019/11/21-10:12:21.650 3a2b Reusing old log leveldb/000077.log 
+2019/11/21-10:42:40.644 40f2 Level-0 table #81: started
+2019/11/21-10:42:40.700 40f2 Level-0 table #81: 19095 bytes OK
+2019/11/21-10:42:40.741 40f2 Delete type=0 #77

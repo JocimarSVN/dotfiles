@@ -1,0 +1,18 @@
+2019/11/21-10:12:16.659 3a03 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/11/21-10:12:16.659 3a03 Recovering log #44
+2019/11/21-10:12:16.731 3a03 Reusing old log /home/jocimar/.config/google-chrome/Default/Sync Data/LevelDB/000044.log 
+2019/11/21-10:12:32.824 3b17 Level-0 table #48: started
+2019/11/21-10:12:33.005 3b17 Level-0 table #48: 116164 bytes OK
+2019/11/21-10:12:33.283 3b17 Delete type=0 #44
+2019/11/21-10:12:33.283 3b17 Compacting 4@0 + 1@1 files
+2019/11/21-10:12:33.424 3b17 Generated table #49@0: 606 keys, 126895 bytes
+2019/11/21-10:12:33.424 3b17 Compacted 4@0 + 1@1 files => 126895 bytes
+2019/11/21-10:12:33.681 3b17 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/21-10:12:33.681 3b17 Delete type=2 #39
+2019/11/21-10:12:33.681 3b17 Delete type=2 #43
+2019/11/21-10:12:33.681 3b17 Delete type=2 #41
+2019/11/21-10:12:33.681 3b17 Delete type=2 #45
+2019/11/21-10:12:33.681 3b17 Delete type=2 #48
+2019/11/21-11:00:51.427 3b17 Level-0 table #51: started
+2019/11/21-11:00:51.504 3b17 Level-0 table #51: 104883 bytes OK
+2019/11/21-11:00:51.558 3b17 Delete type=0 #47

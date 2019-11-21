@@ -1,0 +1,5 @@
+2019/11/21-09:24:49.706 2007 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/IndexedDB/https_kabum.soclminer.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/21-09:24:56.625 1196 Level-0 table #5: started
+2019/11/21-09:24:56.658 1196 Level-0 table #5: 569 bytes OK
+2019/11/21-09:24:56.709 1196 Delete type=0 #3
+2019/11/21-09:24:56.709 1196 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

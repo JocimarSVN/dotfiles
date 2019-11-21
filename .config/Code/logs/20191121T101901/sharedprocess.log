@@ -1,0 +1,22 @@
+[2019-11-21 09:19:08.216] [sharedprocess] [info] main {"machineId":"9ed88ad89ca3625950d7f5d691da7b9fac50c3a089361738b03a2b95818df2bf","windowId":2}
+[2019-11-21 09:19:48.228] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-21 09:52:02.464] [sharedprocess] [info] Uninstalling extension: ms-vscode.csharp
+[2019-11-21 09:52:02.468] [sharedprocess] [error] Failed to uninstall extension: ms-vscode.csharp Cannot uninstall extension 'C#'. Extension 'Debugger for Unity' depends on this.
+[2019-11-21 09:52:08.640] [sharedprocess] [info] Uninstalling extension: ms-vscode.csharp
+[2019-11-21 09:52:08.642] [sharedprocess] [error] Failed to uninstall extension: ms-vscode.csharp Cannot uninstall extension 'C#'. Extension 'Debugger for Unity' depends on this.
+[2019-11-21 09:52:09.091] [sharedprocess] [info] Uninstalling extension: ms-vscode.csharp
+[2019-11-21 09:52:09.092] [sharedprocess] [error] Failed to uninstall extension: ms-vscode.csharp Cannot uninstall extension 'C#'. Extension 'Debugger for Unity' depends on this.
+[2019-11-21 10:13:59.733] [sharedprocess] [info] Installing extension: shan.code-settings-sync
+[2019-11-21 10:14:01.614] [sharedprocess] [info] Downloaded extension: shan.code-settings-sync /tmp/2e474e2a-803c-427e-9d06-14afa77f7815
+[2019-11-21 10:14:01.830] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.shan.code-settings-sync-3.4.3: shan.code-settings-sync
+[2019-11-21 10:14:01.830] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/shan.code-settings-sync-3.4.3
+[2019-11-21 10:14:01.836] [sharedprocess] [info] Installation completed. shan.code-settings-sync
+[2019-11-21 10:14:01.898] [sharedprocess] [info] Extensions installed successfully: shan.code-settings-sync
+[2019-11-21 10:37:32.883] [sharedprocess] [info] Uninstalling extension: shan.code-settings-sync
+[2019-11-21 10:37:33.004] [sharedprocess] [info] Successfully uninstalled extension: shan.code-settings-sync
+[2019-11-21 10:37:37.638] [sharedprocess] [info] Installing extension: shan.code-settings-sync
+[2019-11-21 10:37:38.054] [sharedprocess] [info] Downloaded extension: shan.code-settings-sync /tmp/1b812fca-e653-4ac3-b79b-59954924e212
+[2019-11-21 10:37:38.141] [sharedprocess] [info] Removed the extension from uninstalled list: shan.code-settings-sync
+[2019-11-21 10:37:38.186] [sharedprocess] [info] Extensions installed successfully: shan.code-settings-sync
+[2019-11-21 10:37:44.287] [sharedprocess] [info] Uninstalling extension: shan.code-settings-sync
+[2019-11-21 10:37:44.346] [sharedprocess] [info] Successfully uninstalled extension: shan.code-settings-sync

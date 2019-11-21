@@ -1,0 +1,137 @@
+{
+	"name": "unity-debug",
+	"displayName": "Debugger for Unity",
+	"version": "2.7.2",
+	"publisher": "Unity",
+	"description": "Unity debugger extension",
+	"license": "MIT",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"extensionDependencies": [
+		"ms-vscode.csharp"
+	],
+	"devDependencies": {
+		"vscode": "^1.1.18"
+	},
+	"dependencies": {
+		"@types/node": "^10.5.1",
+		"make": "^0.8.1",
+		"npm": "^6.8.0",
+		"vscode-debugprotocol": "^1.30.0",
+		"vscode-nls": "^3.2.2"
+	},
+	"categories": [
+		"Debuggers"
+	],
+	"keywords": [
+		"unity",
+		"unity3d",
+		"debugger",
+		"debug"
+	],
+	"homepage": "https://github.com/Unity-Technologies/vscode-unity-debug",
+	"bugs": {
+		"url": "https://github.com/Unity-Technologies/vscode-unity-debug/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Unity-Technologies/vscode-unity-debug.git"
+	},
+	"icon": "Images/dark/Unity.png",
+	"main": "./out/attach.js",
+	"scripts": {
+		"prepare": "make build",
+		"vscode:prepublish": "make build",
+		"compile": "make build",
+		"watch": "tsc -w -p ./src/typescript",
+		"postinstall": "node ./node_modules/vscode/bin/install"
+	},
+	"activationEvents": [
+		"*"
+	],
+	"contributes": {
+		"commands": [
+			{
+				"command": "attach.attachToDebugger",
+				"title": "Unity Attach Debugger"
+			},
+			{
+				"command": "exceptions.addEntry",
+				"title": "Add",
+				"icon": {
+					"dark": "Images/dark/stage.svg",
+					"light": "Images/light/stage.svg"
+				}
+			},
+			{
+				"command": "exceptions.always",
+				"title": "Always"
+			},
+			{
+				"command": "exceptions.never",
+				"title": "Never"
+			}
+		],
+		"views": {
+			"debug": [
+				{
+					"id": "exceptions",
+					"name": "Exception Breakpoints"
+				}
+			]
+		},
+		"menus": {
+			"view/title": [
+				{
+					"command": "exceptions.addEntry",
+					"when": "view == exceptions",
+					"group": "navigation"
+				}
+			],
+			"view/item/context": [
+				{
+					"command": "exceptions.always",
+					"when": "view == exceptions && viewItem == exception"
+				},
+				{
+					"command": "exceptions.never",
+					"when": "view == exceptions && viewItem == exception"
+				}
+			]
+		},
+		"debuggers": [
+			{
+				"type": "unity",
+				"label": "Unity Debugger",
+				"enableBreakpointsFor": {
+					"languageIds": [
+						"csharp"
+					]
+				},
+				"program": "./bin/UnityDebug.exe",
+				"osx": {
+					"runtime": "mono"
+				},
+				"linux": {
+					"runtime": "mono"
+				},
+				"configurationAttributes": {
+					"launch": {
+						"properties": {
+							"path": {
+								"type": "string",
+								"description": "Used for attaching to Unity Editor when multiple instances are running"
+							}
+						}
+					}
+				}
+			}
+		]
+	},
+	"__metadata": {
+		"id": "b0605276-f92b-4616-be91-ea11ec64dd1f",
+		"publisherId": "6b2b5df2-6ef1-4326-bba5-e194f6920420",
+		"publisherDisplayName": "Unity Technologies"
+	}
+}

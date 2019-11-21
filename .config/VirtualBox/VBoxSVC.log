@@ -1,0 +1,40 @@
+00:00:00.000125 main     VirtualBox XPCOM Server 6.0.14 r133895 linux.amd64 (Oct 14 2019 15:00:23) release log
+00:00:00.000127 main     Log opened 2019-11-14T18:52:16.031839000Z
+00:00:00.000127 main     Build Type: release
+00:00:00.000130 main     OS Product: Linux
+00:00:00.000130 main     OS Release: 4.19.0-6-amd64
+00:00:00.000131 main     OS Version: #1 SMP Debian 4.19.67-2+deb10u2 (2019-11-11)
+00:00:00.000147 main     DMI Product Name: 10TXA01CBP
+00:00:00.000151 main     DMI Product Version: V530S-07ICB
+00:00:00.000182 main     Host RAM: 3830MB (3.7GB) total, 2723MB (2.6GB) available
+00:00:00.000185 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000185 main     Process ID: 13947
+00:00:00.000185 main     Package type: LINUX_64BITS__DEBIAN_10
+00:00:00.001042 main     IPC socket path: /tmp/.vbox-jocimar-ipc/ipcd
+00:00:00.103752 nspr-2   VirtualBox: object creation starts
+00:00:00.103911 nspr-2   Home directory: '/home/jocimar/.config/VirtualBox'
+00:00:00.105919 nspr-2   NAT: resolv.conf: nameserver 172.16.0.162
+00:00:00.105948 nspr-2   NAT: resolv.conf: nameserver 172.16.0.167
+00:00:00.105981 nspr-2   HostDnsMonitor::updateInfo
+00:00:00.106034 nspr-2   HostDnsMonitor: old information
+00:00:00.106042 nspr-2     no server entries
+00:00:00.106049 nspr-2     no domain set
+00:00:00.106055 nspr-2     no search string entries
+00:00:00.106062 nspr-2   HostDnsMonitor: new information
+00:00:00.106068 nspr-2     server 1: 172.16.0.162
+00:00:00.106075 nspr-2     server 2: 172.16.0.167
+00:00:00.106082 nspr-2     domain: saojoao.local
+00:00:00.106089 nspr-2     search string 1: saojoao.local
+00:00:00.111361 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.112791 nspr-2   VirtualBox: object created
+00:00:01.656052 nspr-3   Saving settings file "/home/jocimar/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:01.715778 nspr-2   Saving settings file "/home/jocimar/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.280335 nspr-2   Saving settings file "/home/jocimar/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.401791 nspr-3   Saving settings file "/home/jocimar/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.467200 nspr-3   Saving settings file "/home/jocimar/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.528356 nspr-3   Saving settings file "/home/jocimar/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:07.588607 nspr-2   Saving settings file "/home/jocimar/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:13.156948 main     VirtualBox: object deletion starts
+00:00:13.616262 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:18.158183 main     {00007f40cc015320} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:18.158851 main     VirtualBox: object deleted

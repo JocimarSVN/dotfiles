@@ -1,0 +1,20 @@
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+Window-Maximized 900x1440=true
+splitterSizes=426,213
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/VSCode-Componentes/FiraCode_2.zip
+File2[$e]=$HOME/Downloads/VSCode-Componentes/FiraCode_2 (1).zip
+Name1[$e]=FiraCode_2.zip
+Name2[$e]=FiraCode_2 (1).zip
+
+[Viewer]
+Height 1080=290
+Height 900=290
+State=AAAA/wAAAAD9AAAAAAAAATUAAADeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1440=309
+Width 1920=309

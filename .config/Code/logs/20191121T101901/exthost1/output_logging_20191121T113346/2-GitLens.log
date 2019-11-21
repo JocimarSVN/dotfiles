@@ -1,0 +1,1 @@
+[2019-11-21 13:36:23:721] [/home/jocimar/Documentos] Git Command failed: /usr/bin/git -c core.quotepath=false -c color.ui=false -c color.status=false status --porcelain=v2 --find-renames -- testes.js • not a git repository (or any parent up to mount point /) • Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). • 16 ms

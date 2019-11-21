@@ -1,0 +1,50 @@
+[2019-11-18 15:37:48.239] [sharedprocess] [info] main {"machineId":"9ed88ad89ca3625950d7f5d691da7b9fac50c3a089361738b03a2b95818df2bf","windowId":2}
+[2019-11-18 15:38:28.254] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-18 17:17:07.851] [sharedprocess] [info] Installing extension: tobiah.unity-tools
+[2019-11-18 17:17:08.452] [sharedprocess] [info] Downloaded extension: tobiah.unity-tools /tmp/d98712fc-2d23-470b-ab50-84074591ead1
+[2019-11-18 17:17:08.625] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.tobiah.unity-tools-1.1.1: tobiah.unity-tools
+[2019-11-18 17:17:08.627] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/tobiah.unity-tools-1.1.1
+[2019-11-18 17:17:08.629] [sharedprocess] [info] Installation completed. tobiah.unity-tools
+[2019-11-18 17:17:09.009] [sharedprocess] [info] Installing extension: unity.unity-debug
+[2019-11-18 17:17:24.605] [sharedprocess] [info] Downloaded extension: unity.unity-debug /tmp/f91cbedb-1fda-469f-9198-88874cb68673
+[2019-11-18 17:17:31.496] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.unity.unity-debug-2.7.2: unity.unity-debug
+[2019-11-18 17:17:31.519] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/unity.unity-debug-2.7.2
+[2019-11-18 17:17:31.523] [sharedprocess] [info] Installation completed. unity.unity-debug
+[2019-11-18 17:17:31.898] [sharedprocess] [info] Installing extension: ms-vscode.csharp
+[2019-11-18 17:17:32.325] [sharedprocess] [info] Downloaded extension: ms-vscode.csharp /tmp/bacd64f4-62b4-4c10-b17a-eaad0633ba4a
+[2019-11-18 17:17:32.407] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.ms-vscode.csharp-1.21.7: ms-vscode.csharp
+[2019-11-18 17:17:32.407] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/ms-vscode.csharp-1.21.7
+[2019-11-18 17:17:32.413] [sharedprocess] [info] Installation completed. ms-vscode.csharp
+[2019-11-18 17:17:32.487] [sharedprocess] [info] Extensions installed successfully: ms-vscode.csharp
+[2019-11-18 17:17:32.499] [sharedprocess] [info] Extensions installed successfully: unity.unity-debug
+[2019-11-18 17:17:32.501] [sharedprocess] [info] Extensions installed successfully: tobiah.unity-tools
+[2019-11-18 17:18:00.696] [sharedprocess] [info] Installing extension: eamodio.gitlens
+[2019-11-18 17:18:06.171] [sharedprocess] [info] Downloaded extension: eamodio.gitlens /tmp/c3d46e97-feb0-4452-9dd6-773a0a6372fa
+[2019-11-18 17:18:06.631] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.eamodio.gitlens-10.2.0: eamodio.gitlens
+[2019-11-18 17:18:06.632] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/eamodio.gitlens-10.2.0
+[2019-11-18 17:18:06.640] [sharedprocess] [info] Installation completed. eamodio.gitlens
+[2019-11-18 17:18:06.694] [sharedprocess] [info] Extensions installed successfully: eamodio.gitlens
+[2019-11-18 17:18:34.330] [sharedprocess] [info] Installing extension: donjayamanne.githistory
+[2019-11-18 17:19:25.901] [sharedprocess] [info] Downloaded extension: donjayamanne.githistory /tmp/f16f823c-59d4-4af7-a08c-f07495b29c7c
+[2019-11-18 17:19:40.003] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.donjayamanne.githistory-0.4.6: donjayamanne.githistory
+[2019-11-18 17:19:40.006] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/donjayamanne.githistory-0.4.6
+[2019-11-18 17:19:40.021] [sharedprocess] [info] Installation completed. donjayamanne.githistory
+[2019-11-18 17:19:40.108] [sharedprocess] [info] Extensions installed successfully: donjayamanne.githistory
+[2019-11-18 17:22:47.062] [sharedprocess] [info] Installing extension: msjsdiag.debugger-for-chrome
+[2019-11-18 17:22:48.887] [sharedprocess] [info] Downloaded extension: msjsdiag.debugger-for-chrome /tmp/1c6546c9-9d82-4082-b8e2-9c1588926fd9
+[2019-11-18 17:22:49.301] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.msjsdiag.debugger-for-chrome-4.12.1: msjsdiag.debugger-for-chrome
+[2019-11-18 17:22:49.301] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/msjsdiag.debugger-for-chrome-4.12.1
+[2019-11-18 17:22:49.302] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome
+[2019-11-18 17:22:49.342] [sharedprocess] [info] Extensions installed successfully: msjsdiag.debugger-for-chrome
+[2019-11-18 17:23:08.565] [sharedprocess] [info] Installing extension: eppz.eppz-code
+[2019-11-18 17:23:13.094] [sharedprocess] [info] Downloaded extension: eppz.eppz-code /tmp/f21c3acf-1c4a-4283-adb7-eeb7b20a2642
+[2019-11-18 17:23:13.500] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.eppz.eppz-code-1.2.41: eppz.eppz-code
+[2019-11-18 17:23:13.500] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/eppz.eppz-code-1.2.41
+[2019-11-18 17:23:13.501] [sharedprocess] [info] Installation completed. eppz.eppz-code
+[2019-11-18 17:23:13.556] [sharedprocess] [info] Extensions installed successfully: eppz.eppz-code
+[2019-11-18 17:23:55.830] [sharedprocess] [info] Installing extension: leopotam.csharpfixformat
+[2019-11-18 17:23:56.242] [sharedprocess] [info] Downloaded extension: leopotam.csharpfixformat /tmp/3a03d7cc-a5dc-4125-811c-592e23460201
+[2019-11-18 17:23:56.253] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.leopotam.csharpfixformat-0.0.84: leopotam.csharpfixformat
+[2019-11-18 17:23:56.253] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/leopotam.csharpfixformat-0.0.84
+[2019-11-18 17:23:56.254] [sharedprocess] [info] Installation completed. leopotam.csharpfixformat
+[2019-11-18 17:23:56.302] [sharedprocess] [info] Extensions installed successfully: leopotam.csharpfixformat

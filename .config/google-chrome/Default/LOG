@@ -1,0 +1,5 @@
+2019/11/19-15:57:39.155 dbb Recovering log #6
+2019/11/19-15:57:39.163 dbb Level-0 table #8: started
+2019/11/19-15:57:39.193 dbb Level-0 table #8: 1287 bytes OK
+2019/11/19-15:57:39.279 dbb Delete type=3 #4
+2019/11/19-15:57:39.279 dbb Delete type=0 #6

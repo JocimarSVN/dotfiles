@@ -1,0 +1,6 @@
+[2019-11-21 09:52:02.631] [renderer1] [error] Cannot uninstall extension 'C#'. Extension 'Debugger for Unity' depends on this.: Error: Cannot uninstall extension 'C#'. Extension 'Debugger for Unity' depends on this.
+    at U.uninstallExtensions (file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:392:173)
+    at file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:391:857
+[2019-11-21 09:52:08.801] [renderer1] [error] Cannot uninstall extension 'C#'. Extension 'Debugger for Unity' depends on this.: Error: Cannot uninstall extension 'C#'. Extension 'Debugger for Unity' depends on this.
+    at U.uninstallExtensions (file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:392:173)
+    at file:///usr/share/code/resources/app/out/vs/code/electron-browser/sharedProcess/sharedProcessMain.js:391:857

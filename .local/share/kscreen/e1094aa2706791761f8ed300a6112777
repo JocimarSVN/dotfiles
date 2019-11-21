@@ -1,0 +1,24 @@
+[
+    {
+        "enabled": true,
+        "id": "02c41ce12c134c69a7b716e0f22549e5",
+        "metadata": {
+            "fullname": "xrandr-SyncMaster-HXHS303592",
+            "name": "DP-2"
+        },
+        "mode": {
+            "refresh": 59.88744354248047,
+            "size": {
+                "height": 900,
+                "width": 1440
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    }
+]

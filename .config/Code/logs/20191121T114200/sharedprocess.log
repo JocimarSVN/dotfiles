@@ -1,0 +1,9 @@
+[2019-11-21 10:42:05.421] [sharedprocess] [info] main {"machineId":"9ed88ad89ca3625950d7f5d691da7b9fac50c3a089361738b03a2b95818df2bf","windowId":2}
+[2019-11-21 10:42:06.619] [sharedprocess] [info] Deleted from disk shan.code-settings-sync /home/jocimar/.vscode/extensions/shan.code-settings-sync-3.4.3
+[2019-11-21 10:42:45.441] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-21 10:42:49.646] [sharedprocess] [info] Installing extension: shan.code-settings-sync
+[2019-11-21 10:42:50.035] [sharedprocess] [info] Downloaded extension: shan.code-settings-sync /tmp/b990ed20-bf61-452f-9526-acfdf47d19d9
+[2019-11-21 10:42:50.272] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.shan.code-settings-sync-3.4.3: shan.code-settings-sync
+[2019-11-21 10:42:50.272] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/shan.code-settings-sync-3.4.3
+[2019-11-21 10:42:50.275] [sharedprocess] [info] Installation completed. shan.code-settings-sync
+[2019-11-21 10:42:50.324] [sharedprocess] [info] Extensions installed successfully: shan.code-settings-sync

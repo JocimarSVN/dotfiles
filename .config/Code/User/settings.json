@@ -1,0 +1,28 @@
+{
+    // Config. do Tema do VSCode
+    "workbench.colorTheme": "Dracula",
+    "workbench.iconTheme": "material-icon-theme",
+
+    // Config. do tamanho e Família da Fonte
+    "editor.fontSize": 16,
+    "editor.lineHeight": 22,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+
+    // Config. Linhas Verticais para Quebra de linha
+    "editor.rulers": [
+        80,
+        120
+    ],
+
+    // (Extensão Setting Sync) - Sincroniza as configurações do VSCODE com o GitHub
+    "terminal.integrated.shell.linux": "/bin/zsh",
+    "sync.gist": "b962a9df7a58f9baff353e49ae6f6770a4932a78",
+    "sync.autoDownload": false,
+    "sync.autoUpload": false,
+    "sync.forceDownload": false,
+    "sync.forceUpload": false,
+    "sync.quietSync": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true
+}

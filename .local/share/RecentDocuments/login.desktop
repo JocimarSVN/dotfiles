@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-html
+Name=login
+Type=Link
+URL[$e]=https://github.com/login?client_id=cfd96460d8b110e2351b&return_to=%2Flogin%2Foauth%2Fauthorize%3Fclient_id%3Dcfd96460d8b110e2351b%26redirect_uri%3Dhttp%253A%252F%252Flocalhost%253A54321%252Fcallback%26scope%3Dgist%2Bread%253Auser
+X-KDE-LastOpenedWith=kfmclient_html
