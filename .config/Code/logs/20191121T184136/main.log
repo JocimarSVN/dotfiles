@@ -1,0 +1,61 @@
+[2019-11-21 17:41:36.991] [main] [info] update#setState idle
+[2019-11-21 17:42:06.994] [main] [info] update#setState checking for updates
+[2019-11-21 17:42:07.208] [main] [info] update#setState idle
+[2019-11-21 18:42:07.065] [main] [info] update#setState checking for updates
+[2019-11-21 18:42:47.220] [main] [error] Error: net::ERR_NAME_RESOLUTION_FAILED
+[2019-11-21 18:42:47.221] [main] [info] update#setState idle
+[2019-11-21 19:42:07.166] [main] [info] update#setState checking for updates
+[2019-11-21 19:42:07.327] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-21 19:42:07.327] [main] [info] update#setState idle
+[2019-11-21 20:42:07.184] [main] [info] update#setState checking for updates
+[2019-11-21 20:42:07.210] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-21 20:42:07.210] [main] [info] update#setState idle
+[2019-11-21 21:42:07.209] [main] [info] update#setState checking for updates
+[2019-11-21 21:42:07.231] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-21 21:42:07.231] [main] [info] update#setState idle
+[2019-11-21 22:42:07.230] [main] [info] update#setState checking for updates
+[2019-11-21 22:42:07.261] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-21 22:42:07.261] [main] [info] update#setState idle
+[2019-11-21 23:42:07.235] [main] [info] update#setState checking for updates
+[2019-11-21 23:42:07.272] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-21 23:42:07.272] [main] [info] update#setState idle
+[2019-11-22 00:42:07.250] [main] [info] update#setState checking for updates
+[2019-11-22 00:42:07.367] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 00:42:07.367] [main] [info] update#setState idle
+[2019-11-22 01:42:07.263] [main] [info] update#setState checking for updates
+[2019-11-22 01:42:07.287] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 01:42:07.287] [main] [info] update#setState idle
+[2019-11-22 02:42:07.273] [main] [info] update#setState checking for updates
+[2019-11-22 02:42:07.326] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 02:42:07.326] [main] [info] update#setState idle
+[2019-11-22 03:42:07.294] [main] [info] update#setState checking for updates
+[2019-11-22 03:42:07.328] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 03:42:07.329] [main] [info] update#setState idle
+[2019-11-22 04:42:07.299] [main] [info] update#setState checking for updates
+[2019-11-22 04:42:07.332] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 04:42:07.332] [main] [info] update#setState idle
+[2019-11-22 05:42:07.304] [main] [info] update#setState checking for updates
+[2019-11-22 05:42:07.351] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 05:42:07.351] [main] [info] update#setState idle
+[2019-11-22 06:42:07.365] [main] [info] update#setState checking for updates
+[2019-11-22 06:42:07.396] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 06:42:07.396] [main] [info] update#setState idle
+[2019-11-22 07:42:07.423] [main] [info] update#setState checking for updates
+[2019-11-22 07:42:07.502] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 07:42:07.503] [main] [info] update#setState idle
+[2019-11-22 08:42:07.534] [main] [info] update#setState checking for updates
+[2019-11-22 08:42:07.646] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-11-22 08:42:07.647] [main] [info] update#setState idle
+[2019-11-22 09:42:34.232] [main] [info] update#setState checking for updates
+[2019-11-22 09:46:35.535] [main] [error] Error: net::ERR_TIMED_OUT
+[2019-11-22 09:46:47.501] [main] [info] update#setState idle
+[2019-11-22 10:44:03.910] [main] [info] update#setState checking for updates
+[2019-11-22 10:44:05.402] [main] [info] update#setState idle
+[2019-11-22 11:44:04.156] [main] [info] update#setState checking for updates
+[2019-11-22 11:44:05.166] [main] [info] update#setState idle
+[2019-11-22 12:44:04.360] [main] [info] update#setState checking for updates
+[2019-11-22 12:44:05.139] [main] [info] update#setState idle
+[2019-11-22 13:44:04.535] [main] [info] update#setState checking for updates
+[2019-11-22 13:44:05.967] [main] [info] update#setState idle
+[2019-11-22 14:44:04.868] [main] [info] update#setState checking for updates
+[2019-11-22 14:44:05.919] [main] [info] update#setState idle

@@ -1,0 +1,6 @@
+[2019-11-21 14:02:49.165] [main] [info] update#setState idle
+[2019-11-21 14:03:19.168] [main] [info] update#setState checking for updates
+[2019-11-21 14:03:19.356] [main] [info] update#setState idle
+[2019-11-21 15:03:27.481] [main] [info] update#setState checking for updates
+[2019-11-21 15:05:50.006] [main] [error] Error: net::ERR_TIMED_OUT
+[2019-11-21 15:05:54.017] [main] [info] update#setState idle

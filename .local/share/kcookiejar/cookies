@@ -18,23 +18,26 @@ store.kde.org        ".store.kde.org"     "/"          1608059763    0 _pk_id.38
 marketplace.visualstudio.com ".visualstudio.com"  "/"          1731789544    0 VstsSession          7    %7B%22PersistentSessionId%22%3A%22962876be-a77a-4727-b6e7-96db934fc55d%22%2C%22PendingAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22CurrentAuthenticationSessionId%22%3A%2200000000-0000-0000-0000-000000000000%22%2C%22SignInState%22%3A%7B%7D%7D
 marketplace.visualstudio.com ""                   "/"          1637181550    0 Market_SelectedTab   4    vscode
 visualstudio.com     ".visualstudio.com"  "/"          1637413249    0 _ga                  4    GA1.2.675755958.1574341250
-visualstudio.com     ".visualstudio.com"  "/"          1574427649    0 _gid                 4    GA1.2.911965029.1574341250
 code.visualstudio.com ""                   "/"          1605877250    0 MSFPC                4    GUID=bdfad3322adb4d84a2cb2f854a5a43ae&HASH=bdfa&LV=201911&V=4&LU=1574341250272
 [.marketplace.visualstudio.com]
 marketplace.visualstudio.com ".marketplace.visualstudio.com" "/"          1637267948    0 Gallery-Service-UserIdentifier 5    06050b7e-3878-4db9-b20c-9133a3e3ba65
 marketplace.visualstudio.com ".marketplace.visualstudio.com" "/"          1637181549    0 _ga                  4    GA1.3.1307941930.1574109550
 marketplace.visualstudio.com ".marketplace.visualstudio.com" "/"          1637181550    0 Market_SelectedTab   4    vscode
-[github.com]
-github.com           ""                   "/"          1574347339    0 has_recent_activity  4    1
 [.github.com]
 github.com           ".github.com"        "/"          1637500889    0 _octo                4    GH1.1.1672393999.1574342489
 github.com           ".github.com"        "/"          2205494489    0 logged_in            7    no
 github.com           ".github.com"        "/"          1637414859    0 _ga                  4    GA1.2.136215102.1574342491
 [.microsoft.com]
 microsoft.com        ".microsoft.com"     "/"          1605879259    0 MC1                  4    GUID=a6011f6b83ea40008acdad42a885f2ff&HASH=a601&LV=201911&V=4&LU=1574343258064
-microsoft.com        ".microsoft.com"     "/"          1574345059    0 MS0                  4    2736949e10d648aaa4a02f3aca35b0f0
 dotnet.microsoft.com ""                   "/"          1605879258    0 MSFPC                4    GUID=a6011f6b83ea40008acdad42a885f2ff&HASH=a601&LV=201911&V=4&LU=1574343258064
 microsoft.com        ".microsoft.com"     "/"          1608039493    0 MSCC                 4    1574343493
 dotnet.microsoft.com ""                   "/"          1637501893    0 ga_id                4    415564813.1574343257
 dotnet.microsoft.com ""                   "/"          1605879496    0 ai_user              5    sWJPe|2019-11-21T13:38:16.476Z
-dotnet.microsoft.com ""                   "/"          1574345313    0 ai_session           5    unR43|1574343496826|1574343513319.9
+[.dotnet.microsoft.com]
+dotnet.microsoft.com ".dotnet.microsoft.com" "/"          1605879258    0 MSFPC                4    GUID=a6011f6b83ea40008acdad42a885f2ff&HASH=a601&LV=201911&V=4&LU=1574343258064
+dotnet.microsoft.com ".dotnet.microsoft.com" "/"          1637501893    0 ga_id                4    415564813.1574343257
+dotnet.microsoft.com ".dotnet.microsoft.com" "/"          1605879496    0 ai_user              5    sWJPe|2019-11-21T13:38:16.476Z
+[.google.com]
+google.com           ".google.com"        "/chrome"    1637434048    0 _ga                  4    GA1.2-2.180424437.1574362048
+[.code.visualstudio.com]
+code.visualstudio.com ".code.visualstudio.com" "/"          1605877250    0 MSFPC                4    GUID=bdfad3322adb4d84a2cb2f854a5a43ae&HASH=bdfa&LV=201911&V=4&LU=1574341250272

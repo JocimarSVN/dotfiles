@@ -1,0 +1,49 @@
+{
+	"name": "jsonviewer",
+	"displayName": "JSON Viewer",
+	"description": "Preview JSON as tree view on VSCode",
+	"version": "1.2.2",
+	"publisher": "ccimage",
+	"icon": "projecticon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ccimage/jsonviewer"
+	},
+	"engines": {
+		"vscode": "^1.23.0"
+	},
+	"categories": [
+		"Formatters"
+	],
+	"activationEvents": [
+		"onCommand:extension.viewJson"
+	],
+	"main": "./out/extension",
+	"contributes": {
+		"commands": [
+			{
+				"command": "extension.viewJson",
+				"title": "Open in json viewer"
+			}
+		]
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./",
+		"postinstall": "node ./node_modules/vscode/bin/install",
+		"test": "npm run compile && node ./node_modules/vscode/bin/test"
+	},
+	"devDependencies": {
+		"@types/mocha": "^2.2.42",
+		"@types/node": "^7.0.69",
+		"tslint": "^5.11.0",
+		"typescript": "^2.9.2",
+		"vscode": "^1.1.21"
+	},
+	"__metadata": {
+		"id": "c99717c3-af7d-48c8-8dfd-1c08aaed171f",
+		"publisherId": "78182a65-cf15-4ba0-ac27-0910ec3d2e33",
+		"publisherDisplayName": "Mr.Che"
+	}
+}

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel>
-<xbel xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info" xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks">
+<xbel xmlns:kdepriv="http://www.kde.org/kdepriv" xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks" xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info">
  <bookmark href="file:///home/jocimar">
   <title>Home</title>
   <info>
@@ -70,7 +70,7 @@
   <title>Trash</title>
   <info>
    <metadata owner="http://freedesktop.org">
-    <bookmark:icon name="user-trash-full-full"/>
+    <bookmark:icon name="user-trash-full-full-full"/>
    </metadata>
    <metadata owner="http://www.kde.org">
     <ID>1573739883/5</ID>
@@ -220,7 +220,7 @@
   </info>
   <title>Disco rígido 93,1 GiB</title>
  </separator>
- <bookmark href="file:///home/jocimar/V%C3%ADdeos/Omnistak">
+ <bookmark href="file:///home/jocimar/Vídeos/Omnistak">
   <title>Omnistak</title>
   <info>
    <metadata owner="http://freedesktop.org">
@@ -228,6 +228,19 @@
    </metadata>
    <metadata owner="http://www.kde.org">
     <ID>1574338680/0</ID>
+    <isSystemItem>false</isSystemItem>
+    <IsHidden>false</IsHidden>
+   </metadata>
+  </info>
+ </bookmark>
+ <bookmark href="file:///var/www/html">
+  <title>html</title>
+  <info>
+   <metadata owner="http://freedesktop.org">
+    <bookmark:icon name="folder"/>
+   </metadata>
+   <metadata owner="http://www.kde.org">
+    <ID>1574370950/1</ID>
    </metadata>
   </info>
  </bookmark>

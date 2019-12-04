@@ -1,0 +1,12 @@
+2019/11/27-10:02:52.208 1aeb Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/27-10:02:52.208 1aeb Recovering log #6
+2019/11/27-10:02:52.324 1aeb Reusing old log /home/jocimar/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000006.log 
+2019/11/27-10:07:08.960 1c03 Level-0 table #11: started
+2019/11/27-10:07:09.050 1c03 Level-0 table #11: 1277501 bytes OK
+2019/11/27-10:07:09.088 1c03 Delete type=0 #6
+2019/11/27-10:10:33.196 1c03 Compacting 1@1 + 1@2 files
+2019/11/27-10:10:33.334 1c03 Generated table #12@1: 26550 keys, 1258835 bytes
+2019/11/27-10:10:33.334 1c03 Compacted 1@1 + 1@2 files => 1258835 bytes
+2019/11/27-10:10:33.360 1c03 compacted to: files[ 0 0 1 0 0 0 0 ]
+2019/11/27-10:10:33.361 1c03 Delete type=2 #8
+2019/11/27-10:10:33.361 1c03 Delete type=2 #11

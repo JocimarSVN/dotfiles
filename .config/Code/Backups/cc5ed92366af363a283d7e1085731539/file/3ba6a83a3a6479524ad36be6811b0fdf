@@ -1,0 +1,28 @@
+file:///Omnistack/backend/src/teste.html {"mtime":1574788984200,"size":781,"etag":"348e6abkkp6","orphaned":false}
+<html>
+<head></head>
+<body>
+    <h1></h1>
+    <div class="principal">
+        <ul class="list-group">
+            <li class="list-group-item">
+                <loren></loren>
+            </li>
+            <li class="list-group-item">
+                <loren></loren>
+            </li>
+            <li class="list-group-item">
+                <loren></loren>
+            </li>
+        </ul>
+    </div>
+    <botton:s class="btn btnp-lg btn-primary"></botton:s>
+    <footer class="footer">
+        <div class="container">
+            <span class="text muted">
+                <div><font></font></div>
+            </span>
+        </div>
+    </footer>
+</body>
+</html>

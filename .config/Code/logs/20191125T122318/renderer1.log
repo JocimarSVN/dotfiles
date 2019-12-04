@@ -1,0 +1,21 @@
+[2019-11-25 11:23:27.764] [renderer1] [error] Backup: Could not find "\n" in first 10000 bytes of vscode-userdata:/home/jocimar/.config/Code/User/Backups/cc5ed92366af363a283d7e1085731539/file/4a2b4e23b80ef046daadac04784561f4: Error: Backup: Could not find "\n" in first 10000 bytes of vscode-userdata:/home/jocimar/.config/Code/User/Backups/cc5ed92366af363a283d7e1085731539/file/4a2b4e23b80ef046daadac04784561f4
+    at e.readToMatchingString (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4573:643)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4573:269
+    at async Promise.all (index 0)
+    at async e.getWorkspaceFileBackups (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4573:221)
+    at async e.doRestoreBackups (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3196:400)
+[2019-11-25 12:09:08.839] [renderer1] [error] Error: Backup: Could not find meta end marker in vscode-userdata:/home/jocimar/.config/Code/User/Backups/cc5ed92366af363a283d7e1085731539/file/4a2b4e23b80ef046daadac04784561f4. The file is probably corrupt.
+    at e.resolveBackupContent (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4574:165)
+    at async e.loadFromBackup (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4663:517)
+    at async e.load (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4663:389)
+    at async h.loadOrCreate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4685:133)
+    at async e.doResolveAsText (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4414:725)
+    at async I.setInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5247:605)
+    at async p.doSetInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3770:848)
+    at async p.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3769:425)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5569:787
+    at async e.openEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5568:750)
+    at async M.doOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4911:304)
+    at async M.editorOpenHandler (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5889:361)
+    at async M.doOpenEditor (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4916:394)
+    at async file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5866:813

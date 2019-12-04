@@ -1,7 +1,9 @@
 {
     "telemetry.machineId": "9ed88ad89ca3625950d7f5d691da7b9fac50c3a089361738b03a2b95818df2bf",
     "openedPathsList": {
-        "workspaces3": [],
+        "workspaces3": [
+            "file:///Omnistack/backend"
+        ],
         "files2": []
     },
     "lastKnownMenubarData": {
@@ -44,6 +46,21 @@
                                     "id": "vscode.menubar.separator"
                                 },
                                 {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "fsPath": "/Omnistack/backend",
+                                        "external": "file:///Omnistack/backend",
+                                        "path": "/Omnistack/backend",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "/Omnistack/backend"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
+                                {
                                     "id": "workbench.action.openRecent",
                                     "label": "&&More..."
                                 },
@@ -73,11 +90,13 @@
                     },
                     {
                         "id": "workbench.action.files.save",
-                        "label": "&&Save"
+                        "label": "&&Save",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAs",
-                        "label": "Save &&As..."
+                        "label": "Save &&As...",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.files.saveAll",
@@ -152,8 +171,7 @@
                     },
                     {
                         "id": "workbench.action.closeFolder",
-                        "label": "Close &&Folder",
-                        "enabled": false
+                        "label": "Close &&Folder"
                     },
                     {
                         "id": "workbench.action.closeWindow",
@@ -366,7 +384,8 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel"
+                                    "label": "Show &&Panel",
+                                    "checked": true
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -536,7 +555,8 @@
                 "items": [
                     {
                         "id": "workbench.action.navigateBack",
-                        "label": "&&Back"
+                        "label": "&&Back",
+                        "enabled": false
                     },
                     {
                         "id": "workbench.action.navigateForward",
@@ -545,7 +565,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -817,8 +838,7 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal",
-                        "enabled": false
+                        "label": "&&Split Terminal"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1371,12 +1391,13 @@
     "themeBackground": "#282a36",
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/jocimar/.config/Code/Backups/1573765327830",
+            "folder": "file:///Omnistack/backend",
+            "backupPath": "/home/jocimar/.config/Code/Backups/cc5ed92366af363a283d7e1085731539",
             "uiState": {
                 "mode": 0,
-                "x": 2624,
+                "x": 2799,
                 "y": 117,
-                "width": 1366,
+                "width": 1024,
                 "height": 739
             }
         },

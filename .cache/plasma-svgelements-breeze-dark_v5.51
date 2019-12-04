@@ -1,10 +1,10 @@
 [/usr/share/icons/breeze-dark/actions/16/application-menu.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=16_16_hint-apply-color-scheme_0_1,Natural_application-menu_0_1,Natural_current-color-scheme_0_1,16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_application-menu_0_1,Natural_hint-apply-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/16/arrow-right.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=Natural_arrow-right_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
+invalidElements=16_16_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_arrow-right_0_1,16_16_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/16/delete.svg]
 _Natural_1Size=0,0,16,16
@@ -12,11 +12,35 @@ invalidElements=16_16_hint-apply-color-scheme_0_1,Natural_delete_0_1,Natural_cur
 
 [/usr/share/icons/breeze-dark/actions/16/edit-clear-history.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=Natural_current-color-scheme_0_1,Natural_edit-clear-history_0_1,16_16_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
+invalidElements=Natural_edit-clear-history_0_1,16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/actions/16/format-text-bold.svg]
+_Natural_1Size=0,0,16,16
+invalidElements=16_16_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_format-text-bold_0_1
+
+[/usr/share/icons/breeze-dark/actions/16/format-text-italic.svg]
+_Natural_1Size=0,0,16,16
+invalidElements=16_16_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_format-text-italic_0_1
+
+[/usr/share/icons/breeze-dark/actions/16/format-text-strikethrough.svg]
+_Natural_1Size=0,0,16,16
+invalidElements=Natural_format-text-strikethrough_0_1,16_16_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/actions/16/format-text-underline.svg]
+_Natural_1Size=0,0,16,16
+invalidElements=16_16_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_format-text-underline_0_1
+
+[/usr/share/icons/breeze-dark/actions/16/go-jump-today.svg]
+_Natural_1Size=0,0,16,16
+invalidElements=16_16_hint-apply-color-scheme_0_1,Natural_go-jump-today_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/16/media-mount.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_media-mount_0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1,Natural_media-mount_0_1
+
+[/usr/share/icons/breeze-dark/actions/16/system-run.svg]
+_Natural_1Size=0,0,16,16
+invalidElements=Natural_system-run_0_1,16_16_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/16/transform-move.svg]
 _Natural_1Size=0,0,16,16
@@ -24,11 +48,11 @@ invalidElements=Natural_transform-move_0_1,8_8_hint-apply-color-scheme_0_1,8_8_c
 
 [/usr/share/icons/breeze-dark/actions/16/window-close.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_window-close_0_1,16_16_current-color-scheme_0_1
+invalidElements=16_16_current-color-scheme_0_1,Natural_window-close_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/22/dashboard-show.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_dashboard-show_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_dashboard-show_0_1
 
 [/usr/share/icons/breeze-dark/actions/22/delete.svg]
 _Natural_1Size=0,0,22,22
@@ -40,23 +64,23 @@ invalidElements=Natural_dialog-ok_0_1,22_22_hint-apply-color-scheme_0_1,Natural_
 
 [/usr/share/icons/breeze-dark/actions/22/edit-clear-locationbar-rtl.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_edit-clear-locationbar-rtl_0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1
+invalidElements=Natural_edit-clear-locationbar-rtl_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/22/edit-paste.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_edit-paste_0_1,Natural_current-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_edit-paste_0_1
 
 [/usr/share/icons/breeze-dark/actions/22/edit-undo.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_edit-undo_0_1,Natural_current-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_edit-undo_0_1
 
 [/usr/share/icons/breeze-dark/actions/22/object-locked.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_object-locked_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_object-locked_0_1
 
 [/usr/share/icons/breeze-dark/actions/22/preferences-activities.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_preferences-activities_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_preferences-activities_0_1,Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/22/system-users.svg]
 _Natural_1Size=0,0,22,22
@@ -64,7 +88,7 @@ invalidElements=22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0
 
 [/usr/share/icons/breeze-dark/actions/22/tools-report-bug.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_tools-report-bug_0_1
+invalidElements=22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_tools-report-bug_0_1
 
 [/usr/share/icons/breeze-dark/actions/22/transform-move.svg]
 _Natural_1Size=0,0,22,22
@@ -72,27 +96,51 @@ invalidElements=Natural_transform-move_0_1,22_22_hint-apply-color-scheme_0_1,Nat
 
 [/usr/share/icons/breeze-dark/actions/22/window-close.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_window-close_0_1,22_22_current-color-scheme_0_1
+invalidElements=22_22_current-color-scheme_0_1,Natural_window-close_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/24/edit-clear-history.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=Natural_current-color-scheme_0_1,16_16_edit-clear-history_0_1,Natural_edit-clear-history_0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1
+invalidElements=Natural_edit-clear-history_0_1,16_16_edit-clear-history_0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/24/edit-clear-locationbar-rtl.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=22_22_edit-clear-locationbar-rtl_0_1,Natural_edit-clear-locationbar-rtl_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1
+invalidElements=Natural_edit-clear-locationbar-rtl_0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_edit-clear-locationbar-rtl_0_1
+
+[/usr/share/icons/breeze-dark/actions/24/format-text-bold.svg]
+_Natural_1Size=0,0,24,24
+invalidElements=16_16_format-text-bold_0_1,Natural_current-color-scheme_0_1,Natural_format-text-bold_0_1,Natural_hint-apply-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/actions/24/format-text-italic.svg]
+_Natural_1Size=0,0,24,24
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_format-text-italic_0_1,16_16_format-text-italic_0_1
+
+[/usr/share/icons/breeze-dark/actions/24/format-text-strikethrough.svg]
+_Natural_1Size=0,0,24,24
+invalidElements=Natural_format-text-strikethrough_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_format-text-strikethrough_0_1
+
+[/usr/share/icons/breeze-dark/actions/24/format-text-underline.svg]
+_Natural_1Size=0,0,24,24
+invalidElements=16_16_format-text-underline_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_format-text-underline_0_1
 
 [/usr/share/icons/breeze-dark/actions/24/go-jump-today.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=32_32_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_go-jump-today_0_1,32_32_go-jump-today_0_1,Natural_hint-apply-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1
+invalidElements=Natural_go-jump-today_0_1,22_22_current-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_go-jump-today_0_1,Natural__0_1,16_16_go-jump-today_0_1
 
 [/usr/share/icons/breeze-dark/actions/24/media-mount.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_media-mount_0_1,Natural_media-mount_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_media-mount_0_1,Natural_media-mount_0_1
+
+[/usr/share/icons/breeze-dark/actions/24/services.svg]
+_Natural_1Size=0,0,24,24
+invalidElements=Natural_services_0_1,Natural_current-color-scheme_0_1,32_32_services_0_1,Natural_hint-apply-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/actions/24/tools-check-spelling.svg]
+_Natural_1Size=0,0,24,24
+invalidElements=Natural_tools-check-spelling_0_1,32_32_tools-check-spelling_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/24/tools-report-bug.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,48_48_tools-report-bug_0_1,Natural_tools-report-bug_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_tools-report-bug_0_1,22_22_tools-report-bug_0_1,Natural_hint-apply-color-scheme_0_1,48_48_tools-report-bug_0_1,Natural_tools-report-bug_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/actions/24/transform-move.svg]
 _Natural_1Size=0,0,24,24
@@ -100,15 +148,15 @@ invalidElements=Natural_transform-move_0_1,8_8_transform-move_0_1,Natural_curren
 
 [/usr/share/icons/breeze-dark/actions/24/view-calendar-day.svg]
 _Natural_1Size=0,0,24,24
-invalidElements=32_32_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,32_32_view-calendar-day_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_view-calendar-day_0_1,32_32_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/actions/32/application-menu.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_application-menu_0_1,Natural_current-color-scheme_0_1,16_16_application-menu_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_application-menu_0_1,Natural_hint-apply-color-scheme_0_1,16_16_application-menu_0_1
 
 [/usr/share/icons/breeze-dark/actions/32/arrow-right.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_arrow-right_0_1,Natural_current-color-scheme_0_1,16_16_arrow-right_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=16_16_arrow-right_0_1,Natural_current-color-scheme_0_1,Natural_arrow-right_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/32/bookmarks.svg]
 _Natural_1Size=0,0,32,32
@@ -116,7 +164,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 
 [/usr/share/icons/breeze-dark/actions/32/dialog-cancel.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=163_163_dialog-cancel_0_1,157_157_dialog-cancel_0_1,163_163_hint-apply-color-scheme_0_1,163_163_current-color-scheme_0_1
+invalidElements=163_163_current-color-scheme_0_1,163_163_dialog-cancel_0_1,163_163_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,157_157_dialog-cancel_0_1,Natural_dialog-cancel_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/32/dialog-ok.svg]
 _Natural_1Size=0,0,32,32
@@ -136,27 +184,31 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_system-reboot_0_1,Natur
 
 [/usr/share/icons/breeze-dark/actions/32/system-shutdown.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_system-shutdown_0_1
+invalidElements=Natural_system-shutdown_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/32/system-suspend.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_system-suspend_0_1
+invalidElements=Natural_system-suspend_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/32/system-switch-user.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_system-switch-user_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_system-switch-user_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/32/system-users.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_system-users_0_1
+invalidElements=Natural__0_1,Natural_system-users_0_1,22_22_system-users_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/actions/32/window-close.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=22_22_window-close_0_1,Natural_current-color-scheme_0_1,16_16_window-close_0_1,Natural_window-close_0_1,Natural_hint-apply-color-scheme_0_1,24_16_current-color-scheme_0_1
+invalidElements=24_16_current-color-scheme_0_1,22_22_window-close_0_1,16_16_window-close_0_1,Natural_window-close_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/applets/128/user-identity.svg]
 _Natural_1Size=0,0,128,128
-invalidElements=Natural_user-identity_0_1,48_48_user-identity_0_1,Natural_current-color-scheme_0_1,48_48_hint-apply-color-scheme_0_1,48_48_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=48_48_user-identity_0_1,48_48_hint-apply-color-scheme_0_1,48_48_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_user-identity_0_1
+
+[/usr/share/icons/breeze-dark/apps/16/utilities-terminal.svg]
+_Natural_1Size=0,0,16,16
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_utilities-terminal_0_1,Natural__0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/22/kate.svg]
 _Natural_1Size=0,0,22,22
@@ -164,7 +216,7 @@ invalidElements=Natural_kate_0_1,22_22_hint-apply-color-scheme_0_1,Natural_curre
 
 [/usr/share/icons/breeze-dark/apps/22/plasma.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_plasma_0_1
+invalidElements=22_22_current-color-scheme_0_1,Natural_plasma_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/22/preferences-desktop-font.svg]
 _Natural_1Size=0,0,22,22
@@ -172,19 +224,19 @@ invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0
 
 [/usr/share/icons/breeze-dark/apps/22/system-file-manager.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_system-file-manager_0_1,22_22_current-color-scheme_0_1
+invalidElements=Natural__0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_system-file-manager_0_1
 
 [/usr/share/icons/breeze-dark/apps/22/utilities-terminal.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_utilities-terminal_0_1,22_22_current-color-scheme_0_1
+invalidElements=22_22_current-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_utilities-terminal_0_1
 
 [/usr/share/icons/breeze-dark/apps/22/vlc.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_vlc_0_1,22_22_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1
+invalidElements=22_22_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_vlc_0_1
 
 [/usr/share/icons/breeze-dark/apps/32/hwinfo.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_hwinfo_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hwinfo_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/apps/32/kate.svg]
 _Natural_1Size=0,0,32,32
@@ -192,31 +244,51 @@ invalidElements=Natural_kate_0_1,Natural_current-color-scheme_0_1,22_22_kate_0_1
 
 [/usr/share/icons/breeze-dark/apps/32/system-file-manager.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,22_22_system-file-manager_0_1,Natural_hint-apply-color-scheme_0_1,Natural_system-file-manager_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_system-file-manager_0_1,Natural_system-file-manager_0_1
 
 [/usr/share/icons/breeze-dark/apps/32/utilities-terminal.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=22_22_utilities-terminal_0_1,32_32_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_utilities-terminal_0_1
+invalidElements=22_22_utilities-terminal_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_utilities-terminal_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/apps/32/vlc.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,22_22_vlc_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_vlc_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/akregator.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_akregator_0_1,Natural_akregator_0_1
+invalidElements=32_32_akregator_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_akregator_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/ark.svg]
 _Natural_1Size=0,0,48,48
 invalidElements=22_22_ark_0_1,Natural_ark_0_1,Natural__0_1,32_32_ark_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
+[/usr/share/icons/breeze-dark/apps/48/digikam.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=Natural_digikam_0_1,22_22_digikam_0_1,Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_digikam_0_1
+
+[/usr/share/icons/breeze-dark/apps/48/dragonplayer.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_dragonplayer_0_1,Natural_dragonplayer_0_1
+
+[/usr/share/icons/breeze-dark/apps/48/gimp.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=32_32_gimp_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_gimp_0_1
+
 [/usr/share/icons/breeze-dark/apps/48/gwenview.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_gwenview_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,22_22_gwenview_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_gwenview_0_1,Natural_gwenview_0_1,Natural_hint-apply-color-scheme_0_1,32_32_gwenview_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/apps/48/help-browser.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_help-browser_0_1,32_32_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current-color-scheme_0_1,32_32_help-browser_0_1,Natural_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_current-color-scheme_0_1,32_32_help-browser_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_help-browser_0_1,Natural__0_1
+
+[/usr/share/icons/breeze-dark/apps/48/juk.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=32_32_juk_0_1,Natural_juk_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/apps/48/kaddressbook.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=Natural_current-color-scheme_0_1,32_32_kaddressbook_0_1,Natural_hint-apply-color-scheme_0_1,Natural_kaddressbook_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/kfontview.svg]
 _Natural_1Size=0,0,48,48
@@ -226,25 +298,41 @@ invalidElements=Natural_current-color-scheme_0_1,22_22_kfontview_0_1,Natural_hin
 _Natural_1Size=0,0,48,48
 invalidElements=Natural_kmag_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_kmag_0_1
 
+[/usr/share/icons/breeze-dark/apps/48/kmail.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=Natural_kmail_0_1,32_32_kmail_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/apps/48/kmix.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_kmix_0_1,Natural_kmix_0_1
+
+[/usr/share/icons/breeze-dark/apps/48/kmousetool.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_kmousetool_0_1
+
 [/usr/share/icons/breeze-dark/apps/48/kmouth.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_current-color-scheme_0_1,32_32_kmouth_0_1,Natural_kmouth_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=32_32_kmouth_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_kmouth_0_1
+
+[/usr/share/icons/breeze-dark/apps/48/knotes.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=Natural_knotes_0_1,Natural_current-color-scheme_0_1,32_32_current-color-scheme_0_1,32_32_knotes_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/konqueror.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_konqueror_0_1,Natural_konqueror_0_1,32_32_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_konqueror_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_konqueror_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_konqueror_0_1,22_22_konqueror_0_1,32_32_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/kontact.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_kontact_0_1,Natural_kontact_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_kontact_0_1,32_32_kontact_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/kopete.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_current-color-scheme_0_1,Natural_kopete_0_1,32_32_kopete_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_kopete_0_1,32_32_kopete_0_1,Natural_current-color-scheme_0_1,32_32_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/korganizer.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_korganizer_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_korganizer_0_1
+invalidElements=32_32_korganizer_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_korganizer_0_1,32_32_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/ktip.svg]
 _Natural_1Size=0,0,48,48
@@ -260,7 +348,7 @@ invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_libreoffice-base_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/libreoffice-calc.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_libreoffice-calc_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_libreoffice-calc_0_1
+invalidElements=22_22_libreoffice-calc_0_1,Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_libreoffice-calc_0_1,32_32_libreoffice-calc_0_1,114_114_libreoffice-calc_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/libreoffice-draw.svg]
 _Natural_1Size=0,0,48,48
@@ -268,7 +356,7 @@ invalidElements=Natural_libreoffice-draw_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/libreoffice-impress.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_libreoffice-impress_0_1,Natural_libreoffice-impress_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_libreoffice-impress_0_1,Natural_hint-apply-color-scheme_0_1,Natural_libreoffice-impress_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/libreoffice-math.svg]
 _Natural_1Size=0,0,48,48
@@ -276,43 +364,51 @@ invalidElements=32_32_libreoffice-math_0_1,Natural_hint-apply-color-scheme_0_1,N
 
 [/usr/share/icons/breeze-dark/apps/48/libreoffice-startcenter.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_libreoffice-startcenter_0_1,22_22_libreoffice-startcenter_0_1,22_22_current-color-scheme_0_1,32_32_libreoffice-startcenter_0_1
+invalidElements=32_32_libreoffice-startcenter_0_1,Natural__0_1,22_22_current-color-scheme_0_1,22_22_libreoffice-startcenter_0_1,Natural_hint-apply-color-scheme_0_1,Natural_libreoffice-startcenter_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/libreoffice-writer.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_libreoffice-writer_0_1,32_32_libreoffice-writer_0_1,Natural__0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,22_22_libreoffice-writer_0_1,Natural_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1
+invalidElements=22_22_libreoffice-writer_0_1,114_114_libreoffice-writer_0_1,32_32_libreoffice-writer_0_1,22_22_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_libreoffice-writer_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/apps/48/okular.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_hint-apply-color-scheme_0_1,Natural__0_1,22_22_okular_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_okular_0_1,Natural_okular_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1,32_32_okular_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/plasmadiscover.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_plasmadiscover_0_1,32_32_plasmadiscover_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,32_32_plasmadiscover_0_1,Natural_plasmadiscover_0_1,32_32_current-color-scheme_0_1,Natural__0_1,114_114_plasmadiscover_0_1,22_22_plasmadiscover_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,81_81_plasmadiscover_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/preferences-desktop-font-installer.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_preferences-desktop-font-installer_0_1,Natural_current-color-scheme_0_1,32_32_preferences-desktop-font-installer_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_current-color-scheme_0_1,32_32_preferences-desktop-font-installer_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_preferences-desktop-font-installer_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/preferences-system.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_hint-apply-color-scheme_0_1,Natural__0_1,Natural_preferences-system_0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,32_32_preferences-system_0_1,Natural_hint-apply-color-scheme_0_1,22_22_preferences-system_0_1,32_32_current-color-scheme_0_1,22_22_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,22_22_preferences-system_0_1,114_114_preferences-system_0_1,Natural_preferences-system_0_1,32_32_current-color-scheme_0_1,Natural__0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_preferences-system_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/spectacle.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_spectacle_0_1,32_32_spectacle_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_spectacle_0_1,Natural_spectacle_0_1
+
+[/usr/share/icons/breeze-dark/apps/48/sweeper.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_sweeper_0_1,Natural_sweeper_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/system-file-manager.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,114_114_system-file-manager_0_1,Natural_hint-apply-color-scheme_0_1,Natural_system-file-manager_0_1
+invalidElements=Natural_system-file-manager_0_1,Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,81_81_system-file-manager_0_1,114_114_system-file-manager_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/system-run.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_current-color-scheme_0_1,Natural_system-run_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,32_32_system-run_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=16_16_system-run_0_1,Natural_system-run_0_1,32_32_system-run_0_1,Natural_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,Natural__0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/system-software-install.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=Natural_system-software-install_0_1,Natural_current-color-scheme_0_1,32_32_system-software-install_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=32_32_system-software-install_0_1,Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,22_22_system-software-install_0_1,Natural_system-software-install_0_1
+
+[/usr/share/icons/breeze-dark/apps/48/utilities-system-monitor.svg]
+_Natural_1Size=0,0,48,48
+invalidElements=Natural_utilities-system-monitor_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_utilities-system-monitor_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/utilities-terminal.svg]
 _Natural_1Size=0,0,48,48
@@ -320,11 +416,11 @@ invalidElements=Natural__0_1,114_114_utilities-terminal_0_1,Natural_current-colo
 
 [/usr/share/icons/breeze-dark/apps/48/virtualbox.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current-color-scheme_0_1,Natural_virtualbox_0_1,32_32_virtualbox_0_1,Natural_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,Natural_virtualbox_0_1,32_32_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,32_32_virtualbox_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/vlc.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=114_114_hint-apply-color-scheme_0_1,Natural__0_1,114_114_vlc_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,114_114_current-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,114_114_current-color-scheme_0_1,114_114_hint-apply-color-scheme_0_1,114_114_vlc_0_1
 
 [/usr/share/icons/breeze-dark/apps/48/wayland.svg]
 _Natural_1Size=0,0,48,48
@@ -332,27 +428,27 @@ invalidElements=Natural_wayland_0_1,Natural_current-color-scheme_0_1,32_32_wayla
 
 [/usr/share/icons/breeze-dark/apps/48/yakuake.svg]
 _Natural_1Size=0,0,48,48
-invalidElements=32_32_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current-color-scheme_0_1,22_22_yakuake_0_1,32_32_yakuake_0_1,Natural_hint-apply-color-scheme_0_1,Natural_yakuake_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,32_32_yakuake_0_1,22_22_yakuake_0_1,114_114_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,114_114_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_yakuake_0_1
 
 [/usr/share/icons/breeze-dark/categories/32/applications-development.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_applications-development_0_1,Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_applications-development_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/categories/32/applications-education.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_applications-education_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_applications-education_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/categories/32/applications-graphics.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_applications-graphics_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_applications-graphics_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/categories/32/applications-multimedia.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_applications-multimedia_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_applications-multimedia_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/categories/32/applications-office.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_applications-office_0_1
+invalidElements=Natural_applications-office_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/categories/32/applications-other.svg]
 _Natural_1Size=0,0,32,32
@@ -360,23 +456,27 @@ invalidElements=Natural_applications-other_0_1,Natural_current-color-scheme_0_1,
 
 [/usr/share/icons/breeze-dark/categories/32/applications-system.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_applications-system_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_applications-system_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/categories/32/applications-utilities.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_applications-utilities_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_applications-utilities_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+
+[/usr/share/icons/breeze-dark/devices/22/printer.svg]
+_Natural_1Size=0,0,22,22
+invalidElements=Natural_printer_0_1,22_22_current-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/devices/64/audio-card.svg]
 _Natural_1Size=0,0,64,64
-invalidElements=32_32_audio-card_0_1,Natural_audio-card_0_1,32_32_current-color-scheme_0_1,Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_audio-card_0_1,32_32_current-color-scheme_0_1,32_32_audio-card_0_1
 
 [/usr/share/icons/breeze-dark/devices/64/computer.svg]
 _Natural_1Size=0,0,64,64
-invalidElements=32_32_current-color-scheme_0_1,32_32_computer_0_1,Natural_computer_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_computer_0_1,Natural_computer_0_1,32_32_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/devices/64/cpu.svg]
 _Natural_1Size=0,0,64,64
-invalidElements=32_32_cpu_0_1,Natural_current-color-scheme_0_1,Natural_cpu_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=32_32_cpu_0_1,Natural_cpu_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/devices/64/drive-harddisk.svg]
 _Natural_1Size=0,0,64,64
@@ -384,11 +484,11 @@ invalidElements=Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current
 
 [/usr/share/icons/breeze-dark/devices/64/drive-removable-media-usb.svg]
 _Natural_1Size=0,0,64,64
-invalidElements=Natural_hint-apply-color-scheme_0_1,54_32_current-color-scheme_0_1,Natural_drive-removable-media-usb_0_1,32_32_drive-removable-media-usb_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_drive-removable-media-usb_0_1,Natural_hint-apply-color-scheme_0_1,Natural_drive-removable-media-usb_0_1,54_32_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/devices/64/media-flash.svg]
 _Natural_1Size=0,0,64,64
-invalidElements=Natural_media-flash_0_1,32_32_media-flash_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_media-flash_0_1,Natural_media-flash_0_1
 
 [/usr/share/icons/breeze-dark/devices/64/network-card.svg]
 _Natural_1Size=0,0,64,64
@@ -396,7 +496,11 @@ invalidElements=Natural_network-card_0_1,32_32_network-card_0_1,Natural_current-
 
 [/usr/share/icons/breeze-dark/devices/64/printer.svg]
 _Natural_1Size=0,0,64,64
-invalidElements=32_32_printer_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_printer_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32_printer_0_1,22_22_printer_0_1,Natural_printer_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+
+[/usr/share/icons/breeze-dark/devices/64/video-display.svg]
+_Natural_1Size=0,0,64,64
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_video-display_0_1,Natural_video-display_0_1
 
 [/usr/share/icons/breeze-dark/emblems/16/emblem-error.svg]
 _Natural_1Size=0,0,16,16
@@ -408,15 +512,27 @@ invalidElements=Natural_emblem-information_0_1,Natural_hint-apply-color-scheme_0
 
 [/usr/share/icons/breeze-dark/emblems/16/emblem-unmounted.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=Natural_emblem-unmounted_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_emblem-unmounted_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/mimetypes/22/unknown.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_unknown_0_1,22_22_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
+invalidElements=22_22_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_unknown_0_1
+
+[/usr/share/icons/breeze-dark/mimetypes/32/application-octet-stream.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_application-octet-stream_0_1
 
 [/usr/share/icons/breeze-dark/mimetypes/32/application-pdf.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_application-pdf_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_application-pdf_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+
+[/usr/share/icons/breeze-dark/mimetypes/32/application-vnd.debian.binary-package.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_application-vnd.debian.binary-package_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+
+[/usr/share/icons/breeze-dark/mimetypes/32/application-vnd.ms-excel.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_application-vnd.ms-excel_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/mimetypes/32/application-zip.svg]
 _Natural_1Size=0,0,32,32
@@ -424,11 +540,11 @@ invalidElements=Natural_application-zip_0_1,Natural_hint-apply-color-scheme_0_1,
 
 [/usr/share/icons/breeze-dark/mimetypes/32/font-ttf.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_font-ttf_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_font-ttf_0_1
 
 [/usr/share/icons/breeze-dark/mimetypes/32/image-jpeg.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_image-jpeg_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_image-jpeg_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/mimetypes/32/image-png.svg]
 _Natural_1Size=0,0,32,32
@@ -436,19 +552,23 @@ invalidElements=Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current
 
 [/usr/share/icons/breeze-dark/mimetypes/32/inode-directory.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_inode-directory_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_inode-directory_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/mimetypes/32/text-html.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_text-html_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_text-html_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/mimetypes/32/text-plain.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_text-plain_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_text-plain_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/mimetypes/32/unknown.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_unknown_0_1,Natural_current-color-scheme_0_1,22_22_unknown_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,22_22_unknown_0_1,Natural_hint-apply-color-scheme_0_1,Natural_unknown_0_1,Natural__0_1
+
+[/usr/share/icons/breeze-dark/mimetypes/32/video-mp4.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_current-color-scheme_0_1,Natural_video-mp4_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/22/start-here-kde.svg]
 _Natural_1Size=0,0,22,22
@@ -456,47 +576,51 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_start-here-kde_0_1,Natu
 
 [/usr/share/icons/breeze-dark/places/22/user-desktop.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_user-desktop_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_user-desktop_0_1
+
+[/usr/share/icons/breeze-dark/places/32/folder-download.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_folder-download_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/folder-downloads.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_folder-downloads_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_folder-downloads_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/folder-images.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_folder-images_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_folder-images_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/folder-network.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_folder-network_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_folder-network_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/folder-root.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_folder-root_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_folder-root_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/folder-sound.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_folder-sound_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_folder-sound_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/folder-text.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_folder-text_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_folder-text_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/folder-videos.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_folder-videos_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_folder-videos_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/places/32/folder.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_hint-apply-color-scheme_0_1,48_48_folder_0_1,Natural_current-color-scheme_0_1,Natural_folder_0_1
+invalidElements=Natural_current-color-scheme_0_1,48_48_folder_0_1,Natural_hint-apply-color-scheme_0_1,Natural_folder_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/user-desktop.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_user-desktop_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_user-desktop_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/user-home.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_user-home_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_user-home_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/places/32/user-trash.svg]
 _Natural_1Size=0,0,32,32
@@ -504,63 +628,103 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_user-trash_0_1,Natural_
 
 [/usr/share/icons/breeze-dark/preferences/32/applications-internet.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_applications-internet_0_1,Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_applications-internet_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/baloo.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_baloo_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/drive-removable-media.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_drive-removable-media_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_drive-removable-media_0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/kded5.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_kded5_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,48_48_kded5_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/plasma.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_plasma_0_1,Natural_current-color-scheme_0_1,22_22_plasma_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_plasma_0_1,Natural_hint-apply-color-scheme_0_1,22_22_plasma_0_1,Natural_current-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/plasmashell.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,48_48_plasmashell_0_1,Natural_plasmashell_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-accessibility.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,22_22_preferences-desktop-accessibility_0_1,Natural_preferences-desktop-accessibility_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-desktop-accessibility_0_1,22_22_preferences-desktop-accessibility_0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-color.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-desktop-color_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-default-applications.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_preferences-desktop-default-applications_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-desktop-default-applications_0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-display-color.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-desktop-display-color_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-filetype-association.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_preferences-desktop-filetype-association_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_preferences-desktop-filetype-association_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-font.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,22_22_preferences-desktop-font_0_1,Natural_preferences-desktop-font_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_preferences-desktop-font_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_preferences-desktop-font_0_1,Natural__0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-gaming.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_preferences-desktop-gaming_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-launch-feedback.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_preferences-desktop-launch-feedback_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-desktop-launch-feedback_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-locale.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_preferences-desktop-locale_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_preferences-desktop-locale_0_1,Natural_current-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-notification.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_preferences-desktop-notification_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-sound.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-desktop-sound_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-theme.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_preferences-desktop-theme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-desktop-theme_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop-wallpaper.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=22_22_preferences-desktop-wallpaper_0_1,Natural_current-color-scheme_0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=22_22_current-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,22_22_preferences-desktop-wallpaper_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-desktop.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_preferences-desktop_0_1
+invalidElements=Natural_preferences-desktop_0_1,Natural_current-color-scheme_0_1,32_32_current-color-scheme_0_1,32_32_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-system-bluetooth.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_preferences-system-bluetooth_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-system-bluetooth_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-system-login.svg]
 _Natural_1Size=0,0,32,32
 invalidElements=Natural_current-color-scheme_0_1,Natural_preferences-system-login_0_1,Natural_hint-apply-color-scheme_0_1
 
+[/usr/share/icons/breeze-dark/preferences/32/preferences-system-network-sharing.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-system-network-sharing_0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/preferences-system-network.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_preferences-system-network_0_1,Natural__0_1
+
 [/usr/share/icons/breeze-dark/preferences/32/preferences-system-time.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_preferences-system-time_0_1,22_22_current-color-scheme_0_1
+invalidElements=22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-system-time_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-system-windows-actions.svg]
 _Natural_1Size=0,0,32,32
@@ -568,19 +732,23 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_preferences-system-wind
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-web-browser-adblock.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_preferences-web-browser-adblock_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-web-browser-adblock_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-web-browser-cache.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_preferences-web-browser-cache_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-web-browser-cache_0_1
+
+[/usr/share/icons/breeze-dark/preferences/32/preferences-web-browser-cookies.svg]
+_Natural_1Size=0,0,32,32
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-web-browser-cookies_0_1
 
 [/usr/share/icons/breeze-dark/preferences/32/preferences-web-browser-shortcuts.svg]
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_preferences-web-browser-shortcuts_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-web-browser-shortcuts_0_1
 
 [/usr/share/icons/breeze-dark/status/16/microphone-sensitivity-high.svg]
 _Natural_1Size=0,0,16,16
-invalidElements=Natural_microphone-sensitivity-high_0_1,16_16_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1,Natural_microphone-sensitivity-high_0_1
 
 [/usr/share/icons/breeze-dark/status/16/microphone-sensitivity-low.svg]
 _Natural_1Size=0,0,16,16
@@ -588,7 +756,7 @@ invalidElements=16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0
 
 [/usr/share/icons/breeze-dark/status/22/dialog-error.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_dialog-error_0_1
+invalidElements=Natural_dialog-error_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/status/22/dialog-information.svg]
 _Natural_1Size=0,0,22,22
@@ -596,15 +764,15 @@ invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_dialog-information_0
 
 [/usr/share/icons/breeze-dark/status/22/dialog-password.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_dialog-password_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_dialog-password_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
 
 [/usr/share/icons/breeze-dark/status/22/dialog-warning.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_dialog-warning_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_dialog-warning_0_1
 
 [/usr/share/icons/breeze-dark/status/22/microphone-sensitivity-high.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_microphone-sensitivity-high_0_1,16_16_microphone-sensitivity-high_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,16_16_microphone-sensitivity-high_0_1,Natural_hint-apply-color-scheme_0_1,Natural_microphone-sensitivity-high_0_1
 
 [/usr/share/icons/breeze-dark/status/22/microphone-sensitivity-low.svg]
 _Natural_1Size=0,0,22,22
@@ -612,15 +780,19 @@ invalidElements=16_16_microphone-sensitivity-low_0_1,Natural_hint-apply-color-sc
 
 [/usr/share/icons/breeze-dark/status/22/update-high.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_update-high_0_1,Natural_hint-apply-color-scheme_0_1,16_16_update-high_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_update-high_0_1,16_16_update-high_0_1,Natural_hint-apply-color-scheme_0_1,48_48_update-high_0_1
 
 [/usr/share/icons/breeze-dark/status/22/update-low.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_update-low_0_1,Natural_hint-apply-color-scheme_0_1,16_16_update-low_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_update-low_0_1,32_32_update-low_0_1,16_16_update-low_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze-dark/status/22/update-none.svg]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_update-none_0_1,16_16_update-none_0_1,16_16_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
+invalidElements=Natural_update-none_0_1,16_16_update-none_0_1,16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1
+
+[/usr/share/icons/breeze-dark/status/64/dialog-password.svg]
+_Natural_1Size=0,0,64,64
+invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/icons/breeze/actions/16/window-close.svg]
 _Natural_1Size=0,0,16,16
@@ -827,7 +999,14 @@ Natural_top_0_1Size=18.999985000000002,6,32,6
 Natural_topleft_0_1Size=13,6,6,6
 Natural_topright_0_1Size=51,6,6,6
 _Natural_1Size=0,0,173,56
-invalidElements=Natural_hint-stretch-borders_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-right-margin_0_1,Natural_overlay_0_1,Natural__0_1,Natural_mask-hint-top-margin_0_1,Natural_current-color-scheme_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_mask-hint-left-margin_0_1,Natural_hint-compose-over-border_0_1,Natural_-center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_hint-no-border-padding_0_1
+invalidElements=Natural_hint-compose-over-border_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_mask-hint-stretch-borders_0_1,Natural__0_1,Natural_hint-stretch-borders_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_-center_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-top-margin_0_1,Natural_overlay_0_1,Natural_mask-hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_mask-hint-left-margin_0_1
+
+[/usr/share/plasma/desktoptheme/default/icons/akonadi.svgz]
+32_32_akonadi_0_1Size=13.037037037037036,0,18.962962962962962,32
+Natural_22-22-akonadi_0_1Size=0,10,22,22
+Natural_akonadi_0_1Size=22,0,32,32
+_Natural_1Size=0,0,54,32
+invalidElements=Natural_current-color-scheme_0_1,32_32__0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/applications.svgz]
 22_22_22-22-applications-other_0_1Size=1.0736427720287244e-15,6.874999979868533,8.962962604368025,15.124999848734724
@@ -836,7 +1015,7 @@ invalidElements=Natural_hint-stretch-borders_0_1,Natural_mask-hint-stretch-borde
 Natural_22-22-applications-other_0_1Size=2.6353049858886872e-15,9.999999970717866,21.999999119812426,21.99999977997778
 Natural_applications-other_0_1Size=21.999997928567044,1.8391654692528903e-05,31.999995519736583,31.999996479970918
 _Natural_1Size=0,0,54,32
-invalidElements=32_32__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/audio.svgz]
 163_163_audio-volume-high_0_1Size=0,0,163,163.00004445454533
@@ -844,12 +1023,14 @@ invalidElements=32_32__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-c
 16_16_audio-volume-high_0_1Size=0,0,16,16.000004363636354
 16_16_audio-volume-low_0_1Size=31.99999999999998,0,16,16.000004363636354
 16_16_audio-volume-medium_0_1Size=16,0,15.99999999999998,16.000004363636354
+32_32_audio-volume-high_0_1Size=0,0,32,32.00000872727271
+32_32_audio-volume-medium_0_1Size=32,0,31.99999999999996,32.00000872727271
 Natural_audio-volume-high_0_1Size=0,0,22,22.000005999999985
 Natural_audio-volume-low_0_1Size=43.99999999999997,0,22,22.000005999999985
 Natural_audio-volume-medium_0_1Size=22,0,21.99999999999997,22.000005999999985
 Natural_audio-volume-muted_0_1Size=65.99999999999997,0,22,22.000005999999985
 _Natural_1Size=0,0,22,22
-invalidElements=163_163__0_1,Natural__0_1,16_16__0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_audio-card_0_1,16_16_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,Natural_audio-card_0_1,16_16__0_1,32_32_current-color-scheme_0_1,Natural__0_1,16_16_current-color-scheme_0_1,163_163__0_1,Natural_hint-apply-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,32_32__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/battery.svgz]
 Natural_22-22-AcAdapter_0_1Size=236.53572,426.50504,21.99999999999997,22
@@ -870,14 +1051,14 @@ Natural_22-22-battery-ups_0_1Size=214.53572,426.50504,22,22
 Natural_AcAdapter_0_1Size=-63.99996999999999,23.999959999999987,32,32
 Natural_Battery_0_1Size=-32,-8,32,32
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-dont-superimpose-fill_0_1
+invalidElements=Natural_hint-dont-superimpose-fill_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/bookmarks.svgz]
 32_32_bookmarks_0_1Size=13.03703580952121,1.8391654692528903e-05,18.96296030799205,31.999996479970918
 Natural_22-22-bookmarks_0_1Size=2.6353049858886872e-15,9.999999970717866,21.999999119812426,21.99999977997778
 Natural_bookmarks_0_1Size=21.999997928567044,1.8391654692528903e-05,31.999995519736583,31.999996479970918
 _Natural_1Size=0,0,54,32
-invalidElements=32_32__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/computer.svgz]
 22_22_22-22-computer_0_1Size=5.028572857233236,14.666657632715781,6.914288633991807,7.6825334980736875
@@ -891,7 +1072,7 @@ Natural_22-22-computer_0_1Size=16.000004545742115,41.999974130049736,22.00000928
 Natural_computer-laptop_0_1Size=38.00000569696496,8.384379998460645e-05,32.00004642424901,32.000000606008
 Natural_computer_0_1Size=38.00000445889998,31.999998907300096,31.999997939370004,31.99995866661
 _Natural_1Size=0,0,70,63
-invalidElements=32_32__0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/configure.svgz]
 16_16_22-22-configure_0_1Size=0,5,6.518518518518518,11
@@ -901,7 +1082,7 @@ invalidElements=32_32__0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-col
 Natural_22-22-configure_0_1Size=0,10,22,22
 Natural_configure_0_1Size=22,0,32,32
 _Natural_1Size=0,0,54,32
-invalidElements=8_8_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,8_8_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
+invalidElements=8_8_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,8_8_current-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/device.svgz]
 22_22_22-22-device-notifier_0_1Size=25.4375,3.4375,15.124989687499987,15.124989687500026
@@ -910,7 +1091,7 @@ Natural_16-16-device-notifier_0_1Size=387,537.36218,15.999984999999981,15.999985
 Natural_22-22-device-notifier_0_1Size=358,534.36218,21.99998499999998,21.999985000000038
 Natural_device-notifier_0_1Size=0,0,31.99998499999998,31.999985000000038
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/distribute.svgz]
 16_16_distribute-horizontal-x_0_1Size=0,-1.454545459141214e-05,16,16
@@ -922,12 +1103,12 @@ invalidElements=16_16__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-c
 Natural_16-16-drive_0_1Size=-16,16,16,16
 Natural_22-22-drive_0_1Size=0,10,22,22
 _Natural_1Size=0,0,54,32
-invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_drive-removable-media-usb_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_drive-removable-media-usb_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/edit.svgz]
 Natural_22-22-edit-delete_0_1Size=0,10,22,22
 _Natural_1Size=0,0,54,32
-invalidElements=Natural_edit-undo_0_1,Natural_edit-clear-locationbar-rtl_0_1,Natural_edit-paste_0_1,Natural_current-color-scheme_0_1,Natural_edit-clear-history_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_edit-clear-history_0_1,Natural_edit-clear-locationbar-rtl_0_1,Natural_edit-paste_0_1,Natural_hint-apply-color-scheme_0_1,Natural_edit-undo_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/go.svgz]
 16_16_go-next_0_1Size=32,-1.454545459141214e-05,16,16
@@ -935,7 +1116,7 @@ invalidElements=Natural_edit-undo_0_1,Natural_edit-clear-locationbar-rtl_0_1,Nat
 Natural_go-next_0_1Size=44,-2.0000000063191692e-05,22,22
 Natural_go-previous_0_1Size=22,-2.0000000063191692e-05,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_go-jump-today_0_1,Natural__0_1,16_16__0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
+invalidElements=Natural_go-jump-today_0_1,16_16__0_1,Natural__0_1,16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/input.svgz]
 22_22_22-22-input-caps-on_0_1Size=5.0285714285714285,14.6093738828125,6.914285714285715,1.890625
@@ -956,7 +1137,7 @@ Natural_input-caps-on_0_1Size=38,160.000003,32,32
 Natural_input-keyboard-brightness_0_1Size=38,96.00000000000006,32,32
 Natural_input-keyboard_0_1Size=38,-5.6171875e-06,32.000001,32.000001
 _Natural_1Size=0,0,70,256
-invalidElements=32_32__0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/kdeconnect.svgz]
 22_22_22-22-kdeconnect_0_1Size=23.375,3.4375,15.125,15.125
@@ -965,7 +1146,7 @@ Natural_16-16-kdeconnect_0_1Size=303,537.36218,16,16
 Natural_22-22-kdeconnect_0_1Size=355,534.36218,22,22
 Natural_kdeconnect_0_1Size=0,0,32,32
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/klipper.svgz]
 22_22_22-22-klipper_0_1Size=33.6875,3.4374993125,15.125,15.125
@@ -973,18 +1154,18 @@ invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme
 Natural_22-22-klipper_0_1Size=49,4.999999,22,22
 Natural_klipper_0_1Size=-2.8953547e-08,-1e-06,32.000004,32
 _Natural_1Size=0,0,32,32
-invalidElements=Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_current-color-scheme_0_1
+invalidElements=Natural__0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/korgac.svgz]
 Natural_korgac_0_1Size=0,0,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/list.svgz]
 16_16_list-add_0_1Size=0,0,16,16
 Natural_list-add_0_1Size=0,0,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=16_16__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural__0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,16_16__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/media.svgz]
 16_16_media-eject_0_1Size=139.63636357928402,1.0256291550996883e-06,16.000000495097,15.99996776849453
@@ -992,6 +1173,9 @@ invalidElements=16_16__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-c
 16_16_media-playback-stop_0_1Size=34.909090813235274,8.023676375821445e-05,16.00000060212402,15.999935148603981
 32_32_media-playback-pause_0_1Size=1.208417911997954e-07,0.0001604735275164289,32.000001204248,31.999870297207963
 32_32_media-playback-start_0_1Size=34.909090800816145,0.0001604735275164289,32.000001204248,31.999870297207963
+32_32_media-skip-backward_0_1Size=209.45454529294707,0.0001604735275164289,32.00000120424804,31.999870297207963
+32_32_media-skip-forward_0_1Size=244.36363604541967,0.0001604735275164289,32.00000120424804,31.999870297207963
+48_48_media-playback-start_0_1Size=52.36363620122421,0.0002407102912746433,48.000001806372,47.999805445811944
 Natural_media-eject_0_1Size=191.99999992151552,1.4102400882620714e-06,22.000000680758376,21.999955681679978
 Natural_media-playback-pause_0_1Size=8.307873144985933e-08,0.00011032555016754486,22.000000827920502,21.999910829330474
 Natural_media-playback-paused_0_1Size=8.307873144985933e-08,24.000110325550168,22.000000827920502,21.999910829330474
@@ -1002,23 +1186,26 @@ Natural_media-playback-stopped_0_1Size=47.9999998681985,24.000110325550168,22.00
 Natural_media-skip-backward_0_1Size=143.9999998889011,0.00011032555016754486,22.00000082792053,21.999910829330474
 Natural_media-skip-forward_0_1Size=167.99999978122602,0.00011032555016754486,22.00000082792053,21.999910829330474
 _Natural_1Size=0,0,22,22
-invalidElements=32_32__0_1,Natural__0_1,16_16__0_1,Natural_current-color-scheme_0_1,Natural_media-mount_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,32_32__0_1,Natural_hint-apply-color-scheme_0_1,48_48__0_1,16_16__0_1,Natural_media-mount_0_1,Natural__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/network.svgz]
 32_32_network-wired-activated_0_1Size=0,0,32,32
+48_48_network-unavailable_0_1Size=-96,0,48,48
 48_48_network-wired-activated_0_1Size=0,0,48,48
 Natural_network-flightmode-off_0_1Size=-132,0,22,22
 Natural_network-mobile-off_0_1Size=110,-22,22,22
+Natural_network-unavailable_0_1Size=-44,0,22,22
 Natural_network-wired-activated_0_1Size=0,0,22,22
+Natural_network-wired-available_0_1Size=-22,0,22,22
 Natural_network-wireless-off_0_1Size=-44,44,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=32_32__0_1,48_48__0_1,Natural__0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=48_48__0_1,Natural__0_1,Natural_hint-apply-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/notification.svgz]
 Natural_notification-active_0_1Size=0,40,22,22
 Natural_notification-progress-active_0_1Size=40,0,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/osd.svgz]
 157_157_osd-duplicate_0_1Size=667.2499754687501,-1258.4531985937501,157,157
@@ -1064,7 +1251,7 @@ Natural_osd-sbs-sright_0_1Size=0,-257.00003000000004,64,64
 Natural_osd-shutd-laptop_0_1Size=0,-129.00003000000004,64,64
 Natural_osd-shutd-screen_0_1Size=0,0,64,64.00000000000011
 _Natural_1Size=0,0,64,64
-invalidElements=163_163_hint-apply-color-scheme_0_1,157_157__0_1,163_163_current-color-scheme_0_1,163_163__0_1
+invalidElements=163_163_current-color-scheme_0_1,163_163_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,157_157__0_1,163_163__0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/preferences.svgz]
 Natural_22-22-preferences-system-bluetooth-activated_0_1Size=66,94,22,22
@@ -1072,7 +1259,7 @@ Natural_22-22-preferences-system-bluetooth-inactive_0_1Size=22,94,22,22
 Natural_22-22-preferences-system-bluetooth_0_1Size=44,94,22,22
 Natural_preferences-desktop-notification_0_1Size=0,40,22,22
 _Natural_1Size=0,0,22,22
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_preferences-desktop-wallpaper_0_1,Natural_preferences-system-time_0_1,Natural_preferences-activities_0_1
+invalidElements=Natural_preferences-activities_0_1,Natural_preferences-desktop-wallpaper_0_1,Natural__0_1,22_22_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,22_22_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_preferences-system-time_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/start.svgz]
 22_22_22-22-start-here-kde_0_1Size=0,6.875,8.962962962962962,15.125
@@ -1082,7 +1269,7 @@ Natural_16-16-start-here-kde_0_1Size=-16,16,16,16
 Natural_22-22-start-here-kde_0_1Size=0,10,22,22
 Natural_start-here-kde_0_1Size=22,0,32,32
 _Natural_1Size=0,0,54,32
-invalidElements=32_32__0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/system.svgz]
 22_22_22-22-system-lock-screen_0_1Size=22,18.21875,8.962962962962962,3.78125
@@ -1103,11 +1290,11 @@ Natural_22-22-system-users_0_1Size=54,42,22,22
 Natural_system-lock-screen_0_1Size=76,96,32,32
 Natural_system-log-out_0_1Size=22,0,32,32
 _Natural_1Size=0,0,54,128
-invalidElements=32_32__0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_system-file-manager_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32__0_1,Natural_system-file-manager_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/user.svgz]
 _Natural_1Size=0,0,22,22
-invalidElements=Natural_current-color-scheme_0_1,Natural_user-desktop_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_user-desktop_0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/video.svgz]
 32_32_video-display-brightness_0_1Size=6.4856726980492984e-06,-49.47095431665449,46.545451548174555,46.54539442416
@@ -1122,7 +1309,7 @@ Natural_22-22-view-history_0_1Size=0,42,22,22
 Natural_22-22-view-refresh_0_1Size=0,10,22,22
 Natural_view-history_0_1Size=22,32,32,32
 _Natural_1Size=0,0,54,64
-invalidElements=32_32__0_1,32_32_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1
+invalidElements=32_32_hint-apply-color-scheme_0_1,32_32_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,32_32__0_1
 
 [/usr/share/plasma/desktoptheme/default/icons/vlc.svgz]
 Natural_vlc_0_1Size=0,0,22,22
@@ -1133,7 +1320,7 @@ invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply
 8_8_window-pin_0_1Size=5.333333333333333,4,2.6666666666666665,4
 Natural_window-pin_0_1Size=16,8,8,8
 _Natural_1Size=0,0,24,16
-invalidElements=Natural_current-color-scheme_0_1,8_8__0_1,Natural_window-close_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural_window-close_0_1,Natural_hint-apply-color-scheme_0_1,8_8__0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/opaque/dialogs/background.svgz]
 Natural_bottom_0_1Size=19,43.99996500000009,32,6.000030299999935
@@ -1160,7 +1347,7 @@ Natural_top_0_1Size=19,5.999944700000015,32,6.000030299999935
 Natural_topleft_0_1Size=13,5.9999800000000505,6.0000199999999495,6
 Natural_topright_0_1Size=51,5.9999800000000505,6,6.0000199999999495
 _Natural_1Size=0,0,173,56
-invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/translucent/dialogs/background.svgz]
 Natural_bottom_0_1Size=18.999985000000002,44,32,6
@@ -1199,7 +1386,7 @@ Natural_top_0_1Size=18.999985000000002,6,32,6
 Natural_topleft_0_1Size=13,6,6,6
 Natural_topright_0_1Size=51,6,6,6
 _Natural_1Size=0,0,173,56
-invalidElements=Natural_mask-hint-right-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural__0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-top-margin_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_current-color-scheme_0_1,Natural_mask-hint-left-margin_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1,Natural_overlay_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_-center_0_1
+invalidElements=Natural_hint-compose-over-border_0_1,Natural__0_1,Natural_overlay_0_1,Natural_-center_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_current-color-scheme_0_1,Natural_mask-hint-top-margin_0_1,Natural_hint-no-border-padding_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1,Natural_mask-hint-right-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-left-margin_0_1
 
 [/usr/share/plasma/desktoptheme/default/translucent/widgets/panel-background.svgz]
 Natural_bottom_0_1Size=18.999985000000002,44,32,6
@@ -1258,7 +1445,7 @@ invalidElements=Natural_hint-no-border-padding_0_1,Natural_mask-hint-no-border-p
 
 [/usr/share/plasma/desktoptheme/default/widgets/action-overlays.svgz]
 _Natural_1Size=0,0,136,136
-invalidElements=Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
+invalidElements=16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/actionbutton.svgz]
 Natural_22-22-focus_0_1Size=56.999999873633826,101.9999998997,21.999999900000006,21.99999989999999
@@ -1267,12 +1454,12 @@ Natural_22-22-normal_0_1Size=57.0000061,11,22.000000000000007,22
 Natural_22-22-pressed_0_1Size=57.0000061,41,22.000000000000007,22
 Natural_hover_0_1Size=10.9999986636617,59.00000100300001,32.000001000000005,32.00000100000001
 _Natural_1Size=0,0,128,128
-invalidElements=Natural__0_1,Natural_shadow_0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_shadow_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/arrows.svgz]
 Natural_down-arrow_0_1Size=3.968749991707,7.937502900000027,3.704166899999999,3.7041670999999496
 _Natural_1Size=0,0,44,44
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,16_16_current-color-scheme_0_1
+invalidElements=Natural__0_1,16_16_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1,16_16_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/background.svgz]
 Natural_bottom_0_1Size=18.999985000000002,44,32,12
@@ -1290,7 +1477,7 @@ Natural_top_0_1Size=18.999985000000002,0,32,12
 Natural_topleft_0_1Size=7,0,12,12
 Natural_topright_0_1Size=51,0,12,12
 _Natural_1Size=0,0,121,56
-invalidElements=Natural_current-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-stretch-borders_0_1,Natural_overlay_0_1,Natural__0_1,Natural_hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_-center_0_1
+invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_overlay_0_1,Natural_hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_-center_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/bar_meter_horizontal.svgz]
 Natural_bar-active-bottom_0_1Size=14,27,2,3
@@ -1314,14 +1501,14 @@ Natural_bar-inactive-topright_0_1Size=17,8,3,3
 Natural_hint-bar-size_0_1Size=6,0,6,6
 Natural_hint-tile-center_0_1Size=0,0,4,4
 _Natural_1Size=0,0,30,30
-invalidElements=Natural_bar-inactive--center_0_1,Natural_top_0_1,Natural_bar-inactive-hint-bottom-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_bar-active-hint-compose-over-border_0_1,Natural_bar-active-hint-left-margin_0_1,Natural_bar-active--center_0_1,Natural_bar-active-hint-stretch-borders_0_1,Natural_-center_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-left-margin_0_1,Natural_hint-bottom-margin_0_1,Natural_bar-inactive-overlay_0_1,Natural_bar-inactive-hint-no-border-padding_0_1,Natural_right_0_1,Natural_bar-inactive-hint-top-margin_0_1,Natural_hint-stretch-borders_0_1,Natural_bottom_0_1,Natural_hint-top-margin_0_1,Natural_bar-inactive-hint-stretch-borders_0_1,Natural_left_0_1,Natural_bar-active-hint-right-margin_0_1,Natural_bar-active-hint-no-border-padding_0_1,Natural_current-color-scheme_0_1,Natural_bar-active-hint-bottom-margin_0_1,Natural_bar-active-overlay_0_1,Natural_bar-active-hint-top-margin_0_1,Natural__0_1,Natural_bar-inactive-hint-left-margin_0_1,Natural_hint-right-margin_0_1,Natural_bar-inactive-hint-compose-over-border_0_1,Natural_hint-compose-over-border_0_1,Natural_bar-inactive-hint-right-margin_0_1
+invalidElements=Natural_bar-inactive-hint-left-margin_0_1,Natural_bar-active-hint-top-margin_0_1,Natural_left_0_1,Natural_-center_0_1,Natural_bar-active-hint-right-margin_0_1,Natural_bar-active--center_0_1,Natural_hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_bar-active-overlay_0_1,Natural_bar-active-hint-bottom-margin_0_1,Natural_bar-inactive-hint-right-margin_0_1,Natural_bar-inactive-hint-bottom-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_bar-inactive-hint-no-border-padding_0_1,Natural_bottom_0_1,Natural_hint-stretch-borders_0_1,Natural_top_0_1,Natural_hint-top-margin_0_1,Natural_right_0_1,Natural_bar-inactive-overlay_0_1,Natural_hint-no-border-padding_0_1,Natural_bar-inactive-hint-top-margin_0_1,Natural_bar-active-hint-no-border-padding_0_1,Natural_bar-inactive--center_0_1,Natural_bar-active-hint-compose-over-border_0_1,Natural__0_1,Natural_bar-active-hint-stretch-borders_0_1,Natural_bar-active-hint-left-margin_0_1,Natural_bar-inactive-hint-compose-over-border_0_1,Natural_bar-inactive-hint-stretch-borders_0_1,Natural_hint-left-margin_0_1,Natural_hint-bottom-margin_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/busywidget.svgz]
 Natural_16-16-busywidget_0_1Size=58.472801,281.12497,4.233333600000002,4.23333359999998
 Natural_22-22-busywidget_0_1Size=51.329166,279.53748,5.820833700000001,5.82083369999998
 Natural_busywidget_0_1Size=-3.600000010317572e-07,0,35.983334,35.98333400000001
 _Natural_1Size=0,0,136,136
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/button.svgz]
 Natural_focus-bottom_0_1Size=110.00004381642907,148.99999000000003,104.9999995,3
@@ -1427,16 +1614,16 @@ Natural_toolbutton-pressed-top_0_1Size=231.00002,165,105,3
 Natural_toolbutton-pressed-topleft_0_1Size=228,165,3,3
 Natural_toolbutton-pressed-topright_0_1Size=336,165,3.0000099999999748,3
 _Natural_1Size=0,0,220,212
-invalidElements=Natural_normal--center_0_1,Natural_hint-compose-over-border_0_1,Natural_-center_0_1,Natural_mask-normal-hint-tile-center_0_1,Natural_pressed--center_0_1,Natural_shadow--center_0_1,Natural_shadow-hint-stretch-borders_0_1,Natural_hover--center_0_1,Natural_pressed-hint-stretch-borders_0_1,Natural_right_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_shadow-hint-compose-over-border_0_1,Natural_shadow-overlay_0_1,Natural_toolbutton-hover-hint-stretch-borders_0_1,Natural_normal-overlay_0_1,Natural_left_0_1,Natural_shadow-hint-no-border-padding_0_1,Natural_toolbutton-pressed-hint-tile-center_0_1,Natural_pressed-overlay_0_1,Natural_hover-overlay_0_1,Natural_toolbutton-pressed-hint-no-border-padding_0_1,Natural_toolbutton-hover-hint-compose-over-border_0_1,Natural_toolbutton-pressed-overlay_0_1,Natural_toolbutton-pressed-hint-compose-over-border_0_1,Natural_hint-tile-center_0_1,Natural_current-color-scheme_0_1,Natural_hint-bottom-margin_0_1,Natural_hint-top-margin_0_1,Natural_hint-stretch-borders_0_1,Natural_hint-right-margin_0_1,Natural_pressed-hint-tile-center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_mask-normal-hint-top-margin_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_toolbutton-hover-overlay_0_1,Natural_toolbutton-hover--center_0_1,Natural_mask-normal-hint-stretch-borders_0_1,Natural_toolbutton-hover-hint-tile-center_0_1,Natural_hint-left-margin_0_1,Natural_mask-normal-hint-compose-over-border_0_1,Natural_normal-hint-tile-center_0_1,Natural_mask-pressed-center_0_1,Natural_shadow-hint-tile-center_0_1,Natural_mask-normal-hint-right-margin_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_toolbutton-hover-hint-no-border-padding_0_1,Natural_hint-no-border-padding_0_1,Natural_mask-normal-hint-bottom-margin_0_1,Natural_mask-normal-hint-no-border-padding_0_1,Natural_toolbutton-pressed-hint-stretch-borders_0_1,Natural_hover-hint-compose-over-border_0_1,Natural__0_1,Natural_top_0_1,Natural_toolbutton-pressed--center_0_1,Natural_mask-normal-hint-left-margin_0_1,Natural_bottom_0_1,Natural_pressed-hint-no-border-padding_0_1,Natural_hover-hint-tile-center_0_1
+invalidElements=Natural_mask-pressed-center_0_1,Natural_pressed-hint-stretch-borders_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_hint-stretch-borders_0_1,Natural_mask-normal-hint-compose-over-border_0_1,Natural_toolbutton-pressed-overlay_0_1,Natural_focus-hint-tile-center_0_1,Natural_-center_0_1,Natural_mask-normal-hint-top-margin_0_1,Natural_shadow-hint-compose-over-border_0_1,Natural_toolbutton-pressed-hint-tile-center_0_1,Natural_toolbutton-hover-hint-stretch-borders_0_1,Natural_shadow-overlay_0_1,Natural_mask-normal-hint-no-border-padding_0_1,Natural_top_0_1,Natural_normal-hint-tile-center_0_1,Natural_mask-normal-hint-left-margin_0_1,Natural_mask-normal-hint-tile-center_0_1,Natural_shadow-hint-tile-center_0_1,Natural_pressed-hint-no-border-padding_0_1,Natural_hint-no-border-padding_0_1,Natural_focus-hint-compose-over-border_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_toolbutton-pressed-hint-compose-over-border_0_1,Natural_toolbutton-hover-hint-compose-over-border_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-right-margin_0_1,Natural_toolbutton-pressed-hint-no-border-padding_0_1,Natural_hover-overlay_0_1,Natural_toolbutton-hover--center_0_1,Natural_focus-overlay_0_1,Natural_current-color-scheme_0_1,Natural_shadow--center_0_1,Natural_toolbutton-hover-hint-tile-center_0_1,Natural_bottom_0_1,Natural_hint-compose-over-border_0_1,Natural_mask-normal-hint-stretch-borders_0_1,Natural_pressed--center_0_1,Natural_shadow-hint-stretch-borders_0_1,Natural_hover--center_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_hint-top-margin_0_1,Natural_toolbutton-hover-hint-no-border-padding_0_1,Natural_pressed-hint-tile-center_0_1,Natural_left_0_1,Natural_toolbutton-pressed-hint-stretch-borders_0_1,Natural_hint-left-margin_0_1,Natural_shadow-hint-no-border-padding_0_1,Natural_normal-overlay_0_1,Natural__0_1,Natural_mask-normal-hint-right-margin_0_1,Natural_pressed-overlay_0_1,Natural_mask-normal-hint-bottom-margin_0_1,Natural_focus--center_0_1,Natural_hint-tile-center_0_1,Natural_right_0_1,Natural_normal--center_0_1,Natural_hint-bottom-margin_0_1,Natural_focus-hint-stretch-borders_0_1,Natural_toolbutton-pressed--center_0_1,Natural_focus-hint-no-border-padding_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_hover-hint-tile-center_0_1,Natural_toolbutton-hover-overlay_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/calendar.svgz]
 _Natural_1Size=0,0,30,30
-invalidElements=Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/checkmarks.svgz]
 Natural_checkbox_0_1Size=19,1,14,14
 _Natural_1Size=0,0,34,16
-invalidElements=Natural_hint-apply-color-scheme_0_1,Natural__0_1,Natural_current-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/clock.svgz]
 Natural_ClockFace_0_1Size=-7.000030000000038,-6.999990000000025,214,214
@@ -1450,7 +1637,7 @@ invalidElements=Natural_current-color-scheme_0_1,Natural__0_1,Natural_hint-apply
 [/usr/share/plasma/desktoptheme/default/widgets/configuration-icons.svgz]
 Natural_menu_0_1Size=-1.009999999967981e-06,3.9999999984274837e-05,4.2333336,4.233332200000007
 _Natural_1Size=0,0,124,52
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/containment-controls.svgz]
 Natural_hint-tile-center_0_1Size=-10,0,5.2207794,5.4025974
@@ -1473,7 +1660,7 @@ invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply
 Natural_horizontal-line_0_1Size=7,42,40,3
 Natural_vertical-line_0_1Size=0,0,3,40
 _Natural_1Size=0,0,47,45
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/lineedit.svgz]
 Natural_base-bottom_0_1Size=35,-15,80,3
@@ -1518,10 +1705,15 @@ Natural_hover-top_0_1Size=35,54,80,3
 Natural_hover-topleft_0_1Size=32,54,3,3
 Natural_hover-topright_0_1Size=115,54,3,3
 _Natural_1Size=0,0,17,57
-invalidElements=Natural_top_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_base-overlay_0_1,Natural_hint-apply-color-scheme_0_1,Natural_base-hint-no-border-padding_0_1,Natural_-center_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-left-margin_0_1,Natural_hint-bottom-margin_0_1,Natural_focus-overlay_0_1,Natural_base-hint-compose-over-border_0_1,Natural_right_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_hover--center_0_1,Natural_hint-stretch-borders_0_1,Natural_bottom_0_1,Natural_hint-top-margin_0_1,Natural_left_0_1,Natural_focus-hint-stretch-borders_0_1,Natural_base-hint-stretch-borders_0_1,Natural_base--center_0_1,Natural_focus-hint-compose-over-border_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_focus-hint-no-border-padding_0_1,Natural_current-color-scheme_0_1,Natural_hover-overlay_0_1,Natural_focus--center_0_1,Natural__0_1,Natural_hint-right-margin_0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_focus--center_0_1,Natural_focus-hint-stretch-borders_0_1,Natural_base-overlay_0_1,Natural_base-hint-compose-over-border_0_1,Natural_left_0_1,Natural_-center_0_1,Natural_hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_focus-overlay_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_bottom_0_1,Natural_hover-overlay_0_1,Natural_focus-hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1,Natural_top_0_1,Natural_base-hint-stretch-borders_0_1,Natural_hint-top-margin_0_1,Natural_focus-hint-compose-over-border_0_1,Natural_hover--center_0_1,Natural_right_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1,Natural_hover-hint-no-border-padding_0_1,Natural__0_1,Natural_base-hint-no-border-padding_0_1,Natural_base--center_0_1,Natural_hint-left-margin_0_1,Natural_hint-bottom-margin_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/listitem.svgz]
 Natural_hint-tile-center_0_1Size=-10,-10,2.0329318,2.077126
+Natural_hover-bottom_0_1Size=60,18.384143,11,2
+Natural_hover-center_0_1Size=59.9997,7.3841577,10.999998999999995,11.000005300000002
+Natural_hover-left_0_1Size=57.99970222222221,7.3841427,2.0002977777777886,11.0000053
+Natural_hover-right_0_1Size=70.9997,7.3841577,2.000296888888883,11.000005300000002
+Natural_hover-top_0_1Size=59.99965999999999,5.383812922222221,11.001528480661094,2.0003447777777783
 Natural_normal-bottom_0_1Size=24,64,11,2
 Natural_normal-bottomleft_0_1Size=21.999964000000002,64.00000022222221,2.0000360691508554,1.9999997777777878
 Natural_normal-bottomright_0_1Size=34.999964,64.00000022222221,2.000036069150859,1.9999997777777878
@@ -1535,6 +1727,19 @@ Natural_normal-right_0_1Size=35,53.000345,2.000296888888883,11.000000000000007
 Natural_normal-top_0_1Size=23.999959999999998,51.00000022222222,11.00126257523478,2.0003447777777836
 Natural_normal-topleft_0_1Size=21.999924000000004,51.00000022222222,2.0000360691508483,2.0003447777777836
 Natural_normal-topright_0_1Size=34.999964,51.000345222222215,2.000036069150859,1.9999997777777807
+Natural_pressed-bottom_0_1Size=20,21,11,2
+Natural_pressed-bottomleft_0_1Size=18,20.999655222222223,2.000036926144638,2.0003447777777765
+Natural_pressed-bottomright_0_1Size=31.000000000000007,20.999655222222223,2.000036926144631,2.0003447777777765
+Natural_pressed-center_0_1Size=19.9997,10.000015,10.999998999999999,11.000005
+Natural_pressed-hint-bottom-margin_0_1Size=29,25,2,6
+Natural_pressed-hint-left-margin_0_1Size=10,16,4,2
+Natural_pressed-hint-right-margin_0_1Size=35,16,4,2
+Natural_pressed-hint-top-margin_0_1Size=28,2,2,6
+Natural_pressed-left_0_1Size=17.999702222222226,10,2.0002977777777744,11.000004999999998
+Natural_pressed-right_0_1Size=30.9997,10.000015,2.0002968888888866,11.000005
+Natural_pressed-top_0_1Size=19.99966,7.999670222222221,11.0015284806611,2.0003447777777783
+Natural_pressed-topleft_0_1Size=17.999623,7.999670222222221,2.000036926144638,2.0003447777777783
+Natural_pressed-topright_0_1Size=31.000000000000007,7.999670222222221,2.000036926144631,2.0003447777777783
 Natural_section-bottom_0_1Size=21.9997,98.99966,11.000000000000004,2
 Natural_section-bottomleft_0_1Size=19.999664000000003,98.99965222222221,2.000036069150852,2.000007777777782
 Natural_section-bottomright_0_1Size=32.999664,98.99965222222221,2.000036069150852,2.000007777777782
@@ -1550,7 +1755,7 @@ Natural_section-topleft_0_1Size=19.999624,85.9996552222222,2.000036069150852,2.0
 Natural_section-topright_0_1Size=32.999664,86.00000022222221,2.000036069150852,1.9999997777777878
 Natural_separator_0_1Size=74,44,40,1
 _Natural_1Size=0,0,128,300
-invalidElements=Natural_normal--center_0_1,Natural_top_0_1,Natural_section-hint-stretch-borders_0_1,Natural_hint-apply-color-scheme_0_1,Natural_-center_0_1,Natural_section--center_0_1,Natural_section-hint-compose-over-border_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-left-margin_0_1,Natural_hint-bottom-margin_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_right_0_1,Natural_hint-stretch-borders_0_1,Natural_bottom_0_1,Natural_hint-top-margin_0_1,Natural_left_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_section-hint-no-border-padding_0_1,Natural_normal-overlay_0_1,Natural_section-overlay_0_1,Natural_current-color-scheme_0_1,Natural_normal-hint-no-border-padding_0_1,Natural__0_1,Natural_hint-right-margin_0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_pressed-hint-stretch-borders_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_hint-stretch-borders_0_1,Natural_hover-hint-right-margin_0_1,Natural_-center_0_1,Natural_pressed-hint-compose-over-border_0_1,Natural_top_0_1,Natural_section-hint-compose-over-border_0_1,Natural_pressed-hint-no-border-padding_0_1,Natural_hint-no-border-padding_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_section-hint-stretch-borders_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-right-margin_0_1,Natural_hover-overlay_0_1,Natural_hover-hint-bottom-margin_0_1,Natural_hover-hint-left-margin_0_1,Natural_current-color-scheme_0_1,Natural_bottom_0_1,Natural_hint-compose-over-border_0_1,Natural_section--center_0_1,Natural_pressed--center_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_hint-top-margin_0_1,Natural_left_0_1,Natural_hint-left-margin_0_1,Natural_normal-overlay_0_1,Natural__0_1,Natural_section-hint-no-border-padding_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_pressed-overlay_0_1,Natural_right_0_1,Natural_normal--center_0_1,Natural_hint-bottom-margin_0_1,Natural_section-overlay_0_1,Natural_hover-hint-top-margin_0_1,Natural_normal-hint-stretch-borders_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/monitor.svgz]
 Natural_base_0_1Size=68,189.1,100,58
@@ -1566,6 +1771,10 @@ Natural_topleft_0_1Size=11,34.00024620000001,10,13.999754400461967
 Natural_topright_0_1Size=214,34.00024620000001,10,13.999754400461967
 _Natural_1Size=0,0,256,256
 invalidElements=Natural_hint-bottom-margin_0_1,Natural_-center_0_1,Natural_hint-right-margin_0_1,Natural_hint-no-border-padding_0_1,Natural__0_1,Natural_hint-tile-center_0_1,Natural_current-color-scheme_0_1,Natural_hint-top-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-left-margin_0_1,Natural_overlay_0_1,Natural_hint-compose-over-border_0_1
+
+[/usr/share/plasma/desktoptheme/default/widgets/notes.svgz]
+_Natural_1Size=0,0,588,566
+invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/pager.svgz]
 Natural_active-bottom_0_1Size=-13,33,10,1
@@ -1584,7 +1793,7 @@ Natural_normal-left_0_1Size=-14,1.9999998,1,6.999999999999999
 Natural_normal-right_0_1Size=-3,1.9999998,1,6.999999999999999
 Natural_normal-top_0_1Size=-13,0.99999982,10,1
 _Natural_1Size=0,0,50,50
-invalidElements=Natural_active-hint-stretch-borders_0_1,Natural_active-hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_active-hint-top-margin_0_1,Natural_active-hint-right-margin_0_1,Natural_hint-no-border-padding_0_1,Natural_active-hint-bottom-margin_0_1,Natural_normal-hint-left-margin_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_hint-stretch-borders_0_1,Natural_normal-hint-bottom-margin_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_active-hint-left-margin_0_1,Natural_normal-hint-right-margin_0_1,Natural_active--center_0_1,Natural_active-hint-no-border-padding_0_1,Natural_normal-overlay_0_1,Natural_current-color-scheme_0_1,Natural_normal-hint-top-margin_0_1,Natural_normal-hint-no-border-padding_0_1,Natural__0_1,Natural_active-overlay_0_1
+invalidElements=Natural_normal-hint-bottom-margin_0_1,Natural_normal-hint-left-margin_0_1,Natural_current-color-scheme_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_active-hint-right-margin_0_1,Natural_active-hint-left-margin_0_1,Natural_active--center_0_1,Natural_active-hint-bottom-margin_0_1,Natural_hint-stretch-borders_0_1,Natural_active-overlay_0_1,Natural_normal-hint-right-margin_0_1,Natural_active-hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_active-hint-no-border-padding_0_1,Natural__0_1,Natural_active-hint-compose-over-border_0_1,Natural_normal-overlay_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_active-hint-top-margin_0_1,Natural_normal-hint-top-margin_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/panel-background.svgz]
 Natural_bottom_0_1Size=18.999985000000002,44,32,6
@@ -1612,7 +1821,7 @@ Natural_top_0_1Size=18.999985000000002,6,32,6
 Natural_topleft_0_1Size=13,6,6,6
 Natural_topright_0_1Size=51,6,6,6
 _Natural_1Size=0,0,173,56
-invalidElements=Natural_hint-stretch-borders_0_1,Natural_overlay_0_1,Natural__0_1,Natural_current-color-scheme_0_1,Natural_south-center_0_1,Natural_hint-compose-over-border_0_1,Natural_-center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-no-border-padding_0_1
+invalidElements=Natural_hint-compose-over-border_0_1,Natural_south-center_0_1,Natural__0_1,Natural_hint-stretch-borders_0_1,Natural_-center_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_overlay_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/scrollbar.svgz]
 Natural_background-horizontal-bottom_0_1Size=38.000001,53.00000047499999,1,3.999999899999999
@@ -1644,8 +1853,17 @@ Natural_slider-right_0_1Size=26,20,3.9999990000000025,10
 Natural_slider-top_0_1Size=23.999999999999996,14.999999875,1.0000000000000036,4.000000125
 Natural_slider-topleft_0_1Size=18.999999275,14.999999875,4.000000725,4.000000125
 Natural_slider-topright_0_1Size=25.9999991,14.999999875,3.999999899999999,4.000000125
+Natural_sunken-slider-bottom_0_1Size=23.999999999999996,74.999998125,1.0000000000000036,3.999999900000006
+Natural_sunken-slider-bottomleft_0_1Size=18.999999275,74.999998125,4.000000725,3.999999900000006
+Natural_sunken-slider-bottomright_0_1Size=25.9999991,74.999998125,3.999999899999999,3.999999900000006
+Natural_sunken-slider-center_0_1Size=24,64,1,10
+Natural_sunken-slider-left_0_1Size=18.999999275,64,4.000000725,10
+Natural_sunken-slider-right_0_1Size=26,64,3.9999990000000025,10
+Natural_sunken-slider-top_0_1Size=23.999999999999996,58.999998525,1.0000000000000036,4.000001474999998
+Natural_sunken-slider-topleft_0_1Size=18.999999275,58.999998525,4.000000725,4.000001474999998
+Natural_sunken-slider-topright_0_1Size=25.9999991,58.999998525,3.999999899999999,4.000001474999998
 _Natural_1Size=0,0,48,98
-invalidElements=Natural_slider-hint-right-margin_0_1,Natural_background-horizontal-hint-no-border-padding_0_1,Natural_background-vertical-overlay_0_1,Natural_background-vertical-hint-compose-over-border_0_1,Natural_slider--center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_-center_0_1,Natural_background-vertical--center_0_1,Natural_slider-hint-top-margin_0_1,Natural_background-horizontal-hint-bottom-margin_0_1,Natural_slider-overlay_0_1,Natural_background-horizontal-hint-right-margin_0_1,Natural_background-horizontal-hint-compose-over-border_0_1,Natural_hint-no-border-padding_0_1,Natural_background-vertical-hint-left-margin_0_1,Natural_slider-hint-compose-over-border_0_1,Natural_background-horizontal--center_0_1,Natural_hint-stretch-borders_0_1,Natural_slider-hint-left-margin_0_1,Natural_background-horizontal-hint-top-margin_0_1,Natural_slider-hint-bottom-margin_0_1,Natural_background-horizontal-hint-left-margin_0_1,Natural_background-vertical-hint-right-margin_0_1,Natural_background-vertical-hint-stretch-borders_0_1,Natural_background-vertical-hint-no-border-padding_0_1,Natural_background-vertical-hint-bottom-margin_0_1,Natural_background-horizontal-overlay_0_1,Natural_slider-hint-stretch-borders_0_1,Natural_background-horizontal-hint-stretch-borders_0_1,Natural_slider-hint-no-border-padding_0_1,Natural_current-color-scheme_0_1,Natural_background-vertical-hint-top-margin_0_1,Natural_arrow-up_0_1,Natural__0_1
+invalidElements=Natural_sunken-slider-hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1,Natural_sunken-slider-hint-left-margin_0_1,Natural_sunken-slider-hint-compose-over-border_0_1,Natural_background-vertical-overlay_0_1,Natural_-center_0_1,Natural_slider-hint-stretch-borders_0_1,Natural_sunken-slider--center_0_1,Natural_background-horizontal-overlay_0_1,Natural_background-vertical-hint-no-border-padding_0_1,Natural_sunken-slider-hint-bottom-margin_0_1,Natural_background-vertical-hint-left-margin_0_1,Natural_slider--center_0_1,Natural_background-vertical--center_0_1,Natural_slider-hint-right-margin_0_1,Natural_background-vertical-hint-compose-over-border_0_1,Natural_slider-overlay_0_1,Natural_slider-hint-no-border-padding_0_1,Natural_hint-no-border-padding_0_1,Natural_background-horizontal-hint-bottom-margin_0_1,Natural_background-horizontal-hint-top-margin_0_1,Natural_background-horizontal-hint-left-margin_0_1,Natural_arrow-up_0_1,Natural_hint-apply-color-scheme_0_1,Natural_slider-hint-left-margin_0_1,Natural_background-vertical-hint-stretch-borders_0_1,Natural_slider-hint-compose-over-border_0_1,Natural_sunken-slider-hint-stretch-borders_0_1,Natural_current-color-scheme_0_1,Natural_background-horizontal-hint-right-margin_0_1,Natural_slider-hint-top-margin_0_1,Natural_sunken-slider-hint-right-margin_0_1,Natural_slider-hint-bottom-margin_0_1,Natural__0_1,Natural_background-vertical-hint-bottom-margin_0_1,Natural_background-vertical-hint-top-margin_0_1,Natural_sunken-slider-overlay_0_1,Natural_background-horizontal-hint-stretch-borders_0_1,Natural_background-horizontal--center_0_1,Natural_background-horizontal-hint-no-border-padding_0_1,Natural_background-vertical-hint-right-margin_0_1,Natural_background-horizontal-hint-compose-over-border_0_1,Natural_sunken-slider-hint-top-margin_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/scrollwidget.svgz]
 Natural_border-bottom_0_1Size=8.585785439516002,121.56854999999999,108.000013760484,2
@@ -1653,7 +1871,7 @@ Natural_border-left_0_1Size=7.8456800000000015,12.707105439516013,2,108.00001376
 Natural_border-right_0_1Size=117.80078,14.4748738,2,108.000013760484
 Natural_border-top_0_1Size=10.0000009,8.077904000000004,108.000013760484,2
 _Natural_1Size=0,0,128,128
-invalidElements=Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1
+invalidElements=Natural__0_1,Natural_hint-apply-color-scheme_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/slider.svgz]
 Natural_groove-bottom_0_1Size=10,15,3,3
@@ -1679,7 +1897,7 @@ Natural_hint-tile-center_0_1Size=2.2599621,4.6594176,2.0329318,2.077126
 Natural_horizontal-slider-handle_0_1Size=4.999999903999999,97.99999983199999,23.999999904,23.999999903999992
 Natural_horizontal-slider-shadow_0_1Size=96,98,24,24
 _Natural_1Size=0,0,128,128
-invalidElements=Natural_hint-right-margin_0_1,Natural_groove-highlight--center_0_1,Natural_left_0_1,Natural_top_0_1,Natural_hint-apply-color-scheme_0_1,Natural_groove-hint-right-margin_0_1,Natural_groove-hint-no-border-padding_0_1,Natural_-center_0_1,Natural_groove-highlight-hint-compose-over-border_0_1,Natural_bottom_0_1,Natural_groove-highlight-hint-bottom-margin_0_1,Natural_groove--center_0_1,Natural_hint-left-margin_0_1,Natural_groove-highlight-hint-stretch-borders_0_1,Natural_hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1,Natural_groove-highlight-overlay_0_1,Natural_groove-overlay_0_1,Natural_hint-top-margin_0_1,Natural_hint-compose-over-border_0_1,Natural_groove-hint-top-margin_0_1,Natural_groove-hint-left-margin_0_1,Natural_groove-highlight-hint-top-margin_0_1,Natural_groove-highlight-hint-no-border-padding_0_1,Natural_groove-highlight-hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_groove-highlight-hint-left-margin_0_1,Natural_right_0_1,Natural_groove-hint-compose-over-border_0_1,Natural_hover_0_1,Natural__0_1,Natural_hint-bottom-margin_0_1,Natural_groove-hint-bottom-margin_0_1,Natural_groove-hint-stretch-borders_0_1
+invalidElements=Natural_groove-highlight-hint-compose-over-border_0_1,Natural_groove-hint-left-margin_0_1,Natural_groove-hint-compose-over-border_0_1,Natural_groove-highlight-hint-top-margin_0_1,Natural_groove-highlight-hint-right-margin_0_1,Natural_left_0_1,Natural_hover_0_1,Natural_top_0_1,Natural_groove-highlight--center_0_1,Natural_groove-highlight-hint-stretch-borders_0_1,Natural_groove--center_0_1,Natural_-center_0_1,Natural_hint-bottom-margin_0_1,Natural_hint-right-margin_0_1,Natural_right_0_1,Natural_groove-highlight-hint-bottom-margin_0_1,Natural_groove-hint-bottom-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_groove-overlay_0_1,Natural_groove-highlight-hint-left-margin_0_1,Natural__0_1,Natural_hint-no-border-padding_0_1,Natural_groove-highlight-overlay_0_1,Natural_groove-hint-stretch-borders_0_1,Natural_groove-hint-top-margin_0_1,Natural_groove-highlight-hint-no-border-padding_0_1,Natural_groove-hint-right-margin_0_1,Natural_hint-stretch-borders_0_1,Natural_hint-left-margin_0_1,Natural_groove-hint-no-border-padding_0_1,Natural_hint-compose-over-border_0_1,Natural_bottom_0_1,Natural_current-color-scheme_0_1,Natural_hint-top-margin_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/tabbar.svgz]
 Natural_hint-tile-center_0_1Size=-233.82362,467.12659,41.362885000000006,41.12067000000002
@@ -1719,7 +1937,7 @@ Natural_west-active-tab-top_0_1Size=204.00003,266.36218,12,10
 Natural_west-active-tab-topleft_0_1Size=200.00003,266.36218,4,10
 Natural_west-active-tab-topright_0_1Size=217.00000480000006,266.36217999999997,3.0000051999999755,10
 _Natural_1Size=0,0,744,1052
-invalidElements=Natural_north-active-tab-hint-no-border-padding_0_1,Natural_top_0_1,Natural_west-active-tab--center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_south-active-tab-hint-stretch-borders_0_1,Natural_north-active-tab-hint-stretch-borders_0_1,Natural_north-active-tab-hint-left-margin_0_1,Natural_north-active-tab-hint-top-margin_0_1,Natural_north-active-tab-hint-bottom-margin_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-left-margin_0_1,Natural_hint-bottom-margin_0_1,Natural_south-active-tab-overlay_0_1,Natural_right_0_1,Natural_south-active-tab-hint-no-border-padding_0_1,Natural_west-active-tab-hint-stretch-borders_0_1,Natural_north-active-tab-overlay_0_1,Natural_hint-stretch-borders_0_1,Natural_bottom_0_1,Natural_hint-top-margin_0_1,Natural_left_0_1,Natural_north-active-tab--center_0_1,Natural_north-active-tab-hint-right-margin_0_1,Natural_south-active-tab--center_0_1,Natural_north-active-tab-hint-compose-over-border_0_1,Natural_west-active-tab-hint-no-border-padding_0_1,Natural_south-active-tab-hint-compose-over-border_0_1,Natural_west-active-tab-overlay_0_1,Natural_current-color-scheme_0_1,Natural_west-active-tab-hint-compose-over-border_0_1,Natural__0_1,Natural_hint-right-margin_0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_north-active-tab-hint-right-margin_0_1,Natural_north-active-tab-hint-compose-over-border_0_1,Natural_west-active-tab-hint-compose-over-border_0_1,Natural_left_0_1,Natural_west-active-tab-hint-no-border-padding_0_1,Natural_hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_north-active-tab-overlay_0_1,Natural_hint-compose-over-border_0_1,Natural_north-active-tab-hint-bottom-margin_0_1,Natural_west-active-tab-overlay_0_1,Natural_north-active-tab-hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_south-active-tab-hint-no-border-padding_0_1,Natural_bottom_0_1,Natural_hint-stretch-borders_0_1,Natural_north-active-tab--center_0_1,Natural_top_0_1,Natural_hint-top-margin_0_1,Natural_north-active-tab-hint-stretch-borders_0_1,Natural_west-active-tab-hint-stretch-borders_0_1,Natural_right_0_1,Natural_hint-no-border-padding_0_1,Natural_south-active-tab--center_0_1,Natural_west-active-tab--center_0_1,Natural__0_1,Natural_south-active-tab-hint-stretch-borders_0_1,Natural_south-active-tab-hint-compose-over-border_0_1,Natural_hint-left-margin_0_1,Natural_north-active-tab-hint-left-margin_0_1,Natural_south-active-tab-overlay_0_1,Natural_north-active-tab-hint-top-margin_0_1,Natural_hint-bottom-margin_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/tasks.svgz]
 Natural_attention-bottom_0_1Size=5,101.000002,26,2.999998000000005
@@ -1778,7 +1996,7 @@ Natural_progress-top_0_1Size=5.0000001,0.999998999999999,26,2.9999980000000015
 Natural_progress-topleft_0_1Size=1,1,4,3
 Natural_progress-topright_0_1Size=31.0000001,0.999998999999999,4,3
 _Natural_1Size=0,0,144,126
-invalidElements=Natural_hint-right-margin_0_1,Natural_right_0_1,Natural_hover-hint-top-margin_0_1,Natural_minimized-hint-bottom-margin_0_1,Natural_attention-hint-bottom-margin_0_1,Natural_focus-hint-stretch-borders_0_1,Natural_attention-hint-top-margin_0_1,Natural_minimized-hint-tile-center_0_1,Natural_south-hover-center_0_1,Natural_normal--center_0_1,Natural_bottom_0_1,Natural_hover-hint-bottom-margin_0_1,Natural_focus-hint-left-margin_0_1,Natural_hover--center_0_1,Natural_focus-hint-top-margin_0_1,Natural_minimized-hint-right-margin_0_1,Natural_attention-hint-right-margin_0_1,Natural_focus--center_0_1,Natural_normal-hint-top-margin_0_1,Natural_south-minimized-center_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_progress-hint-compose-over-border_0_1,Natural_hint-left-margin_0_1,Natural_minimized-hint-no-border-padding_0_1,Natural_current-color-scheme_0_1,Natural_progress-hint-right-margin_0_1,Natural_focus-hint-compose-over-border_0_1,Natural_minimized-hint-stretch-borders_0_1,Natural_hover-hint-left-margin_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_hover-hint-tile-center_0_1,Natural_left_0_1,Natural_-center_0_1,Natural_focus-hint-bottom-margin_0_1,Natural_hover-overlay_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_center_0_1,Natural_focus-hint-no-border-padding_0_1,Natural_attention--center_0_1,Natural_minimized-hint-compose-over-border_0_1,Natural_south-normal-center_0_1,Natural_south-attention-center_0_1,Natural_progress-hint-left-margin_0_1,Natural_minimized-overlay_0_1,Natural_normal-hint-left-margin_0_1,Natural_progress-overlay_0_1,Natural_south--center_0_1,Natural_hint-bottom-margin_0_1,Natural_attention-hint-compose-over-border_0_1,Natural_normal-overlay_0_1,Natural_progress-hint-top-margin_0_1,Natural_hint-tile-center_0_1,Natural_minimized--center_0_1,Natural_minimized-hint-left-margin_0_1,Natural_top_0_1,Natural_progress-hint-no-border-padding_0_1,Natural_attention-hint-no-border-padding_0_1,Natural__0_1,Natural_progress--center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_hint-compose-over-border_0_1,Natural_focus-hint-right-margin_0_1,Natural_focus-hint-tile-center_0_1,Natural_progress-hint-tile-center_0_1,Natural_overlay_0_1,Natural_attention-hint-left-margin_0_1,Natural_south-focus-center_0_1,Natural_hint-stretch-borders_0_1,Natural_normal-hint-right-margin_0_1,Natural_hint-no-border-padding_0_1,Natural_south-progress-center_0_1,Natural_attention-overlay_0_1,Natural_normal-hint-tile-center_0_1,Natural_hover-hint-right-margin_0_1,Natural_progress-hint-stretch-borders_0_1,Natural_focus-overlay_0_1,Natural_hint-top-margin_0_1,Natural_normal-hint-bottom-margin_0_1,Natural_progress-hint-bottom-margin_0_1,Natural_attention-hint-tile-center_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_attention-hint-stretch-borders_0_1,Natural_minimized-hint-top-margin_0_1
+invalidElements=Natural_progress-hint-no-border-padding_0_1,Natural_south-attention-center_0_1,Natural_center_0_1,Natural_minimized-hint-tile-center_0_1,Natural_south-normal-center_0_1,Natural_progress-hint-left-margin_0_1,Natural_attention-overlay_0_1,Natural_attention-hint-stretch-borders_0_1,Natural_normal-hint-compose-over-border_0_1,Natural_normal-overlay_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_normal-hint-right-margin_0_1,Natural_progress--center_0_1,Natural_normal--center_0_1,Natural_progress-hint-bottom-margin_0_1,Natural_attention--center_0_1,Natural_attention-hint-top-margin_0_1,Natural_attention-hint-left-margin_0_1,Natural_focus-hint-compose-over-border_0_1,Natural_south-hover-center_0_1,Natural_focus-hint-right-margin_0_1,Natural_right_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_minimized-hint-left-margin_0_1,Natural_south-minimized-center_0_1,Natural_minimized-hint-top-margin_0_1,Natural_normal-hint-tile-center_0_1,Natural_progress-hint-tile-center_0_1,Natural_minimized-hint-stretch-borders_0_1,Natural_hint-bottom-margin_0_1,Natural_attention-hint-bottom-margin_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_minimized-hint-bottom-margin_0_1,Natural_minimized-hint-right-margin_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hover-hint-left-margin_0_1,Natural_south--center_0_1,Natural_current-color-scheme_0_1,Natural_focus-hint-bottom-margin_0_1,Natural_hint-right-margin_0_1,Natural_hover-hint-bottom-margin_0_1,Natural_progress-hint-stretch-borders_0_1,Natural_progress-hint-top-margin_0_1,Natural_normal-hint-left-margin_0_1,Natural_hint-left-margin_0_1,Natural_progress-overlay_0_1,Natural_normal-hint-no-border-padding_0_1,Natural_south-progress-center_0_1,Natural_minimized--center_0_1,Natural_hover-hint-right-margin_0_1,Natural_bottom_0_1,Natural_south-focus-center_0_1,Natural_attention-hint-tile-center_0_1,Natural_focus-hint-tile-center_0_1,Natural_progress-hint-compose-over-border_0_1,Natural_top_0_1,Natural_focus-overlay_0_1,Natural_hint-stretch-borders_0_1,Natural_progress-hint-right-margin_0_1,Natural_hint-no-border-padding_0_1,Natural_-center_0_1,Natural_hover-hint-tile-center_0_1,Natural_focus-hint-top-margin_0_1,Natural__0_1,Natural_hint-top-margin_0_1,Natural_minimized-hint-no-border-padding_0_1,Natural_minimized-overlay_0_1,Natural_minimized-hint-compose-over-border_0_1,Natural_hover--center_0_1,Natural_focus--center_0_1,Natural_focus-hint-no-border-padding_0_1,Natural_left_0_1,Natural_normal-hint-bottom-margin_0_1,Natural_attention-hint-no-border-padding_0_1,Natural_hover-hint-top-margin_0_1,Natural_attention-hint-right-margin_0_1,Natural_hover-overlay_0_1,Natural_focus-hint-stretch-borders_0_1,Natural_overlay_0_1,Natural_normal-hint-stretch-borders_0_1,Natural_normal-hint-top-margin_0_1,Natural_hint-compose-over-border_0_1,Natural_attention-hint-compose-over-border_0_1,Natural_focus-hint-left-margin_0_1,Natural_hint-tile-center_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/tooltip.svgz]
 Natural_bottom_0_1Size=18.999985000000002,44,32,6
@@ -1805,7 +2023,7 @@ Natural_top_0_1Size=18.999985000000002,6,32,6
 Natural_topleft_0_1Size=13,6,6,6
 Natural_topright_0_1Size=51,6,6,6
 _Natural_1Size=0,0,173,56
-invalidElements=Natural_hint-stretch-borders_0_1,Natural_mask-hint-stretch-borders_0_1,Natural_mask-hint-right-margin_0_1,Natural_overlay_0_1,Natural__0_1,Natural_mask-hint-top-margin_0_1,Natural_current-color-scheme_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_mask-hint-left-margin_0_1,Natural_hint-compose-over-border_0_1,Natural_-center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_hint-no-border-padding_0_1
+invalidElements=Natural_hint-compose-over-border_0_1,Natural_mask-hint-bottom-margin_0_1,Natural_mask-hint-stretch-borders_0_1,Natural__0_1,Natural_hint-stretch-borders_0_1,Natural_mask-hint-compose-over-border_0_1,Natural_-center_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_mask-hint-no-border-padding_0_1,Natural_mask-hint-top-margin_0_1,Natural_overlay_0_1,Natural_mask-hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_mask-hint-left-margin_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/translucentbackground.svgz]
 Natural_bottom_0_1Size=18.999985000000002,43.99996999999996,32,6
@@ -1823,7 +2041,7 @@ Natural_top_0_1Size=18.999985000000002,5.999969999999962,32,6
 Natural_topleft_0_1Size=13,5.999969999999962,6,6
 Natural_topright_0_1Size=51,5.999969999999962,6,6
 _Natural_1Size=0,0,121,56
-invalidElements=Natural_overlay_0_1,Natural_-center_0_1,Natural__0_1,Natural_current-color-scheme_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-stretch-borders_0_1,Natural_hint-apply-color-scheme_0_1,Natural_hint-compose-over-border_0_1
+invalidElements=Natural_hint-compose-over-border_0_1,Natural__0_1,Natural_hint-stretch-borders_0_1,Natural_-center_0_1,Natural_hint-no-border-padding_0_1,Natural_hint-apply-color-scheme_0_1,Natural_overlay_0_1,Natural_current-color-scheme_0_1
 
 [/usr/share/plasma/desktoptheme/default/widgets/viewitem.svgz]
 Natural_hint-tile-center_0_1Size=49.928560000000004,-90.32326999999998,40,40
@@ -1837,7 +2055,7 @@ Natural_hover-top_0_1Size=44.98999679593439,89.46800000000007,48.02159224000002,
 Natural_hover-topleft_0_1Size=41,89.45302000000004,4,4.014979999999923
 Natural_hover-topright_0_1Size=93.00000000000006,89.46800000000007,4,4.000299999999925
 _Natural_1Size=0,0,257,161
-invalidElements=Natural_hint-no-border-padding_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_hint-right-margin_0_1,Natural_hint-compose-over-border_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_hover-hint-top-margin_0_1,Natural_bottom_0_1,Natural_hint-stretch-borders_0_1,Natural_-center_0_1,Natural_hint-apply-color-scheme_0_1,Natural_right_0_1,Natural_hover-hint-no-border-padding_0_1,Natural_hover-hint-right-margin_0_1,Natural_left_0_1,Natural_hint-left-margin_0_1,Natural_hover-overlay_0_1,Natural__0_1,Natural_hover-hint-bottom-margin_0_1,Natural_hint-bottom-margin_0_1,Natural_hover--center_0_1,Natural_top_0_1,Natural_hint-top-margin_0_1,Natural_current-color-scheme_0_1,Natural_hover-hint-left-margin_0_1
+invalidElements=Natural_left_0_1,Natural_-center_0_1,Natural_hint-right-margin_0_1,Natural_current-color-scheme_0_1,Natural_hint-compose-over-border_0_1,Natural_hover-hint-compose-over-border_0_1,Natural_hint-apply-color-scheme_0_1,Natural_bottom_0_1,Natural_hover-overlay_0_1,Natural_hint-stretch-borders_0_1,Natural_top_0_1,Natural_hint-top-margin_0_1,Natural_hover--center_0_1,Natural_right_0_1,Natural_hover-hint-stretch-borders_0_1,Natural_hint-no-border-padding_0_1,Natural_hover-hint-right-margin_0_1,Natural_hover-hint-top-margin_0_1,Natural_hover-hint-no-border-padding_0_1,Natural__0_1,Natural_hover-hint-bottom-margin_0_1,Natural_hint-left-margin_0_1,Natural_hover-hint-left-margin_0_1,Natural_hint-bottom-margin_0_1
 
 [/usr/share/plasma/desktoptheme/oxygen/dialogs/background.svgz]
 invalidElements=Natural_current-color-scheme_0_1,Natural_hint-apply-color-scheme_0_1

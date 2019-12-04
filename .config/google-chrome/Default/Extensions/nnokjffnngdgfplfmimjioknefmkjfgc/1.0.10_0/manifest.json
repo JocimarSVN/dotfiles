@@ -1,0 +1,48 @@
+{
+   "app": {
+      "background": {
+         "persistent": false,
+         "scripts": [ "module.js", "index.js" ]
+      }
+   },
+   "description": "Teste a velocidade da sua Internet com o aplicativo SIMET.",
+   "externally_connectable": {
+      "matches": [ "*://simet.nic.br/*" ]
+   },
+   "icons": {
+      "128": "simet-icon.png",
+      "16": "simet-icon-16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqcBdpXian20Q82Yh1yMNadMzww/zK5/BemyG2RZbyfc1d8/mcBHjgglg/+f50QTPsLmkisFZAyOVYfw8NRXosAR7T9ueMeRxZWp2trdTh3tyxff1VVrX7gCgZTKw+yBImvEvESXylLtn+jd0pPqyLyZJHXgnqOsU2Q8vYaESPt2FsRAD4RhvVB5beiUqzXW1JSpzr2zXS4csQPxRNC5GYGnFqWKFmOIUqa/gyn29231+bCI0/4SAkiQgHx9qk5sl/Z7A/fGGcO5a6mU6BfBBnWyFtm+pxWiv2KW5R/t+JkFjY7MwBkKKYBwmR0gMiKSYn5y2m8ytBgPaWYeo07G+pQIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "40",
+   "name": "Simet",
+   "offline_enabled": false,
+   "permissions": [ "geolocation", {
+      "socket": [ "network-state", "tcp-connect", "resolve-host", "udp-bind:*:*", "udp-send-to:*:*" ]
+   } ],
+   "platforms": [ {
+      "nacl_arch": "x86-64",
+      "sub_package_path": "_platform_specific/x86-64/"
+   }, {
+      "nacl_arch": "x86-32",
+      "sub_package_path": "_platform_specific/x86-32/"
+   } ],
+   "sockets": {
+      "tcp": {
+         "connect": [ "*:*", "*:*" ]
+      },
+      "udp": {
+         "bind": [ "*:*" ],
+         "send": [ "*:*" ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "url_handlers": {
+      "simet": {
+         "matches": [ "https://simet.nic.br/plugin.html" ],
+         "title": "Simet client"
+      }
+   },
+   "version": "1.0.10"
+}

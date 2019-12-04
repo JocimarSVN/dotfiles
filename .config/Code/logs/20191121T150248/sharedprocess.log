@@ -1,0 +1,20 @@
+[2019-11-21 14:02:54.115] [sharedprocess] [info] main {"machineId":"9ed88ad89ca3625950d7f5d691da7b9fac50c3a089361738b03a2b95818df2bf","windowId":2}
+[2019-11-21 14:03:34.125] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-21 14:32:21.282] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2019-11-21 14:32:21.894] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/ba604ac5-8512-4ecc-972a-35899abf35d2
+[2019-11-21 14:32:22.175] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.dbaeumer.vscode-eslint-1.9.1: dbaeumer.vscode-eslint
+[2019-11-21 14:32:22.176] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/dbaeumer.vscode-eslint-1.9.1
+[2019-11-21 14:32:22.179] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2019-11-21 14:32:22.274] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint
+[2019-11-21 14:32:44.227] [sharedprocess] [info] Installing extension: hookyqr.beautify
+[2019-11-21 14:32:44.973] [sharedprocess] [info] Downloaded extension: hookyqr.beautify /tmp/19975173-5965-4b94-8540-77946d61609e
+[2019-11-21 14:32:45.500] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.hookyqr.beautify-1.5.0: hookyqr.beautify
+[2019-11-21 14:32:45.500] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/hookyqr.beautify-1.5.0
+[2019-11-21 14:32:45.501] [sharedprocess] [info] Installation completed. hookyqr.beautify
+[2019-11-21 14:32:45.560] [sharedprocess] [info] Extensions installed successfully: hookyqr.beautify
+[2019-11-21 14:32:45.579] [sharedprocess] [info] Installing extension: dbaeumer.jshint
+[2019-11-21 14:32:47.048] [sharedprocess] [info] Downloaded extension: dbaeumer.jshint /tmp/73705c6b-ac5a-49aa-8929-a4eaeb5197f9
+[2019-11-21 14:32:48.840] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.dbaeumer.jshint-0.10.21: dbaeumer.jshint
+[2019-11-21 14:32:48.840] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/dbaeumer.jshint-0.10.21
+[2019-11-21 14:32:48.841] [sharedprocess] [info] Installation completed. dbaeumer.jshint
+[2019-11-21 14:32:48.879] [sharedprocess] [info] Extensions installed successfully: dbaeumer.jshint

@@ -15,6 +15,9 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][1][Applets][24][Configuration][General]
+noteId=82f561fe-ddca-42e6-9499-765ad60bb2
+
 [Containments][1][ConfigDialog]
 DialogHeight=540
 DialogWidth=720
@@ -27,7 +30,7 @@ ToolBoxButtonState=topright
 ToolBoxButtonX=1890
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/jocimar/Imagens/Wallpaper_Debian/DebiaEvolucaoHumana.jpg
+Image=file:///home/jocimar/Imagens/Wallpappers/grim-reaper-wallpaper-hd-1920x1080-155347.jpg
 
 [Containments][2]
 activityId=
@@ -43,7 +46,7 @@ immutability=1
 plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][18][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 localPath=/home/jocimar/.local/share/plasma_icons/google-chrome.desktop
 url=file:///usr/share/applications/google-chrome.desktop
 
@@ -52,7 +55,7 @@ immutability=1
 plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][19][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 localPath=/home/jocimar/.local/share/plasma_icons/org.kde.dolphin.desktop
 url=file:///usr/share/applications/org.kde.dolphin.desktop
 
@@ -61,7 +64,7 @@ immutability=1
 plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][21][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 localPath=/home/jocimar/.local/share/plasma_icons/firefox-esr (1).desktop
 url=file:///usr/share/applications/firefox-esr.desktop
 
@@ -70,16 +73,25 @@ immutability=1
 plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][23][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 localPath=/home/jocimar/.local/share/plasma_icons/libreoffice-startcenter.desktop
 url=file:///usr/share/applications/libreoffice-startcenter.desktop
+
+[Containments][2][Applets][24]
+immutability=1
+plugin=org.kde.plasma.icon
+
+[Containments][2][Applets][24][Configuration]
+PreloadWeight=18
+localPath=/home/jocimar/.local/share/plasma_icons/insomnia.desktop
+url=file:///usr/share/applications/insomnia.desktop
 
 [Containments][2][Applets][3]
 immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
@@ -116,7 +128,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][6][Configuration]
-PreloadWeight=16
+PreloadWeight=29
 SystrayContainmentId=7
 
 [Containments][2][Applets][8]
@@ -134,7 +146,7 @@ DialogWidth=1920
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=3;4;19;23;18;21;5;6;8
+AppletOrder=3;4;19;23;18;21;24;5;6;8
 
 [Containments][7]
 activityId=
@@ -178,7 +190,14 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][7][Applets][14][Configuration]
-PreloadWeight=1
+PreloadWeight=0
+
+[Containments][7][Applets][14][Configuration][ConfigDialog]
+DialogHeight=540
+DialogWidth=720
+
+[Containments][7][Applets][14][Configuration][General]
+maximumVolume=115
 
 [Containments][7][Applets][15]
 immutability=1
@@ -199,14 +218,14 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][7][Applets][17][Configuration]
-PreloadWeight=0
+PreloadWeight=9
 
 [Containments][7][Applets][22]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][7][Applets][22][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][7][Applets][9]
 immutability=1
@@ -236,7 +255,7 @@ DialogHeight=540
 DialogWidth=720
 
 [Containments][9][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][9][Wallpaper][org.kde.image][General]
 Image=file:///home/jocimar/Imagens/Wallpaper_Debian/DebiaEvolucaoHumana.jpg

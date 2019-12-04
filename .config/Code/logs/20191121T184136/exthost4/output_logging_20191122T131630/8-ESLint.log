@@ -1,0 +1,35 @@
+[Info  - 13:16:30] ESLint server stopped.
+[Info  - 13:16:31] ESLint server running in node v12.4.0
+[Info  - 13:16:31] ESLint server is running.
+[Info  - 13:16:33] 
+Failed to load the ESLint library for the document /Omnistack/backend/src/server.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder backend
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder backend by executing the 'Disable ESLint' command.
+[Info  - 13:16:33] 
+Failed to load the ESLint library for the document /Omnistack/backend/package.json
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder backend
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder backend by executing the 'Disable ESLint' command.
+[Info  - 13:27:07] 
+Failed to load the ESLint library for the document /Omnistack/backend/src/server.js
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder backend
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder backend by executing the 'Disable ESLint' command.
+[Info  - 13:34:57] 
+Failed to load the ESLint library for the document /Omnistack/backend/package.json
+
+To use ESLint please install eslint by running npm install eslint in the workspace folder backend
+or globally using 'npm install -g eslint'. You need to reopen the workspace after installing eslint.
+
+If you are using yarn or pnpm instead of npm set the setting `eslint.packageManager` to either `yarn` or `pnpm`
+Alternatively you can disable ESLint for the workspace folder backend by executing the 'Disable ESLint' command.

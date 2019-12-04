@@ -1,0 +1,24 @@
+[
+    {
+        "enabled": true,
+        "id": "c4ba26277848900c5f4e16b4f9d14b54",
+        "metadata": {
+            "fullname": "xrandr-E2241-SerialNumber",
+            "name": "HDMI-1"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    }
+]

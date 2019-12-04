@@ -9,6 +9,11 @@
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
 
+    // Config. Customização de Cores
+    "editor.tokenColorCustomizations": {
+        "comments": "#b3b3d49a"
+    },
+
     // Config. Linhas Verticais para Quebra de linha
     "editor.rulers": [
         80,
@@ -24,5 +29,9 @@
     "sync.forceUpload": false,
     "sync.quietSync": false,
     "sync.removeExtensions": true,
-    "sync.syncExtensions": true
+    "sync.syncExtensions": true,
+
+    // Aplicando configurações do Spaceship ao terminal integrado do VSCode
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "editor.cursorStyle": "block"
 }

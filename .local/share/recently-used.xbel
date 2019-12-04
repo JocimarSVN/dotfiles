@@ -33,4 +33,84 @@
       </metadata>
     </info>
   </bookmark>
+  <bookmark href="file:///home/jocimar/Documentos/Docs_Pessoais/01nov19%20-%2025nov19.xls" added="2019-11-25T11:35:03Z" modified="2019-11-25T11:45:19Z" visited="2019-11-25T11:35:04Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.1" exec="&apos;soffice %u&apos;" modified="2019-11-25T11:45:19Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jocimar/Downloads/jocimar_protocolorecadastramento.pdf" added="2019-11-25T12:26:04Z" modified="2019-11-25T12:26:04Z" visited="2019-11-25T12:26:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2019-11-25T12:26:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jocimar/Downloads/jocimar_protocolorecadastramento(1).pdf" added="2019-11-25T12:27:09Z" modified="2019-11-25T12:27:09Z" visited="2019-11-25T12:27:09Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2019-11-25T12:27:09Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jocimar/mozilla.pdf" added="2019-11-25T12:27:57Z" modified="2019-11-25T12:27:57Z" visited="2019-11-25T12:27:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2019-11-25T12:27:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jocimar/Downloads/jocimar_protocolorecadastramento(2).pdf" added="2019-11-25T12:29:15Z" modified="2019-11-25T12:29:15Z" visited="2019-11-25T12:29:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2019-11-25T12:29:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jocimar/Documentos/Docs_Pessoais/RecadastramentoPrevPMSJBV2019_2.pdf" added="2019-11-25T13:29:58Z" modified="2019-11-25T13:30:03Z" visited="2019-11-25T13:29:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2019-11-25T13:30:03Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jocimar/Documentos/Docs_Pessoais/RecadastramentoPrevPMSJBV2019_1.pdf" added="2019-11-25T13:30:24Z" modified="2019-11-25T13:30:27Z" visited="2019-11-25T13:30:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2019-11-25T13:30:27Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/jocimar/Documentos/EMMET-VSCode.odt" added="2019-11-26T17:34:52Z" modified="2019-11-26T17:51:46Z" visited="2019-11-26T17:34:52Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.text"/>
+        <bookmark:applications>
+          <bookmark:application name="LibreOffice 6.1" exec="&apos;soffice %u&apos;" modified="2019-11-26T17:51:46Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
 </xbel>

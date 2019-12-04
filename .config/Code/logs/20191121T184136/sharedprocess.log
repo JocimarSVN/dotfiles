@@ -1,0 +1,8 @@
+[2019-11-21 17:41:51.198] [sharedprocess] [info] main {"machineId":"9ed88ad89ca3625950d7f5d691da7b9fac50c3a089361738b03a2b95818df2bf","windowId":2}
+[2019-11-21 17:42:31.207] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-11-22 12:30:17.379] [sharedprocess] [info] Installing extension: ccimage.jsonviewer
+[2019-11-22 12:30:18.174] [sharedprocess] [info] Downloaded extension: ccimage.jsonviewer /tmp/6264f564-4c56-430b-a29b-2cabc227261d
+[2019-11-22 12:30:18.294] [sharedprocess] [info] Extracted extension to /home/jocimar/.vscode/extensions/.ccimage.jsonviewer-1.2.2: ccimage.jsonviewer
+[2019-11-22 12:30:18.295] [sharedprocess] [info] Renamed to /home/jocimar/.vscode/extensions/ccimage.jsonviewer-1.2.2
+[2019-11-22 12:30:18.295] [sharedprocess] [info] Installation completed. ccimage.jsonviewer
+[2019-11-22 12:30:18.332] [sharedprocess] [info] Extensions installed successfully: ccimage.jsonviewer

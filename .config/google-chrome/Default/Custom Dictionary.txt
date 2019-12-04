@@ -1,4 +1,5 @@
 Buster
+CTU
 Componentização
 DHCP
 DRS
@@ -6,8 +7,10 @@ Dashboard
 Edwirges
 Frameworks
 Fusioninventory
+GAB
 GLPI
 GPO
+HC
 Helpdesk
 Hosts
 JOCIMAR
@@ -16,13 +19,19 @@ Kielander
 LDAP
 MariaDB
 NETLOGON
+Offboard
+Onboard
 PHP
 SETUP
 SGBD
 SMTP
+STI
 Silence
 Udemy
+VSA
+Whatsapp
 marketplace
 php
 plugins
-checksum_v1 = 15d04d21fb76852a37d4ab31a80aa4f0
+up
+checksum_v1 = c5c82b9f41548abddddcd8969cdb26ca

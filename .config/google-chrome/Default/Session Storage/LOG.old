@@ -1,33 +1,9 @@
-2019/11/19-15:15:12.374 4d5 Reusing MANIFEST Session Storage/MANIFEST-000001
-2019/11/19-15:15:12.375 4d5 Recovering log #27
-2019/11/19-15:15:12.419 4d5 Reusing old log Session Storage/000027.log 
-2019/11/19-15:21:00.979 797 Level-0 table #32: started
-2019/11/19-15:21:01.042 797 Level-0 table #32: 23216 bytes OK
-2019/11/19-15:21:01.076 797 Delete type=0 #27
-2019/11/19-16:06:52.530 fcd Level-0 table #34: started
-2019/11/19-16:06:52.578 fcd Level-0 table #34: 18024 bytes OK
-2019/11/19-16:06:52.629 fcd Delete type=0 #31
-2019/11/19-17:09:38.739 1ae3 Level-0 table #36: started
-2019/11/19-17:09:38.795 1ae3 Level-0 table #36: 16058 bytes OK
-2019/11/19-17:09:38.853 1ae3 Delete type=0 #33
-2019/11/19-17:12:40.050 1985 Level-0 table #38: started
-2019/11/19-17:12:40.082 1985 Level-0 table #38: 24076 bytes OK
-2019/11/19-17:12:40.117 1985 Delete type=0 #35
-2019/11/19-17:12:40.117 1ae6 Compacting 4@0 + 1@1 files
-2019/11/19-17:12:40.158 1ae6 Generated table #39@0: 676 keys, 51637 bytes
-2019/11/19-17:12:40.158 1ae6 Compacted 4@0 + 1@1 files => 51637 bytes
-2019/11/19-17:12:40.192 1ae6 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/11/19-17:12:40.192 1ae6 Delete type=2 #32
-2019/11/19-17:12:40.192 1ae6 Delete type=2 #29
-2019/11/19-17:12:40.192 1ae6 Delete type=2 #38
-2019/11/19-17:12:40.192 1ae6 Delete type=2 #36
-2019/11/19-17:12:40.192 1ae6 Delete type=2 #34
-2019/11/20-00:04:59.196 3eaa Level-0 table #41: started
-2019/11/20-00:04:59.279 3eaa Level-0 table #41: 10560 bytes OK
-2019/11/20-00:04:59.322 3eaa Delete type=0 #37
-2019/11/21-09:25:08.517 2005 Level-0 table #43: started
-2019/11/21-09:25:08.587 2005 Level-0 table #43: 17364 bytes OK
-2019/11/21-09:25:08.722 2005 Delete type=0 #40
-2019/11/21-10:07:46.632 385b Level-0 table #45: started
-2019/11/21-10:07:46.862 385b Level-0 table #45: 21890 bytes OK
-2019/11/21-10:07:47.022 385b Delete type=0 #42
+2019/11/29-15:06:30.754 1cd8 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/11/29-15:06:30.754 1cd8 Recovering log #175
+2019/11/29-15:06:30.755 1cd8 Reusing old log Session Storage/000175.log 
+2019/11/29-17:00:23.827 24b5 Level-0 table #180: started
+2019/11/29-17:00:23.883 24b5 Level-0 table #180: 20291 bytes OK
+2019/11/29-17:00:23.917 24b5 Delete type=0 #175
+2019/11/29-17:24:03.533 2a12 Level-0 table #182: started
+2019/11/29-17:24:03.568 2a12 Level-0 table #182: 17308 bytes OK
+2019/11/29-17:24:03.619 2a12 Delete type=0 #179

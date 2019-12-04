@@ -5,11 +5,15 @@ Width 1366=640
 Width 1920=1920
 
 [KFileDialog Settings]
-Recent Files[$e]=1489409.jpg,file:$HOME/Imagens/Wallpaper_Debian/DebiaEvolucaoHumana.jpg,file:$HOME/Imagens/Wallpaper_Debian/294691.jpg,file:$HOME/Imagens/personagens-toy-story-debian-2023_display.png,file:$HOME/Imagens/Wallpaper_Debian/294654.jpg,file:$HOME/Imagens/Wallpaper_Debian/294656.jpg,file:$HOME/Imagens/Wallpaper_Debian/294674.jpg,file:$HOME/Imagens/Wallpaper_Debian/ReflectBlack-Debian.png,file:$HOME/Imagens/Wallpaper_Debian/294706.jpg,file:$HOME/Imagens/Wallpaper_Debian/294699.jpg,file:$HOME/Imagens/103056-walpaper_debian_electric_wave_1680x10501.jpg,file:$HOME/Imagens/1489409.jpg
-Recent URLs[$e]=file:$HOME/Imagens/Wallpaper_Debian/
+Recent Files[$e]=1489409.jpg,file:$HOME/Imagens/Wallpappers/grim-reaper-wallpaper-hd-1920x1080-155347.jpg,file:$HOME/Imagens/Wallpaper_Debian/DebiaEvolucaoHumana.jpg,file:$HOME/Imagens/Wallpaper_Debian/294691.jpg,file:$HOME/Imagens/Wallpaper_Debian/294654.jpg,file:$HOME/Imagens/Wallpaper_Debian/294656.jpg,file:$HOME/Imagens/Wallpaper_Debian/294674.jpg,file:$HOME/Imagens/Wallpaper_Debian/ReflectBlack-Debian.png,file:$HOME/Imagens/Wallpaper_Debian/294706.jpg,file:$HOME/Imagens/Wallpaper_Debian/294699.jpg
+Recent URLs[$e]=file:$HOME/Imagens/Wallpappers/
+
+[KPropertiesDialog]
+Height 1080=456
+Width 1920=444
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_desktop.desktop,2 services_kcm_kscreen.desktop,2 services_org.kde.konsole.desktop,1 services_firefox-esr.desktop,8 services_org.kde.yakuake.desktop,1 services_kcm_lookandfeel.desktop,1 services_screenlocker.desktop
+LaunchCounts=1 services_desktop.desktop,2 services_org.remmina.Remmina.desktop,1 services_firefox-esr.desktop,3 shell_snap,3 services_kcm_kscreen.desktop,1 services_screenlocker.desktop,1 services_insomnia.desktop,8 services_org.kde.yakuake.desktop,4 services_system-config-printer.desktop,3 services_org.kde.konsole.desktop,1 services_kcm_lookandfeel.desktop,1 locations_openunknown
 pluginWhiteList=services,places,desktopsessions,PowerDevil,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 2][Horizontal1440]

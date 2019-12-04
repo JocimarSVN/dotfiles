@@ -1,23 +1,29 @@
-2019/11/21-10:12:21.606 3a30 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
-2019/11/21-10:12:21.606 3a30 Recovering log #345
-2019/11/21-10:12:21.646 3a30 Reusing old log /home/jocimar/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000345.log 
-2019/11/21-10:13:22.555 3b17 Level-0 table #349: started
-2019/11/21-10:13:22.704 3b17 Level-0 table #349: 4793215 bytes OK
-2019/11/21-10:13:22.737 3b17 Delete type=0 #345
-2019/11/21-10:14:42.414 3b17 Level-0 table #351: started
-2019/11/21-10:14:42.615 3b17 Level-0 table #351: 4791442 bytes OK
-2019/11/21-10:14:42.643 3b17 Delete type=0 #348
-2019/11/21-10:14:42.824 3b17 Compacting 4@0 + 2@1 files
-2019/11/21-10:14:43.184 3b17 Generated table #352@0: 1 keys, 4791161 bytes
-2019/11/21-10:14:43.243 3b17 Generated table #353@0: 2 keys, 379 bytes
-2019/11/21-10:14:43.243 3b17 Compacted 4@0 + 2@1 files => 4791540 bytes
-2019/11/21-10:14:43.275 3b17 compacted to: files[ 0 2 1 0 0 0 0 ]
-2019/11/21-10:14:43.275 3b17 Delete type=2 #349
-2019/11/21-10:14:43.275 3b17 Delete type=2 #342
-2019/11/21-10:14:43.275 3b17 Delete type=2 #344
-2019/11/21-10:14:43.275 3b17 Delete type=2 #341
-2019/11/21-10:14:43.275 3b17 Delete type=2 #351
-2019/11/21-10:14:43.275 3b17 Delete type=2 #346
-2019/11/21-11:13:23.054 3b17 Level-0 table #355: started
-2019/11/21-11:13:23.195 3b17 Level-0 table #355: 4791355 bytes OK
-2019/11/21-11:13:23.251 3b17 Delete type=0 #350
+2019/12/04-11:45:52.029 670 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2019/12/04-11:45:52.029 670 Recovering log #941
+2019/12/04-11:45:52.120 670 Reusing old log /home/jocimar/.config/google-chrome/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000941.log 
+2019/12/04-11:47:25.974 873 Level-0 table #945: started
+2019/12/04-11:47:26.116 873 Level-0 table #945: 4792126 bytes OK
+2019/12/04-11:47:26.142 873 Delete type=0 #941
+2019/12/04-11:47:27.835 873 Level-0 table #947: started
+2019/12/04-11:47:28.011 873 Level-0 table #947: 4792069 bytes OK
+2019/12/04-11:47:28.042 873 Delete type=0 #944
+2019/12/04-11:47:28.043 873 Compacting 4@0 + 2@1 files
+2019/12/04-11:47:28.221 873 Generated table #948@0: 1 keys, 4791806 bytes
+2019/12/04-11:47:28.288 873 Generated table #949@0: 2 keys, 362 bytes
+2019/12/04-11:47:28.288 873 Compacted 4@0 + 2@1 files => 4792168 bytes
+2019/12/04-11:47:28.383 873 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/12/04-11:47:28.384 873 Delete type=2 #938
+2019/12/04-11:47:28.384 873 Delete type=2 #940
+2019/12/04-11:47:28.384 873 Delete type=2 #945
+2019/12/04-11:47:28.384 873 Delete type=2 #947
+2019/12/04-11:47:28.384 873 Delete type=2 #942
+2019/12/04-11:47:28.384 873 Delete type=2 #937
+2019/12/04-11:47:28.993 873 Level-0 table #951: started
+2019/12/04-11:47:29.155 873 Level-0 table #951: 4792397 bytes OK
+2019/12/04-11:47:29.233 873 Delete type=0 #946
+2019/12/04-11:47:30.220 873 Level-0 table #953: started
+2019/12/04-11:47:30.376 873 Level-0 table #953: 4800087 bytes OK
+2019/12/04-11:47:30.467 873 Delete type=0 #950
+2019/12/04-11:47:33.849 873 Level-0 table #955: started
+2019/12/04-11:47:34.016 873 Level-0 table #955: 4799815 bytes OK
+2019/12/04-11:47:34.101 873 Delete type=0 #952

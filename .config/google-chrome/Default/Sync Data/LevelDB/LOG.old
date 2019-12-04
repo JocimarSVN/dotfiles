@@ -1,45 +1,6 @@
-2019/11/19-15:15:05.835 4de Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/11/19-15:15:05.880 4de Recovering log #25
-2019/11/19-15:15:05.975 4de Reusing old log /home/jocimar/.config/google-chrome/Default/Sync Data/LevelDB/000025.log 
-2019/11/19-15:40:16.427 5e7 Level-0 table #29: started
-2019/11/19-15:40:16.480 5e7 Level-0 table #29: 114672 bytes OK
-2019/11/19-15:40:16.512 5e7 Delete type=0 #25
-2019/11/19-15:40:16.512 5e7 Compacting 4@0 + 1@1 files
-2019/11/19-15:40:16.555 5e7 Generated table #30@0: 531 keys, 118479 bytes
-2019/11/19-15:40:16.555 5e7 Compacted 4@0 + 1@1 files => 118479 bytes
-2019/11/19-15:40:16.586 5e7 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/11/19-15:40:16.586 5e7 Delete type=2 #26
-2019/11/19-15:40:16.586 5e7 Delete type=2 #29
-2019/11/19-15:40:16.586 5e7 Delete type=2 #20
-2019/11/19-15:40:16.586 5e7 Delete type=2 #23
-2019/11/19-15:40:16.586 5e7 Delete type=2 #18
-2019/11/19-16:04:53.624 5e7 Level-0 table #32: started
-2019/11/19-16:04:53.676 5e7 Level-0 table #32: 86473 bytes OK
-2019/11/19-16:04:53.709 5e7 Delete type=0 #28
-2019/11/19-16:34:59.333 5e7 Level-0 table #34: started
-2019/11/19-16:34:59.375 5e7 Level-0 table #34: 91833 bytes OK
-2019/11/19-16:34:59.423 5e7 Delete type=0 #31
-2019/11/19-17:01:03.278 5e7 Level-0 table #36: started
-2019/11/19-17:01:03.310 5e7 Level-0 table #36: 88224 bytes OK
-2019/11/19-17:01:03.343 5e7 Delete type=0 #33
-2019/11/19-17:12:45.592 5e7 Level-0 table #38: started
-2019/11/19-17:12:45.644 5e7 Level-0 table #38: 118992 bytes OK
-2019/11/19-17:12:45.693 5e7 Delete type=0 #35
-2019/11/19-17:12:45.694 5e7 Compacting 4@0 + 1@1 files
-2019/11/19-17:12:45.745 5e7 Generated table #39@0: 579 keys, 121559 bytes
-2019/11/19-17:12:45.745 5e7 Compacted 4@0 + 1@1 files => 121559 bytes
-2019/11/19-17:12:45.775 5e7 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/11/19-17:12:45.775 5e7 Delete type=2 #32
-2019/11/19-17:12:45.775 5e7 Delete type=2 #30
-2019/11/19-17:12:45.775 5e7 Delete type=2 #38
-2019/11/19-17:12:45.776 5e7 Delete type=2 #36
-2019/11/19-17:12:45.776 5e7 Delete type=2 #34
-2019/11/19-21:31:51.227 5e7 Level-0 table #41: started
-2019/11/19-21:31:51.320 5e7 Level-0 table #41: 124065 bytes OK
-2019/11/19-21:31:51.414 5e7 Delete type=0 #37
-2019/11/20-02:01:14.926 5e7 Level-0 table #43: started
-2019/11/20-02:01:14.960 5e7 Level-0 table #43: 126029 bytes OK
-2019/11/20-02:01:14.990 5e7 Delete type=0 #40
-2019/11/21-09:29:48.937 5e7 Level-0 table #45: started
-2019/11/21-09:29:49.093 5e7 Level-0 table #45: 128132 bytes OK
-2019/11/21-09:29:49.252 5e7 Delete type=0 #42
+2019/11/29-15:06:30.632 1ca8 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/11/29-15:06:30.632 1ca8 Recovering log #119
+2019/11/29-15:06:30.633 1ca8 Reusing old log /home/jocimar/.config/google-chrome/Default/Sync Data/LevelDB/000119.log 
+2019/11/29-16:59:32.415 1e66 Level-0 table #124: started
+2019/11/29-16:59:32.449 1e66 Level-0 table #124: 129129 bytes OK
+2019/11/29-16:59:32.479 1e66 Delete type=0 #119

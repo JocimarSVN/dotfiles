@@ -1,1 +1,3 @@
-2019/11/18-09:30:51.843 5c7 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/IndexedDB/https_noticiasdatv.uol.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/22-13:56:48.651 5993 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/IndexedDB/https_noticiasdatv.uol.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/22-13:56:48.651 5993 Recovering log #3
+2019/11/22-13:56:48.660 5993 Reusing old log /home/jocimar/.config/google-chrome/Default/IndexedDB/https_noticiasdatv.uol.com.br_0.indexeddb.leveldb/000003.log 

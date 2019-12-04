@@ -10,15 +10,22 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Última string de substituição:
+$
+
 # Histórico de linha de comando (mais recente primeiro):
-:q
-|2,0,1574346783,,"q"
 :wq
-|2,0,1574346642,,"wq"
+|2,0,1574368843,,"wq"
+:q
+|2,0,1574367626,,"q"
+:q!
+|2,0,1574347117,,"q!"
 :!q
 |2,0,1574346407,,"!q"
 
 # Histórico de expressões de busca (mais recente primeiro):
+? @$
+|2,1,1574361891,,"@$"
 
 # Histórico de expressões (mais recente primeiro):
 
@@ -27,247 +34,280 @@
 # Histórico de linha de debug (mais recente primeiro):
 
 # Registradores:
+""0	CHAR	0
+	/
+|3,1,0,0,1,0,1574361891,"/"
 "1	LINE	0
 	'Área de trabalho'
 |3,0,1,1,1,0,1574346280,"'Área de trabalho'"
 "2	LINE	0
 	'Área de trabalho'
 |3,0,2,1,1,0,1574346220,"'Área de trabalho'"
-""-	CHAR	0
-	o
-|3,1,36,0,1,0,1574346629,"o"
+"-	CHAR	0
+	/
+|3,0,36,0,1,0,1574348628,"/"
 
 # Marcas nos arquivos:
-'0  3  16  ~/.gitignore
-|4,48,3,16,1574346783,"~/.gitignore"
-'1  3  16  ~/.gitignore
-|4,49,3,16,1574346647,"~/.gitignore"
-'2  3  16  ~/.gitignore
-|4,50,3,16,1574346642,"~/.gitignore"
-'3  3  16  ~/.gitignore
-|4,51,3,16,1574346642,"~/.gitignore"
-'4  3  1  ~/.gitignore
-|4,52,3,1,1574346607,"~/.gitignore"
-'5  3  1  ~/.gitignore
-|4,53,3,1,1574346607,"~/.gitignore"
-'6  3  1  ~/.gitignore
-|4,54,3,1,1574346607,"~/.gitignore"
-'7  3  1  ~/.gitignore
-|4,55,3,1,1574346607,"~/.gitignore"
-'8  3  35  ~/.gitignore
-|4,56,3,35,1574346560,"~/.gitignore"
-'9  4  18  ~/.gitignore
-|4,57,4,18,1574346560,"~/.gitignore"
+'0  131  38  ~/.zshrc
+|4,48,131,38,1574368843,"~/.zshrc"
+'1  119  0  ~/.zshrc
+|4,49,119,0,1574368692,"~/.zshrc"
+'2  119  0  ~/.zshrc
+|4,50,119,0,1574368692,"~/.zshrc"
+'3  11  19  ~/.zshrc
+|4,51,11,19,1574368438,"~/.zshrc"
+'4  11  19  ~/.zshrc
+|4,52,11,19,1574368438,"~/.zshrc"
+'5  11  19  ~/.zshrc
+|4,53,11,19,1574368438,"~/.zshrc"
+'6  11  19  ~/.zshrc
+|4,54,11,19,1574368438,"~/.zshrc"
+'7  135  0  ~/zsh/dracula.zsh-theme
+|4,55,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+'8  8  0  /etc/apt/sources.list.d
+|4,56,8,0,1574361904,"/etc/apt/sources.list.d"
+'9  11  9  ~/.gitignore
+|4,57,11,9,1574348747,"~/.gitignore"
 
 # Lista de saltos (mais recente primeiro):
--'  3  16  ~/.gitignore
-|4,39,3,16,1574346783,"~/.gitignore"
--'  3  16  ~/.gitignore
-|4,39,3,16,1574346647,"~/.gitignore"
--'  3  16  ~/.gitignore
-|4,39,3,16,1574346642,"~/.gitignore"
--'  3  1  ~/.gitignore
-|4,39,3,1,1574346607,"~/.gitignore"
--'  4  18  ~/.gitignore
-|4,39,4,18,1574346579,"~/.gitignore"
--'  4  18  ~/.gitignore
-|4,39,4,18,1574346579,"~/.gitignore"
--'  4  18  ~/.gitignore
-|4,39,4,18,1574346579,"~/.gitignore"
--'  5  18  ~/.gitignore
-|4,39,5,18,1574346560,"~/.gitignore"
--'  5  18  ~/.gitignore
-|4,39,5,18,1574346560,"~/.gitignore"
--'  4  18  ~/.gitignore
-|4,39,4,18,1574346560,"~/.gitignore"
--'  5  18  ~/.gitignore
-|4,39,5,18,1574346560,"~/.gitignore"
--'  3  25  ~/.gitignore
-|4,39,3,25,1574346469,"~/.gitignore"
--'  3  25  ~/.gitignore
-|4,39,3,25,1574346414,"~/.gitignore"
--'  3  25  ~/.gitignore
-|4,39,3,25,1574346402,"~/.gitignore"
--'  1  63  ~/.gitignore
-|4,39,1,63,1574346217,"~/.gitignore"
--'  1  63  ~/.gitignore
-|4,39,1,63,1574346217,"~/.gitignore"
--'  1  63  ~/.gitignore
-|4,39,1,63,1574346217,"~/.gitignore"
--'  1  63  ~/.gitignore
-|4,39,1,63,1574346217,"~/.gitignore"
--'  1  63  ~/.gitignore
-|4,39,1,63,1574346217,"~/.gitignore"
--'  1  63  ~/.gitignore
-|4,39,1,63,1574346217,"~/.gitignore"
--'  1  63  ~/.gitignore
-|4,39,1,63,1574346217,"~/.gitignore"
--'  10  6  ~/.gitignore
-|4,39,10,6,1574346191,"~/.gitignore"
--'  8  6  ~/.gitignore
-|4,39,8,6,1574346191,"~/.gitignore"
--'  11  6  ~/.gitignore
-|4,39,11,6,1574346191,"~/.gitignore"
--'  9  6  ~/.gitignore
-|4,39,9,6,1574346191,"~/.gitignore"
--'  12  6  ~/.gitignore
-|4,39,12,6,1574346191,"~/.gitignore"
--'  10  6  ~/.gitignore
-|4,39,10,6,1574346191,"~/.gitignore"
--'  8  6  ~/.gitignore
-|4,39,8,6,1574346191,"~/.gitignore"
--'  11  6  ~/.gitignore
-|4,39,11,6,1574346191,"~/.gitignore"
--'  9  6  ~/.gitignore
-|4,39,9,6,1574346191,"~/.gitignore"
--'  12  6  ~/.gitignore
-|4,39,12,6,1574346191,"~/.gitignore"
--'  10  6  ~/.gitignore
-|4,39,10,6,1574346191,"~/.gitignore"
--'  8  6  ~/.gitignore
-|4,39,8,6,1574346191,"~/.gitignore"
--'  11  6  ~/.gitignore
-|4,39,11,6,1574346191,"~/.gitignore"
--'  9  6  ~/.gitignore
-|4,39,9,6,1574346191,"~/.gitignore"
--'  11  6  ~/.gitignore
-|4,39,11,6,1574346191,"~/.gitignore"
--'  9  6  ~/.gitignore
-|4,39,9,6,1574346191,"~/.gitignore"
--'  12  6  ~/.gitignore
-|4,39,12,6,1574346191,"~/.gitignore"
--'  10  6  ~/.gitignore
-|4,39,10,6,1574346191,"~/.gitignore"
--'  10  6  ~/.gitignore
-|4,39,10,6,1574346191,"~/.gitignore"
--'  7  6  ~/.gitignore
-|4,39,7,6,1574346042,"~/.gitignore"
--'  7  6  ~/.gitignore
-|4,39,7,6,1574346042,"~/.gitignore"
--'  7  6  ~/.gitignore
-|4,39,7,6,1574346042,"~/.gitignore"
--'  10  6  ~/.gitignore
-|4,39,10,6,1574346042,"~/.gitignore"
--'  8  6  ~/.gitignore
-|4,39,8,6,1574346042,"~/.gitignore"
--'  11  6  ~/.gitignore
-|4,39,11,6,1574346042,"~/.gitignore"
--'  9  6  ~/.gitignore
-|4,39,9,6,1574346042,"~/.gitignore"
--'  9  6  ~/.gitignore
-|4,39,9,6,1574346042,"~/.gitignore"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
--'  1  0  ~/.face
-|4,39,1,0,1574345794,"~/.face"
+-'  131  38  ~/.zshrc
+|4,39,131,38,1574368843,"~/.zshrc"
+-'  119  0  ~/.zshrc
+|4,39,119,0,1574368754,"~/.zshrc"
+-'  119  0  ~/.zshrc
+|4,39,119,0,1574368692,"~/.zshrc"
+-'  11  19  ~/.zshrc
+|4,39,11,19,1574368526,"~/.zshrc"
+-'  11  19  ~/.zshrc
+|4,39,11,19,1574368526,"~/.zshrc"
+-'  11  19  ~/.zshrc
+|4,39,11,19,1574368438,"~/.zshrc"
+-'  135  0  ~/zsh/dracula.zsh-theme
+|4,39,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+-'  135  0  ~/zsh/dracula.zsh-theme
+|4,39,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+-'  135  0  ~/zsh/dracula.zsh-theme
+|4,39,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+-'  135  0  ~/zsh/dracula.zsh-theme
+|4,39,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+-'  135  0  ~/zsh/dracula.zsh-theme
+|4,39,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+-'  135  0  ~/zsh/dracula.zsh-theme
+|4,39,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+-'  135  0  ~/zsh/dracula.zsh-theme
+|4,39,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+-'  135  0  ~/zsh/dracula.zsh-theme
+|4,39,135,0,1574367626,"~/zsh/dracula.zsh-theme"
+-'  1  0  ~/zsh/dracula.zsh-theme
+|4,39,1,0,1574367605,"~/zsh/dracula.zsh-theme"
+-'  1  0  ~/zsh/dracula.zsh-theme
+|4,39,1,0,1574367605,"~/zsh/dracula.zsh-theme"
+-'  1  0  ~/zsh/dracula.zsh-theme
+|4,39,1,0,1574367605,"~/zsh/dracula.zsh-theme"
+-'  1  0  ~/zsh/dracula.zsh-theme
+|4,39,1,0,1574367605,"~/zsh/dracula.zsh-theme"
+-'  1  0  ~/zsh/dracula.zsh-theme
+|4,39,1,0,1574367605,"~/zsh/dracula.zsh-theme"
+-'  1  0  ~/zsh/dracula.zsh-theme
+|4,39,1,0,1574367605,"~/zsh/dracula.zsh-theme"
+-'  1  0  ~/zsh/dracula.zsh-theme
+|4,39,1,0,1574367605,"~/zsh/dracula.zsh-theme"
+-'  1  0  ~/zsh/dracula.zsh-theme
+|4,39,1,0,1574367605,"~/zsh/dracula.zsh-theme"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  8  0  /etc/apt/sources.list.d
+|4,39,8,0,1574361904,"/etc/apt/sources.list.d"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348747,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
+-'  11  9  ~/.gitignore
+|4,39,11,9,1574348708,"~/.gitignore"
 
 # Histórico de marcas nos arquivos (mais recente primeiro):
 
+> ~/.zshrc
+	*	1574368840	0
+	"	131	38
+	^	131	39
+	.	131	38
+	+	11	19
+	+	101	70
+	+	119	32
+	+	105	2
+	+	106	2
+	+	107	2
+	+	108	0
+	+	109	0
+	+	110	0
+	+	111	0
+	+	112	0
+	+	113	0
+	+	114	0
+	+	115	0
+	+	116	0
+	+	117	0
+	+	118	0
+	+	119	0
+	+	127	37
+	+	131	38
+
+> ~/zsh/dracula.zsh-theme
+	*	1574367624	0
+	"	135	0
+
 > ~/.gitignore
-	*	1574346782	0
-	"	3	16
-	^	3	17
-	.	4	0
+	*	1574348718	0
+	"	11	9
+	^	11	10
+	.	11	9
 	+	1	19
 	+	11	0
 	+	1	2
@@ -283,20 +323,11 @@
 	+	3	17
 	+	3	15
 	+	4	0
+	+	11	0
+	+	11	9
 
 > ~/.face
 	*	1574345791	0
-	"	1	0
-
-> ~/.zshrc
-	*	1574107476	0
-	"	11	18
-	^	11	28
-	.	11	18
-	+	11	18
-
-> ~/zsh/dracula.zsh-theme
-	*	1574107203	0
 	"	1	0
 
 > ~/.oh-my-zsh/themes/dracula.zsh-theme

@@ -1,5 +1,5 @@
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-e5873923-bd14-4e96-a2fe-6f67467cc1e7]
-ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:virtualbox.desktop,applications:google-chrome.desktop,applications:code.desktop,applications:org.kde.yakuake.desktop
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:virtualbox.desktop,applications:code.desktop,applications:google-chrome.desktop,applications:firefox-esr.desktop,applications:org.kde.yakuake.desktop,applications:org.remmina.Remmina.desktop,applications:insomnia.desktop
 
 [Favorites-org.kde.plasma.kickoff.favorites.instance-3-global]
-ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:virtualbox.desktop,applications:google-chrome.desktop,applications:code.desktop,applications:org.kde.yakuake.desktop
+ordering=applications:systemsettings.desktop,applications:org.kde.dolphin.desktop,applications:org.kde.discover.desktop,applications:virtualbox.desktop,applications:code.desktop,applications:google-chrome.desktop,applications:firefox-esr.desktop,applications:org.kde.yakuake.desktop,applications:org.remmina.Remmina.desktop,applications:insomnia.desktop

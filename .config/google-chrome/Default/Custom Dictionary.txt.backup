@@ -10,6 +10,7 @@ GLPI
 GPO
 Helpdesk
 Hosts
+JOCIMAR
 Jocimar
 Kielander
 LDAP
@@ -24,4 +25,4 @@ Udemy
 marketplace
 php
 plugins
-checksum_v1 = 8d1768979e7741d4b2b5685a58e3a9ae
+checksum_v1 = 15d04d21fb76852a37d4ab31a80aa4f0

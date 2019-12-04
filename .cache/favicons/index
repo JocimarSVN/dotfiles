@@ -1,8 +1,13 @@
 code.visualstudio.com/docs/editor/tasks=https://code.visualstudio.com/favicon.ico
+dl.google.com/linux=http://dl.google.com/favicon.ico
+dl.google.com/linux/chrome=http://dl.google.com/favicon.ico
+dl.google.com/linux/chrome/deb=http://dl.google.com/favicon.ico
 dotnet.microsoft.com/download/dotnet-core=https://dotnet.microsoft.com/favicon.ico
 dotnet.microsoft.com/download/dotnet-core/sdk-for-vs-code=https://dotnet.microsoft.com/favicon.ico
 dotnet.microsoft.com/download/linux-package-manager/sdk-current=https://dotnet.microsoft.com/favicon.ico
+github.com/JocimarSVN/dotfiles=https://github.githubassets.com/favicon.ico
 github.com/login=https://github.githubassets.com/favicon.ico
 github.com/shanalikhan/code-settings-sync/issues=https://github.githubassets.com/favicon.ico
 marketplace.visualstudio.com/items=https://marketplace.visualstudio.com/favicon.ico
 store.kde.org/p/1106256=https://store.kde.org/images_sys/store_logo/kde-store.ico
+www.google.com/chrome=https://www.google.com/chrome/static/images/favicons/android-icon-192x192.png

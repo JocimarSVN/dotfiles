@@ -6,5 +6,7 @@ State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG
 ToolBarsMovable=Disabled
 
 [Recent Files]
-File1[$e]=$HOME/Downloads/Novo Documento 2019-04-30 14.53.38.pdf
-Name1[$e]=Novo Documento 2019-04-30 14.53.38.pdf
+File1[$e]=smb://saojoao%5Csti-jocimar@172.16.0.180/TOOLS (STI)/Documentos/Jocimar/RecadastramentoPrevidencia2019.pdf
+File2[$e]=/media/jocimar/PENJOCI_8GB/Beto/BETO FARMACIA ALTO CUSTO - SOLICITA\xc3\x87\xc3\x83O DE MEDICAMENTOS - 2.jpg
+Name1[$e]=RecadastramentoPrevidencia2019.pdf
+Name2[$e]=BETO FARMACIA ALTO CUSTO - SOLICITA\xc3\x87\xc3\x83O DE MEDICAMENTOS - 2.jpg

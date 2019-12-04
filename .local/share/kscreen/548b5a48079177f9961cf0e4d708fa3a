@@ -1,0 +1,46 @@
+[
+    {
+        "enabled": true,
+        "id": "c4ba26277848900c5f4e16b4f9d14b54",
+        "metadata": {
+            "fullname": "xrandr-E2241-SerialNumber",
+            "name": "HDMI-1"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rotation": 1,
+        "scale": 1
+    },
+    {
+        "enabled": true,
+        "id": "df783e73b7bc654328d4a6a478da0057",
+        "metadata": {
+            "fullname": "xrandr-LEN E2002bA-VA184039",
+            "name": "DP-2"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 900,
+                "width": 1600
+            }
+        },
+        "pos": {
+            "x": 2520,
+            "y": 0
+        },
+        "primary": false,
+        "rotation": 1,
+        "scale": 1
+    }
+]

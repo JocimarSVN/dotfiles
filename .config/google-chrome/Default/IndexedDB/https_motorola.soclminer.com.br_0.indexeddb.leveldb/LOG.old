@@ -1,0 +1,5 @@
+2019/11/25-15:09:34.495 2e88 Reusing MANIFEST /home/jocimar/.config/google-chrome/Default/IndexedDB/https_motorola.soclminer.com.br_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/25-15:09:34.972 1356 Level-0 table #5: started
+2019/11/25-15:09:35.005 1356 Level-0 table #5: 577 bytes OK
+2019/11/25-15:09:35.056 1356 Delete type=0 #3
+2019/11/25-15:09:35.056 1356 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

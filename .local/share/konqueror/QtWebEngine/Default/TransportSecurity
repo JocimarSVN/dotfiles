@@ -55,12 +55,12 @@
    },
    "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1585227650.153937,
+      "expiry": 1585248448.738478,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 0.0,
       "sts_include_subdomains": true,
-      "sts_observed": 1574341250.153945
+      "sts_observed": 1574362048.738485
    },
    "QKmY3BmE7X/qivMvQdGV4i/aLZjqoCfyhHTMGDUI9zk=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -82,12 +82,12 @@
    },
    "bVzOnu6xyelN8iVLDSbFjyZVgXrXDyLSokjnq2hdUFs=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1605879739.665905,
+      "expiry": 1605886035.844853,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 0.0,
       "sts_include_subdomains": true,
-      "sts_observed": 1574343739.665913
+      "sts_observed": 1574350035.84486
    },
    "bvX4PpTCW5oYCQv3FySIixdkmM+paN/l+o4e/8K1m3o=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -100,12 +100,12 @@
    },
    "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
       "dynamic_spki_hashes_expiry": 0.0,
-      "expiry": 1584990419.237776,
+      "expiry": 1585248447.763371,
       "mode": "force-https",
       "pkp_include_subdomains": false,
       "pkp_observed": 0.0,
       "sts_include_subdomains": true,
-      "sts_observed": 1574104019.237779
+      "sts_observed": 1574362047.763379
    },
    "kTBZlNzaAygsyUNLLJvF9CS33eqAcPjUb75PGjCOtnM=": {
       "dynamic_spki_hashes_expiry": 0.0,
@@ -124,6 +124,15 @@
       "pkp_observed": 0.0,
       "sts_include_subdomains": false,
       "sts_observed": 1574343538.095442
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1605898047.940362,
+      "mode": "force-https",
+      "pkp_include_subdomains": false,
+      "pkp_observed": 0.0,
+      "sts_include_subdomains": false,
+      "sts_observed": 1574362047.940381
    },
    "qOq9d3Vj/FCJMQBeLoGIOe5T74snNp8yRtzOZDIEwwo=": {
       "dynamic_spki_hashes_expiry": 0.0,

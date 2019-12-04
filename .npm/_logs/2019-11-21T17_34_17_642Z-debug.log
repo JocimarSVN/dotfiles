@@ -1,0 +1,183 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', '-g', 'jshint' ]
+2 info using npm@6.11.3
+3 info using node@v10.17.0
+4 verbose npm-session 325ad89c9799f96a
+5 silly install loadCurrentTree
+6 silly install readGlobalPackageData
+7 http fetch GET 200 https://registry.npmjs.org/jshint 5302ms
+8 silly pacote tag manifest for jshint@latest fetched in 5316ms
+9 timing stage:loadCurrentTree Completed in 5331ms
+10 silly install loadIdealTree
+11 silly install cloneCurrentTreeToIdealTree
+12 timing stage:loadIdealTree:cloneCurrentTree Completed in 0ms
+13 silly install loadShrinkwrap
+14 timing stage:loadIdealTree:loadShrinkwrap Completed in 1ms
+15 silly install loadAllDepsIntoIdealTree
+16 silly resolveWithNewModule jshint@2.10.3 checking installable status
+17 http fetch GET 200 https://registry.npmjs.org/cli 57ms
+18 silly pacote range manifest for cli@~1.0.0 fetched in 61ms
+19 silly resolveWithNewModule cli@1.0.1 checking installable status
+20 http fetch GET 200 https://registry.npmjs.org/shelljs 130ms
+21 http fetch GET 200 https://registry.npmjs.org/strip-json-comments 132ms
+22 http fetch GET 200 https://registry.npmjs.org/htmlparser2 134ms
+23 http fetch GET 200 https://registry.npmjs.org/console-browserify 140ms
+24 http fetch GET 200 https://registry.npmjs.org/exit 140ms
+25 http fetch GET 200 https://registry.npmjs.org/minimatch 137ms
+26 http fetch GET 200 https://registry.npmjs.org/lodash 149ms
+27 silly pacote range manifest for exit@0.1.x fetched in 153ms
+28 silly resolveWithNewModule exit@0.1.2 checking installable status
+29 silly pacote range manifest for lodash@~4.17.11 fetched in 152ms
+30 silly resolveWithNewModule lodash@4.17.15 checking installable status
+31 http fetch GET 200 https://registry.npmjs.org/minimatch/-/minimatch-3.0.4.tgz 86ms
+32 http fetch GET 200 https://registry.npmjs.org/console-browserify/-/console-browserify-1.1.0.tgz 89ms
+33 http fetch GET 200 https://registry.npmjs.org/strip-json-comments/-/strip-json-comments-1.0.4.tgz 93ms
+34 http fetch GET 200 https://registry.npmjs.org/htmlparser2/-/htmlparser2-3.8.3.tgz 93ms
+35 http fetch GET 200 https://registry.npmjs.org/shelljs/-/shelljs-0.3.0.tgz 100ms
+36 silly pacote range manifest for minimatch@~3.0.2 fetched in 238ms
+37 silly resolveWithNewModule minimatch@3.0.4 checking installable status
+38 silly pacote range manifest for console-browserify@1.1.x fetched in 240ms
+39 silly resolveWithNewModule console-browserify@1.1.0 checking installable status
+40 silly pacote range manifest for strip-json-comments@1.0.x fetched in 237ms
+41 silly resolveWithNewModule strip-json-comments@1.0.4 checking installable status
+42 silly pacote range manifest for htmlparser2@3.8.x fetched in 240ms
+43 silly resolveWithNewModule htmlparser2@3.8.3 checking installable status
+44 silly pacote range manifest for shelljs@0.3.x fetched in 238ms
+45 silly resolveWithNewModule shelljs@0.3.0 checking installable status
+46 http fetch GET 200 https://registry.npmjs.org/glob 60ms
+47 silly pacote range manifest for glob@^7.1.1 fetched in 69ms
+48 silly resolveWithNewModule glob@7.1.6 checking installable status
+49 http fetch GET 200 https://registry.npmjs.org/inherits 54ms
+50 http fetch GET 200 https://registry.npmjs.org/inflight 56ms
+51 http fetch GET 200 https://registry.npmjs.org/path-is-absolute 54ms
+52 http fetch GET 200 https://registry.npmjs.org/once 56ms
+53 silly pacote range manifest for inherits@2 fetched in 64ms
+54 silly resolveWithNewModule inherits@2.0.4 checking installable status
+55 silly pacote range manifest for once@^1.3.0 fetched in 65ms
+56 silly resolveWithNewModule once@1.4.0 checking installable status
+57 http fetch GET 200 https://registry.npmjs.org/path-is-absolute/-/path-is-absolute-1.0.1.tgz 49ms
+58 silly pacote range manifest for path-is-absolute@^1.0.0 fetched in 112ms
+59 silly resolveWithNewModule path-is-absolute@1.0.1 checking installable status
+60 http fetch GET 200 https://registry.npmjs.org/fs.realpath 133ms
+61 silly pacote range manifest for fs.realpath@^1.0.0 fetched in 138ms
+62 silly resolveWithNewModule fs.realpath@1.0.0 checking installable status
+63 http fetch GET 200 https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz 106ms
+64 silly pacote range manifest for inflight@^1.0.4 fetched in 171ms
+65 silly resolveWithNewModule inflight@1.0.6 checking installable status
+66 http fetch GET 200 https://registry.npmjs.org/wrappy 47ms
+67 http fetch GET 200 https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz 59ms
+68 silly pacote range manifest for wrappy@1 fetched in 115ms
+69 silly resolveWithNewModule wrappy@1.0.2 checking installable status
+70 http fetch GET 200 https://registry.npmjs.org/brace-expansion 95ms
+71 silly pacote range manifest for brace-expansion@^1.1.7 fetched in 106ms
+72 silly resolveWithNewModule brace-expansion@1.1.11 checking installable status
+73 http fetch GET 200 https://registry.npmjs.org/concat-map 44ms
+74 http fetch GET 200 https://registry.npmjs.org/balanced-match 48ms
+75 silly pacote version manifest for concat-map@0.0.1 fetched in 56ms
+76 silly resolveWithNewModule concat-map@0.0.1 checking installable status
+77 silly pacote range manifest for balanced-match@^1.0.0 fetched in 58ms
+78 silly resolveWithNewModule balanced-match@1.0.0 checking installable status
+79 http fetch GET 200 https://registry.npmjs.org/date-now 42ms
+80 silly pacote range manifest for date-now@^0.1.4 fetched in 48ms
+81 silly resolveWithNewModule date-now@0.1.4 checking installable status
+82 http fetch GET 200 https://registry.npmjs.org/domelementtype 74ms
+83 http fetch GET 200 https://registry.npmjs.org/domutils 102ms
+84 http fetch GET 200 https://registry.npmjs.org/entities 102ms
+85 http fetch GET 200 https://registry.npmjs.org/domhandler 115ms
+86 http fetch GET 200 https://registry.npmjs.org/readable-stream 122ms
+87 silly pacote range manifest for domelementtype@1 fetched in 130ms
+88 silly resolveWithNewModule domelementtype@1.3.1 checking installable status
+89 http fetch GET 200 https://registry.npmjs.org/readable-stream/-/readable-stream-1.1.14.tgz 60ms
+90 http fetch GET 200 https://registry.npmjs.org/entities/-/entities-1.0.0.tgz 78ms
+91 http fetch GET 200 https://registry.npmjs.org/domutils/-/domutils-1.5.1.tgz 80ms
+92 http fetch GET 200 https://registry.npmjs.org/domhandler/-/domhandler-2.3.0.tgz 71ms
+93 silly pacote range manifest for readable-stream@1.1 fetched in 191ms
+94 silly resolveWithNewModule readable-stream@1.1.14 checking installable status
+95 silly pacote range manifest for entities@1.0 fetched in 192ms
+96 silly resolveWithNewModule entities@1.0.0 checking installable status
+97 silly pacote range manifest for domutils@1.5 fetched in 194ms
+98 silly resolveWithNewModule domutils@1.5.1 checking installable status
+99 silly pacote range manifest for domhandler@2.3 fetched in 196ms
+100 silly resolveWithNewModule domhandler@2.3.0 checking installable status
+101 http fetch GET 200 https://registry.npmjs.org/dom-serializer 53ms
+102 silly pacote range manifest for dom-serializer@0 fetched in 61ms
+103 silly resolveWithNewModule dom-serializer@0.2.2 checking installable status
+104 silly pacote range manifest for domelementtype@^2.0.1 fetched in 9ms
+105 silly resolveWithNewModule domelementtype@2.0.1 checking installable status
+106 silly pacote range manifest for entities@^2.0.0 fetched in 10ms
+107 silly resolveWithNewModule entities@2.0.0 checking installable status
+108 http fetch GET 200 https://registry.npmjs.org/isarray 58ms
+109 http fetch GET 200 https://registry.npmjs.org/core-util-is 66ms
+110 http fetch GET 200 https://registry.npmjs.org/string_decoder 65ms
+111 silly pacote range manifest for core-util-is@~1.0.0 fetched in 75ms
+112 silly resolveWithNewModule core-util-is@1.0.2 checking installable status
+113 http fetch GET 200 https://registry.npmjs.org/isarray/-/isarray-0.0.1.tgz 59ms
+114 silly pacote version manifest for isarray@0.0.1 fetched in 124ms
+115 silly resolveWithNewModule isarray@0.0.1 checking installable status
+116 http fetch GET 200 https://registry.npmjs.org/string_decoder/-/string_decoder-0.10.31.tgz 203ms
+117 silly pacote range manifest for string_decoder@~0.10.x fetched in 277ms
+118 silly resolveWithNewModule string_decoder@0.10.31 checking installable status
+119 timing stage:loadIdealTree:loadAllDepsIntoIdealTree Completed in 1475ms
+120 timing stage:loadIdealTree Completed in 1500ms
+121 silly currentTree lib
+122 silly idealTree lib
+122 silly idealTree └─┬ jshint@2.10.3
+122 silly idealTree   ├── balanced-match@1.0.0
+122 silly idealTree   ├── brace-expansion@1.1.11
+122 silly idealTree   ├── cli@1.0.1
+122 silly idealTree   ├── concat-map@0.0.1
+122 silly idealTree   ├── console-browserify@1.1.0
+122 silly idealTree   ├── core-util-is@1.0.2
+122 silly idealTree   ├── date-now@0.1.4
+122 silly idealTree   ├─┬ dom-serializer@0.2.2
+122 silly idealTree   │ ├── domelementtype@2.0.1
+122 silly idealTree   │ └── entities@2.0.0
+122 silly idealTree   ├── domelementtype@1.3.1
+122 silly idealTree   ├── domhandler@2.3.0
+122 silly idealTree   ├── domutils@1.5.1
+122 silly idealTree   ├── entities@1.0.0
+122 silly idealTree   ├── exit@0.1.2
+122 silly idealTree   ├── fs.realpath@1.0.0
+122 silly idealTree   ├── glob@7.1.6
+122 silly idealTree   ├── htmlparser2@3.8.3
+122 silly idealTree   ├── inflight@1.0.6
+122 silly idealTree   ├── inherits@2.0.4
+122 silly idealTree   ├── isarray@0.0.1
+122 silly idealTree   ├── lodash@4.17.15
+122 silly idealTree   ├── minimatch@3.0.4
+122 silly idealTree   ├── once@1.4.0
+122 silly idealTree   ├── path-is-absolute@1.0.1
+122 silly idealTree   ├── readable-stream@1.1.14
+122 silly idealTree   ├── shelljs@0.3.0
+122 silly idealTree   ├── string_decoder@0.10.31
+122 silly idealTree   ├── strip-json-comments@1.0.4
+122 silly idealTree   └── wrappy@1.0.2
+123 silly install generateActionsToTake
+124 warn checkPermissions Missing write access to /usr/lib/node_modules
+125 timing stage:rollbackFailedOptional Completed in 1ms
+126 timing stage:runTopLevelLifecycles Completed in 6845ms
+127 verbose stack Error: EACCES: permission denied, access '/usr/lib/node_modules'
+128 verbose cwd /home/jocimar
+129 verbose Linux 4.19.0-6-amd64
+130 verbose argv "/usr/bin/node" "/usr/bin/npm" "install" "-g" "jshint"
+131 verbose node v10.17.0
+132 verbose npm  v6.11.3
+133 error code EACCES
+134 error syscall access
+135 error path /usr/lib/node_modules
+136 error errno -13
+137 error Error: EACCES: permission denied, access '/usr/lib/node_modules'
+137 error  { [Error: EACCES: permission denied, access '/usr/lib/node_modules']
+137 error   stack:
+137 error    'Error: EACCES: permission denied, access \'/usr/lib/node_modules\'',
+137 error   errno: -13,
+137 error   code: 'EACCES',
+137 error   syscall: 'access',
+137 error   path: '/usr/lib/node_modules' }
+138 error The operation was rejected by your operating system.
+138 error It is likely you do not have the permissions to access this file as the current user
+138 error
+138 error If you believe this might be a permissions issue, please double-check the
+138 error permissions of the file and its containing directories, or try running
+138 error the command again as root/Administrator.
+139 verbose exit [ -13, true ]

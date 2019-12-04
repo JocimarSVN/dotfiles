@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Development;
+Comment=Debug APIs like a human, not a robot
+Exec=/opt/Insomnia/insomnia %U
+Icon=insomnia
+MimeType=x-scheme-handler/insomnia;
+Name=Insomnia
+StartupWMClass=Insomnia
+Terminal=false
+Type=Application
